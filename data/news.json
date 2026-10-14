@@ -2678,5 +2678,123 @@
    "warnings": [],
    "day": "2026-10-08"
   }
- ]
+ ],
+ "celeb": {
+  "rows": [
+   {
+    "Ticker": "DJT",
+    "Company_or_Name": "Trump Media & Technology Group",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "由 Donald J. Trump Revocable Trust 持有，有出售限制（年度申報列示）",
+    "Source": "OGE 278e 2025年度申報"
+   },
+   {
+    "Ticker": "MSFT",
+    "Company_or_Name": "Microsoft",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
+    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+   },
+   {
+    "Ticker": "NVDA",
+    "Company_or_Name": "NVIDIA",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
+    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+   },
+   {
+    "Ticker": "IBM",
+    "Company_or_Name": "IBM",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
+    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+   },
+   {
+    "Ticker": "MCD",
+    "Company_or_Name": "McDonald's",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
+    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+   },
+   {
+    "Ticker": "SPCX",
+    "Company_or_Name": "SpaceX",
+    "Held_By": "elonmusk",
+    "Approximate_Notes": "約48.4% A股（折算後6,418,547,515股），投票權約82%",
+    "Source": "SEC Schedule 13G 2026-08-13（截至6/30）"
+   },
+   {
+    "Ticker": "TSLA",
+    "Company_or_Name": "Tesla",
+    "Held_By": "elonmusk",
+    "Approximate_Notes": "約19.9%（699,580,882股，不含有爭議的績效獎勵股）",
+    "Source": "SEC SC 13G/A 2026-06-17"
+   },
+   {
+    "Ticker": "SIVE",
+    "Company_or_Name": "Sivers Semiconductors",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱持有100萬股以上，最大個人股東之一",
+    "Source": "X貼文 2026-07-10"
+   },
+   {
+    "Ticker": "AXTI",
+    "Company_or_Name": "AXT Inc",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱仍持有（still long）",
+    "Source": "X貼文 2026-08-13"
+   },
+   {
+    "Ticker": "IQE",
+    "Company_or_Name": "IQE plc",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱仍持有（still long）",
+    "Source": "X貼文 2026-08-13"
+   },
+   {
+    "Ticker": "HPS.A",
+    "Company_or_Name": "Hammond Power Solutions",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱仍有部位",
+    "Source": "X貼文 2026-08-18"
+   },
+   {
+    "Ticker": "RKLB",
+    "Company_or_Name": "Rocket Lab",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱持有",
+    "Source": "X貼文 2026-08-05"
+   },
+   {
+    "Ticker": "LPK",
+    "Company_or_Name": "LPKF Laser & Electronics",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱持有",
+    "Source": "X貼文 2026-07-03"
+   },
+   {
+    "Ticker": "CCXI",
+    "Company_or_Name": "Agility Robotics（經 Churchill Capital XI 合併，預定代號 AGLT）",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱持有 Agility Robotics；10/13 S-4 生效，預計11月掛牌",
+    "Source": "X貼文 2026-07-05、2026-10-13"
+   },
+   {
+    "Ticker": "EWY",
+    "Company_or_Name": "iShares MSCI South Korea ETF",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱仍做多記憶體（以EWY為例）",
+    "Source": "X貼文 2026-09-21"
+   },
+   {
+    "Ticker": "DRAM",
+    "Company_or_Name": "記憶體主題ETF（DRAM）",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱仍做多記憶體（以DRAM為例）",
+    "Source": "X貼文 2026-09-21"
+   }
+  ],
+  "md": "# 名人持股與貼文整理（2026-10-14）\n\n整理時間：2026-10-14 22:50（台北）。貼文範圍：2026-10-12 至 10-14（台北時間）。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- 10/12 晚上到 10/14 中午共發了約 25 則，幾乎都是只有連結的影片或圖片，文字內容抓不到。\n- 有文字的一則（10/14 12:30）是講治安和遣送罪犯（[貼文](https://x.com/realDonaldTrump/status/2110226740425445513)），和股市沒有直接關係。\n- 這三天沒有看到他直接提到個股或關稅數字的文字貼文。\n\n### @elonmusk\n- 10/14 05:52 稱讚 **Micron** 的記憶體報價很合理，又說其他廠商「漫天要價」，客戶不會忘記（[貼文](https://x.com/elonmusk/status/2110126632572756339)）。暗指 SK 海力士和三星，對記憶體類股是情緒利空。\n- 10/14 05:35 回應 zerohedge 的資料中心債券賣壓：需求確實很強，但有錢不代表蓋得出來，還說 SpaceX 的團隊表現最好（[貼文](https://x.com/elonmusk/status/2110122281603326170)）。\n- 10/14 07:42「Tesla 自動駕駛感覺像魔法」（[貼文](https://x.com/elonmusk/status/2110154332553597413)），10/13 00:23 說安全一直是 Tesla 和 SpaceX 的第一優先。\n- 10/13 01:01 談中國的量產規模，說 SpaceX 是少數的反例（[貼文](https://x.com/elonmusk/status/2109690977279426846)）。\n- 其餘大多是推廣 Grok Bot 和 Grok Imagine 的轉推。\n\n### @aleabitoreddit（Serenity）\n- 10/13 07:33 長文：記憶體的需求一路看得到 2030 年以後，光通訊（LITE、AAOI、SIVE、MTSI）2027–28 年會進入超級週期，市場把不同的股票綁在一起賣，反而出現錯殺的機會（[貼文](https://x.com/aleabitoreddit/status/2109789664622322081)）。\n- 10/13 11:44 和 14:53：韓股、SK 海力士和三星重挫。他認為 Broadcom 執行長的「AI 投資人像賭徒」被西方媒體斷章取義，原意其實是看好 AI 晶片的需求（[貼文1](https://x.com/aleabitoreddit/status/2109852646484201736)、[貼文2](https://x.com/aleabitoreddit/status/2109900353349300590)）。\n- 10/13 17:22：人形機器人加速發展，提到 NVDA 和 TSLA（[貼文](https://x.com/aleabitoreddit/status/2109937773440577755)）。\n- 10/14 06:56：Agility Robotics（$AGLT）經由 $CCXI 上市的 S-4 已經生效，預計 11/2 股東投票、11 月掛牌（[貼文](https://x.com/aleabitoreddit/status/2110142633716965836)）。\n- 10/14 07:11：認為 Musk 批評記憶體漲價，是衝著 SK 海力士和三星漲價太多（[貼文](https://x.com/aleabitoreddit/status/2110146513766900019)）。\n\n### @SerenityRSH\n- 這三天**沒有發文**。最近一則是 2026-07-19 的「Cooking up something soon」，帳號總共只有 8 則貼文。\n- 從名稱和外部網站看，它和 Serenity（@aleabitoreddit）可能有關，但**無法證實是同一個人**。發過的內容是記憶體和半導體的研究短評（華邦電、旺宏、南亞科等），沒有揭露過任何持股。\n\n## 最新持股\n\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media，由信託持有）；另有大量個股、ETF、市政債 | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月有買進 MSFT、MCD、CMCSA、STZ、ZTS、AJG、NVDA、IBM、EPAM 等股票，也買了大量市政債 | [OGE 278-T（9/25 收件）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | SIVE（自稱持有 100 萬股以上）、AXTI、IQE、HPS.A、RKLB、LPK、Agility Robotics、EWY/DRAM（做多記憶體） | 本人 X 貼文，2026 年 7–9 月 |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：最新的 278-T 顯示 8 月以**買進**為主（股票和市政債都有）。5–6 月的申報則同時有大量買進和賣出，例如賣出 VISA、WFC、WDAY，買進 VST、WING。278-T 只揭露金額級距，看不出淨持股，而且這些交易據稱由第三方管理，不一定是他本人的判斷。\n- **Musk**：8/13 的 13G 是最新的 SPCX 持股，**這三天沒有新的 Form 4 或 13G**。財經新聞提到，SpaceX 10/13 下跌，部分原因是「更多鎖定股解禁」，但沒有看到 Musk 本人賣股的申報。\n- **Serenity**：這三天沒有宣布任何增減碼。10/13 的長文提到他覺得 LITE 估值偏高，所以「已經相應調整部位」，但沒說清楚是減碼還是放空，所以沒有列進 CSV。7 月他曾自稱「本月回撤 -49.4%，已經降低槓桿」。\n\n## 最近三日新聞\n- **Trump**：紐約聯準銀行研究指出，關稅讓美國本土製造的商品也跟著漲價，到 2026 年 2 月大約推升通膨 2.9 個百分點（10/14）；Bloomberg 報導 3/23 Trump 撤回攻擊伊朗威脅前 15 分鐘，有人大量押注油價下跌，CFTC 的移送被撤回，引發是否干預的疑慮（10/14）；美國國債超過 40.3 兆美元（10/13）。來源：X 新聞彙整，[1](https://x.com/i/trending/2110369888787435739)、[2](https://x.com/i/trending/2109973131372769550)、[3](https://x.com/i/trending/2110107098889765158)\n- **Musk**：SpaceX 10/13 下跌超過 4%，收在約 156.5 美元，Musk 身價跌回 1 兆美元以下（[來源](https://x.com/i/trending/2110071026336022909)）；最高法院將審理 DOGE 紀錄是否必須公開（[來源](https://x.com/i/trending/2110007064886235496)）。\n- **Serenity**：他持續關注的 IREN 有 Anthropic 合作傳聞，股價盤中大跌 5%，最後收平在 34.80 美元（[來源](https://x.com/i/trending/2110174789122007274)）；Agility Robotics 的 S-4 獲 SEC 宣告生效（[官方公告](https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-s-4-registration-statement-declared-effective-by-sec-in-connection-with-proposed-business-combination)）。\n\n## $SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。原本用 SPCX 代號的 Tuttle SPAC ETF 已經改了代號。另外有 SPCU、SPCQ、LOFF、LOFD 等 2 倍槓桿或反向的 ETF。\n- 10/13：股價下跌超過 4%，收在約 156.5 美元，市值蒸發約 890 億美元，原因包括更多鎖定股解禁（[來源](https://x.com/i/trending/2110071026336022909)）。\n- 10/12：以 80 億美元向 Grain Management 收購 800 MHz 頻譜（尚待 FCC 核准），準備做 Starlink Mobile。Pivotal 把目標價調高到 230 美元，MoffettNathanson 維持 142 美元；預測市場認為 2028 年前和 Tesla 合併的機率約 69%（[來源](https://x.com/i/trending/2109644511374712936)）。\n- 10/12：Morgan Stanley 的 Adam Jonas 說 Starship 第 15 次試飛（10 月底或 11 月初）是 IPO 以來最重要的回收測試，目標價 300 美元（[來源](https://x.com/i/trending/2109488926952181776)）。\n- 10/14：Morgan Stanley 點出軌道 AI 算力（Starmind 星座）是成長引擎，Ron Baron 喊出 10 年內 20–50 兆美元的估值（[來源](https://x.com/i/trending/2110151636681179566)）。\n- 同期間 AST SpaceMobile 被 SpaceX 的手機直連衛星競爭拖累，股價從高點下跌約 65%（[來源](https://x.com/i/trending/2109600795931095431)）。\n\n*以上新聞來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：這三天幾乎都是影片和圖片，沒有直接點名個股，也沒有發布具體的關稅數字，對市場的直接訊號很弱。真正會動到市場的是政策新聞（關稅研究、伊朗、國債）。\n- **揭露面**：OGE 278-T 只揭露超過 1,000 美元的交易和金額級距，而且可以在交易後最多 45 天才申報，所以申報到的都是**1–2 個月前**的交易。資產組成以市政債、大型股和 ETF 為主，比較像分散型的帳戶管理，不是集中押注。最大的單一部位仍然是 DJT（Trump Media），但信託有出售限制。\n- **風險點**：已經有好幾份申報因為遲交被收罰款（OGE 文件上有「late fee」註記）。另外 3 月油價期貨在 Trump 發文前出現異常交易，CFTC 調查受到干預的報導也讓外界懷疑「政策資訊不對稱」。投資上不建議跟著申報買股，因為申報有延遲，金額也只是級距。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：核心論點始終是 AI 供應鏈的「卡脖子環節」，包括記憶體、光通訊（InP 和雷射）、人形機器人和上游半導體。這三天他在韓股和記憶體大跌時替多方辯護，並把 Broadcom 執行長的發言解讀成看多。\n- **揭露面**：他**沒有任何監管申報**（不是基金經理人，沒有 13F）。持股全部來自他自己的貼文，例如 SIVE 100 萬股以上、AXTI、IQE、HPS.A、RKLB、LPK、Agility，沒辦法查證，也不知道他什麼時候出場。\n- **風險點**：外部報導（Bloomberg、Reuters）證實他的貼文曾讓 X-Fab 在一天內暴漲約 76%，**影響力是真的，但報酬率沒經過稽核**。他自己承認用了融資，7 月回撤接近 50%。追他推薦的小型股，流動性風險很高，也可能買在他出貨的時候。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：最值得注意的是**點名稱讚 Micron、暗批其他記憶體廠漫天要價**，剛好碰上記憶體股大跌，對 SK 海力士和三星的情緒不利。他還說資料中心「有錢不等於蓋得出來」，間接在宣傳 SpaceX 的 AI 基礎建設能力。其他大多是推廣 Grok。\n- **揭露面**：SPCX 持股約 48.4%（A 股折算），因為 B 股一股 10 票，投票權約 82%，SpaceX 屬於「受控公司」。TSLA 持股約 19.9%，不包括一筆約 4.2 億股、由 Tesla 秘書代為投票的績效獎勵股。這三天沒有新的內部人交易申報。\n- **風險點**：SPCX 鎖定股陸續解禁，可能帶來賣壓。市場對 SpaceX 和 Tesla 合併的預期（預測市場約 69%）讓兩檔股票連動。另外他在 X 上的發言可能會牽動他有利益關係的公司股價。\n\n## 資料缺口\n- Trump 的 OGE PDF 從工具這邊下載會被擋，只能從搜尋摘要確認股票名稱，**金額級距沒有逐筆核對**。\n- Trump 這三天的貼文多半只有連結，影片內容沒有分析。\n- 新聞主要來自 X 的新聞彙整（由 AI 摘要）。\n",
+  "report": "holdings_report_20261014.md"
+ }
 }
