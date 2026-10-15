@@ -14,6 +14,209 @@
  ],
  "days": [
   {
+   "title": "近3日重大股票、期貨新聞整理（2026-10-13 至 2026-10-15）",
+   "compiled": "2026-10-15 08:05（台灣時間）",
+   "sort_note": "各類近日優先；新聞日期以台灣時間發布日為準。10月14日台股傳產帶動反彈收48625.83點，新台幣升值終止連4黑；美國9月CPI年增3.7%高於預期，美股收黑、那指跌逾1.8%、費半挫4.3%，台指期夜盤大跌853點。今日（15日）台積電法說會為盤面焦點。",
+   "note": "",
+   "categories": [
+    {
+     "name": "半導體",
+     "items": [
+      {
+       "no": 1,
+       "title": "赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產",
+       "date": "2026-10-09（法說會今日15日下午登場）",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%8F%B0%E7%A9%8D%E9%9B%BB",
+       "source_name": "(中央社：赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產)[https://www.cna.com.tw/news/afe/202610090086.aspx]",
+       "url": "",
+       "summary": "台積電第3季營收達新台幣1兆4942.43億元、季增17.62%，前9月營收3兆8987.27億元、年增41.1%。15日法說會市場聚焦資本支出、先進製程與封裝、毛利率展望，以及是否擴大美國布局赴德州設廠、與馬斯克Terafab合作傳聞。法人預期受輝達Vera Rubin與2奈米需求帶動，第4季營收可望再攀高，全年美元營收成長有機會超越逾40%目標。圖片：https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261009/1200x629_706935446460.jpg"
+      },
+      {
+       "no": 2,
+       "title": "美股｜CPI超預期、Fed升息機率升　費半挫4.3％　台積電ADR跌3.4％",
+       "date": "2026-10-15",
+       "map": "",
+       "source_name": "(工商時報：CPI超預期 Fed升息機率升 費半挫4.3％ 台積電ADR跌3.4％)[https://www.ctee.com.tw/news/20261015700430-430702]",
+       "url": "",
+       "summary": "美國9月CPI高於預期推升升息疑慮，14日費城半導體指數挫跌524.41點或4.30%，收11684.38點。輝達收跌3.16%報221.3美元，超微跌5.73%、英特爾跌4.56%、美光跌4.08%。台積電ADR下滑3.4%收430美元，日月光ADR崩6.87%收44.33美元，聯電下跌4.42%收21.4美元。市場預期聯準會本月27日會議進一步升息機率升至約50%。圖片：無"
+      }
+     ]
+    },
+    {
+     "name": "AI",
+     "items": [
+      {
+       "no": 3,
+       "title": "輝達黃仁勳：若客戶開發不安全AI將停止供應晶片　NVDA收221.3美元",
+       "date": "2026-10-15",
+       "map": "",
+       "source_name": "(工商時報：CPI超預期 Fed升息機率升 費半挫4.3％ 台積電ADR跌3.4％)[https://www.ctee.com.tw/news/20261015700430-430702]",
+       "url": "",
+       "summary": "輝達執行長黃仁勳14日接受媒體專訪時表示，若發現客戶利用輝達晶片開發不安全的人工智慧軟體，將停止向對方供應晶片。同日美股四大指數齊收低，輝達收黑3.16%、收報每股221.3美元，為當日跌幅最大的道瓊成份股之一，反映通膨數據偏熱與晶片股賣壓並存下的AI族群波動。圖片：無"
+      },
+      {
+       "no": 4,
+       "title": "國泰世華銀：全球經濟邁向「一高二強」　AI續支撐景氣成長",
+       "date": "2026-10-14",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%9C%8B%E6%B3%B0%E4%B8%96%E8%8F%AF%E9%8A%80%E8%A1%8C",
+       "source_name": "(中央社：國泰世華銀：全球經濟邁向「一高二強」 AI續支撐景氣成長)[https://www.cna.com.tw/news/afe/202610140131.aspx]",
+       "url": "",
+       "summary": "國泰世華銀第4季投資研究報告指出，全球經濟正邁向「高利率、強投資、強獲利」新均衡。中東地緣風險與能源不確定性推升公債殖利率，但AI帶動的資本支出與企業獲利動能持續增強。報告認為從晶片、伺服器、資料中心到電力與網路基礎建設，AI生態系投資仍在早中期，只要企業獲利穩健，有機會消化高利率評價壓力，第4季市場表現仍可期待。圖片：https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261014/1200x938_wmky_94548149201_202609170036000000.jpg"
+      }
+     ]
+    },
+    {
+     "name": "金融",
+     "items": [
+      {
+       "no": 5,
+       "title": "中信金獲利／前九月大賺632億元　EPS達3.18元",
+       "date": "2026-10-14",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E9%87%91%E6%8E%A7%E7%B8%BD%E9%83%A8%E5%8F%B0%E5%8C%97",
+       "source_name": "(經濟日報／聯合新聞網：中信金獲利／前九月大賺632億元 EPS達3.18元)[https://udn.com/news/story/7252/9814850]",
+       "url": "",
+       "summary": "中信金控公告9月稅後純益93.58億元，累計前九月合併稅後純益632.37億元、每股稅後純益（EPS）3.18元。加計FVOCI權益工具稅後處分利益後，前九月合計對保留盈餘影響為每股6.68元。子公司中信銀前九月稅後獲利495.25億元、年增18%，財富管理業務成長逾三成；台灣人壽前九月稅後獲利149.28億元，新契約保費達897億元、年增81%。圖片：https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/14/35420618.jpg"
+      }
+     ]
+    },
+    {
+     "name": "航運",
+     "items": [
+      {
+       "no": 6,
+       "title": "《商情》運價不振　10／13 BDI指數續跌近2%",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(旺得富理財網／時報資訊：運價不振 10/13BDI指數續跌近2%)[https://wantrich.chinatimes.com/news/20261014900177-420101]",
+       "url": "",
+       "summary": "受太平洋與遠程礦航線貨盤偏少影響，10月13日波羅的海乾散貨綜合指數（BDI）下跌51點、收2801點，跌幅1.8%。海岬型運費指數（BCI）下跌154點收3994點、跌幅3.7%，平均日租金減至每艘36222美元；巴拿馬極限型指數持平收2432點，超輕便極限型指數上漲12點收1833點。乾散運價續弱，與貨櫃運價相對高檔形成對比。圖片：無"
+      }
+     ]
+    },
+    {
+     "name": "Stocks",
+     "items": [
+      {
+       "no": 7,
+       "title": "傳產強勢　台股上漲284.52點收48625.83點",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(中央社：傳產強勢　台股上漲284.52點收48625.83點)[https://www.cna.com.tw/news/afe/202610140136.aspx]",
+       "url": "",
+       "summary": "台股14日在傳統產業上揚帶動下止跌反彈，加權指數收48625.83點，上漲284.52點，成交值新台幣9286.24億元。南亞第3季獲利創新高，股價收349元、上漲9.4%，台塑與台化同步收漲停，塑膠類股指數勁揚9.27%。水泥、食品、紡織、機電、鋼鐵等傳產類股指數上漲逾1%，電子股終場漲勢收斂、類股指數上漲0.31%。圖片：無"
+      },
+      {
+       "no": 8,
+       "title": "美通膨掀升息疑慮　美股收黑那指跌逾1.8%",
+       "date": "2026-10-15",
+       "map": "",
+       "source_name": "(中央社：美通膨掀升息疑慮　美股收黑那指跌逾1.8%)[https://www.cna.com.tw/news/afe/202610150009.aspx]",
+       "url": "",
+       "summary": "美國通膨數據高於預期，引發市場對聯準會進一步升息疑慮，美股14日主要指數收黑。道瓊工業指數下挫48.62點或0.09%，收51621.48點；標普500指數下跌86.51點或1.11%，收7718.94點；那斯達克指數下挫511.51點或1.88%，收26692.87點；費城半導體指數挫跌524.41點或4.30%，收11684.38點。圖片：無"
+      }
+     ]
+    },
+    {
+     "name": "Futures",
+     "items": [
+      {
+       "no": 9,
+       "title": "10月台股期指漲400點",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(中央社：10月台股期指漲400點)[https://www.cna.com.tw/news/afe/202610140142.aspx]",
+       "url": "",
+       "summary": "台北股市14日終場漲284.52點、收48625.83點。10月台指期以48792點作收，上漲400點，與現貨正價差166.17點，成交4萬3404口；11月期貨以48964點作收，漲357點，成交1790口。同日10月電子期收3062.2點、上漲23.2點，10月金融期收3674點、下跌13.2點。圖片：無"
+      },
+      {
+       "no": 10,
+       "title": "10月14日期交所夜盤行情：臺指期收47945點、較參考價跌853點",
+       "date": "2026-10-15",
+       "map": "",
+       "source_name": "(經濟日報：10月14日期交所夜盤行情)[https://money.udn.com/money/story/11112/9815509]",
+       "url": "",
+       "summary": "美國CPI公布後台指期夜盤急殺，盤後時段臺指期收47945點，較開盤參考價下跌853點；小臺指期收47940點、跌858點。電子期收3001.2點、跌61.55點；半導體30指數期收16269點、跌417點；台積電期貨收2474點、跌31點。美國那斯達克100期貨收30200點、跌604點，費城半導體期貨收11792.5點、跌462.5點；黃金US期收4109.8點、跌62點。圖片：https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/12/35412592.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=1050&exp=3600"
+      }
+     ]
+    },
+    {
+     "name": "Rates & Bonds",
+     "items": [
+      {
+       "no": 11,
+       "title": "美國9月CPI年增3.7%、月增0.6%　高於市場預期",
+       "date": "2026-10-14",
+       "map": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20New%20York%20supermarket",
+       "source_name": "(中央社：美國9月CPI年增3.7%、月增0.6%　高於市場預期)[https://www.cna.com.tw/news/aopl/202610140339.aspx]",
+       "url": "",
+       "summary": "美國勞工部公布9月消費者物價指數（CPI）年增率升至3.7%，高於分析師預期的約3.6%，亦高於8月的3.4%；月增率由8月0.4%升至0.6%。核心CPI（剔除食品與能源）年增2.6%。工商時報引述，10年期美債殖利率一度跳升至約5.3272%，其後轉降；通膨數據出爐後，市場對聯準會本月會議升息機率升至約五成。圖片：https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20261014/1998x1499_240144189290.jpg"
+      }
+     ]
+    },
+    {
+     "name": "Currencies",
+     "items": [
+      {
+       "no": 12,
+       "title": "台股收紅外資賣壓收斂　新台幣由貶翻升終止連4黑",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(中央社：台股收紅外資賣壓收斂　新台幣由貶翻升終止連4黑)[https://www.cna.com.tw/news/afe/202610140275.aspx]",
+       "url": "",
+       "summary": "新台幣兌美元14日盤中一度重貶逾1.4角、最低32.228元，午後出口商拋匯與部分外資匯入，加上央行尾盤調節，收盤收32.073元、升1.2分，終止連4黑；台北及元太外匯市場總成交金額33.835億美元，較前一日史上最大量71.145億美元大幅縮減。外資續賣超台股200.37億元、連6賣，但賣超金額已自前一日1653.42億元大幅收斂。圖片：https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20261014/1024x767_175540735373.jpg"
+      }
+     ]
+    },
+    {
+     "name": "Commodities",
+     "items": [
+      {
+       "no": 13,
+       "title": "Commodities Wrap：熱CPI後COMEX黃金結算跌1.66%至4107.90美元",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(The Edge：Commodities Wrap 14 October Gold Settles 1.66 Percent Lower)[https://edgeconsultancykw.com/commodities-wrap-14-october-2026/]",
+       "url": "",
+       "summary": "美國9月CPI年增3.7%、月增0.6%公布後，COMEX 12月黃金期貨結算下跌69.40美元或1.66%，收每盎司4107.90美元；白銀盤後報價較前一結算跌約6.32%。美元指數約102.55、上漲0.36%。台指期夜盤黃金US期亦收4109.8點、較參考價下跌62點，反映升息預期升溫對無息資產的壓力。圖片：無"
+      }
+     ]
+    },
+    {
+     "name": "Sectors",
+     "items": [
+      {
+       "no": 14,
+       "title": "傳產強勢帶動塑膠類股勁揚　台塑、南亞、台化領漲",
+       "date": "2026-10-14",
+       "map": "",
+       "source_name": "(中央社：傳產強勢　台股上漲284.52點收48625.83點)[https://www.cna.com.tw/news/afe/202610140136.aspx]",
+       "url": "",
+       "summary": "南亞第3季獲利創新高，14日股價延續強勢、盤中一度攻上漲停，終場收349元、上漲9.4%；台塑與台化同步收在漲停，推升塑膠類股指數勁揚9.27%，成為盤面強勢指標。水泥、食品、紡織、機電、電纜、玻璃、造紙、鋼鐵、橡膠和汽車類股指數亦上漲逾1%，顯示資金由前一日重挫的電子族群部分流向傳產。圖片：無"
+      }
+     ]
+    },
+    {
+     "name": "Energy",
+     "items": [
+      {
+       "no": 15,
+       "title": "地緣衝突加劇　國際油價小漲",
+       "date": "2026-10-15",
+       "map": "https://www.google.com/maps/search/?api=1&query=Strait%20of%20Hormuz",
+       "source_name": "(中央社：地緣衝突加劇　國際油價小漲)[https://www.cna.com.tw/news/afe/202610150008.aspx]",
+       "url": "",
+       "summary": "中東及俄烏衝突加劇，使剛恢復至接近戰前水平的石油供應再受威脅，國際油價14日小幅上漲。紐約商品交易所西德州中級原油（WTI）11月交割價上漲1%，收報每桶95.09美元；倫敦北海布倫特原油12月交割價上揚0.4%，收在每桶106.06美元。工商時報指WTI創約三週收盤高點，並提到荷姆茲海峽附近船舶遇襲與沙國設施攻擊等供應風險。圖片：無"
+      }
+     ]
+    }
+   ],
+   "warnings": [
+    "日期格式異常：2026-10-09（法說會今日15日下午登場）",
+    "無法辨識的行：共 15 則。"
+   ],
+   "day": "2026-10-15"
+  },
+  {
    "title": "近3日重大股票、期貨新聞整理（2026-10-12 至 2026-10-14）",
    "compiled": "2026-10-14 07:25（台灣時間）",
    "sort_note": "各類近日優先；新聞日期以台灣時間發布日為準，國際新聞多為當地前一日事件；10月13日台股受AI投資疑慮與費半連跌拖累重挫960.65點、外資單日賣超1653.42億元，新台幣爆量貶破32元，美股13日小幅收低、台指期夜盤反彈363點，市場焦點轉向美國9月CPI與台積電15日法說會",
@@ -2685,64 +2888,113 @@
     "Ticker": "DJT",
     "Company_or_Name": "Trump Media & Technology Group",
     "Held_By": "realDonaldTrump",
-    "Approximate_Notes": "由 Donald J. Trump Revocable Trust 持有，有出售限制（年度申報列示）",
+    "Approximate_Notes": "114,750,000股，2024/12/17轉入Donald J. Trump Revocable Trust",
     "Source": "OGE 278e 2025年度申報"
+   },
+   {
+    "Ticker": "META",
+    "Company_or_Name": "Meta Platforms",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$5M–$25M（8月最大單筆）",
+    "Source": "OGE 278-T 2026-09-17（10/8公開）"
    },
    {
     "Ticker": "MSFT",
     "Company_or_Name": "Microsoft",
     "Held_By": "realDonaldTrump",
-    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
-    "Source": "OGE 278-T 2026-09-17（9/25收件）"
-   },
-   {
-    "Ticker": "NVDA",
-    "Company_or_Name": "NVIDIA",
-    "Held_By": "realDonaldTrump",
-    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
-    "Source": "OGE 278-T 2026-09-17（9/25收件）"
-   },
-   {
-    "Ticker": "IBM",
-    "Company_or_Name": "IBM",
-    "Held_By": "realDonaldTrump",
-    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
-    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+    "Approximate_Notes": "2026/8/10買進$1M–$5M，另有小額買賣",
+    "Source": "OGE 278-T 2026-09-17（10/8公開）"
    },
    {
     "Ticker": "MCD",
     "Company_or_Name": "McDonald's",
     "Held_By": "realDonaldTrump",
-    "Approximate_Notes": "2026年8月有買進紀錄，金額級距未核實",
-    "Source": "OGE 278-T 2026-09-17（9/25收件）"
+    "Approximate_Notes": "2026/8/10買進$1M–$5M，另有小額買賣",
+    "Source": "OGE 278-T 2026-09-17（10/8公開）"
+   },
+   {
+    "Ticker": "CVX",
+    "Company_or_Name": "Chevron",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
+   },
+   {
+    "Ticker": "COP",
+    "Company_or_Name": "ConocoPhillips",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
+   },
+   {
+    "Ticker": "T",
+    "Company_or_Name": "AT&T",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
+   },
+   {
+    "Ticker": "ABT",
+    "Company_or_Name": "Abbott Laboratories",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
+   },
+   {
+    "Ticker": "NFLX",
+    "Company_or_Name": "Netflix",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "2026/8/21買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
+   },
+   {
+    "Ticker": "NVDA",
+    "Company_or_Name": "NVIDIA",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "8月有買有賣：買進最多約$1.6M、賣出最多約$1M",
+    "Source": "OGE 278-T 2026-09-17；Reuters 10/8"
+   },
+   {
+    "Ticker": "IBM",
+    "Company_or_Name": "IBM",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "8月有買有賣（買進最大$100K–$250K）",
+    "Source": "OGE 278-T 2026-09-17（10/8公開）"
+   },
+   {
+    "Ticker": "SPCX",
+    "Company_or_Name": "SpaceX 優先無擔保票據（5.35%，2031/7到期）",
+    "Held_By": "realDonaldTrump",
+    "Approximate_Notes": "債券非股票；2026/8/18買進$1M–$5M",
+    "Source": "OGE 278-T 2026-09-17；CNBC 10/8"
    },
    {
     "Ticker": "SPCX",
     "Company_or_Name": "SpaceX",
     "Held_By": "elonmusk",
-    "Approximate_Notes": "約48.4% A股（折算後6,418,547,515股），投票權約82%",
-    "Source": "SEC Schedule 13G 2026-08-13（截至6/30）"
+    "Approximate_Notes": "約48.4% A股（折算後6,418,547,515股），投票權約82%；10/15查EDGAR無新申報",
+    "Source": "SEC Schedule 13G 2026-08-13"
    },
    {
     "Ticker": "TSLA",
     "Company_or_Name": "Tesla",
     "Held_By": "elonmusk",
-    "Approximate_Notes": "約19.9%（699,580,882股，不含有爭議的績效獎勵股）",
+    "Approximate_Notes": "約19.9%（699,580,882股，不含423,743,904股2025績效獎勵股）",
     "Source": "SEC SC 13G/A 2026-06-17"
    },
    {
     "Ticker": "SIVE",
     "Company_or_Name": "Sivers Semiconductors",
     "Held_By": "aleabitoreddit",
-    "Approximate_Notes": "自稱持有100萬股以上，最大個人股東之一",
-    "Source": "X貼文 2026-07-10"
+    "Approximate_Notes": "自稱仍持有100萬股以上",
+    "Source": "X貼文 2026-09-02"
    },
    {
     "Ticker": "AXTI",
     "Company_or_Name": "AXT Inc",
     "Held_By": "aleabitoreddit",
-    "Approximate_Notes": "自稱仍持有（still long）",
-    "Source": "X貼文 2026-08-13"
+    "Approximate_Notes": "自稱持有AXT股票",
+    "Source": "X貼文 2026-08-30"
    },
    {
     "Ticker": "IQE",
@@ -2755,8 +3007,8 @@
     "Ticker": "HPS.A",
     "Company_or_Name": "Hammond Power Solutions",
     "Held_By": "aleabitoreddit",
-    "Approximate_Notes": "自稱仍有部位",
-    "Source": "X貼文 2026-08-18"
+    "Approximate_Notes": "自稱持有部位",
+    "Source": "X貼文 2026-08-30"
    },
    {
     "Ticker": "RKLB",
@@ -2774,10 +3026,10 @@
    },
    {
     "Ticker": "CCXI",
-    "Company_or_Name": "Agility Robotics（經 Churchill Capital XI 合併，預定代號 AGLT）",
+    "Company_or_Name": "Agility Robotics（經Churchill Capital XI合併，預定代號AGLT）",
     "Held_By": "aleabitoreddit",
-    "Approximate_Notes": "自稱持有 Agility Robotics；10/13 S-4 生效，預計11月掛牌",
-    "Source": "X貼文 2026-07-05、2026-10-13"
+    "Approximate_Notes": "10/14再確認持有；S-4已生效，預計11/2股東投票、11月掛牌",
+    "Source": "X貼文 2026-10-14"
    },
    {
     "Ticker": "EWY",
@@ -2792,9 +3044,16 @@
     "Held_By": "aleabitoreddit",
     "Approximate_Notes": "自稱仍做多記憶體（以DRAM為例）",
     "Source": "X貼文 2026-09-21"
+   },
+   {
+    "Ticker": "POET",
+    "Company_or_Name": "POET Technologies",
+    "Held_By": "aleabitoreddit",
+    "Approximate_Notes": "自稱再建小部位（tiny positions）",
+    "Source": "X貼文 2026-08-07"
    }
   ],
-  "md": "# 名人持股與貼文整理（2026-10-14）\n\n整理時間：2026-10-14 22:50（台北）。貼文範圍：2026-10-12 至 10-14（台北時間）。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- 10/12 晚上到 10/14 中午共發了約 25 則，幾乎都是只有連結的影片或圖片，文字內容抓不到。\n- 有文字的一則（10/14 12:30）是講治安和遣送罪犯（[貼文](https://x.com/realDonaldTrump/status/2110226740425445513)），和股市沒有直接關係。\n- 這三天沒有看到他直接提到個股或關稅數字的文字貼文。\n\n### @elonmusk\n- 10/14 05:52 稱讚 **Micron** 的記憶體報價很合理，又說其他廠商「漫天要價」，客戶不會忘記（[貼文](https://x.com/elonmusk/status/2110126632572756339)）。暗指 SK 海力士和三星，對記憶體類股是情緒利空。\n- 10/14 05:35 回應 zerohedge 的資料中心債券賣壓：需求確實很強，但有錢不代表蓋得出來，還說 SpaceX 的團隊表現最好（[貼文](https://x.com/elonmusk/status/2110122281603326170)）。\n- 10/14 07:42「Tesla 自動駕駛感覺像魔法」（[貼文](https://x.com/elonmusk/status/2110154332553597413)），10/13 00:23 說安全一直是 Tesla 和 SpaceX 的第一優先。\n- 10/13 01:01 談中國的量產規模，說 SpaceX 是少數的反例（[貼文](https://x.com/elonmusk/status/2109690977279426846)）。\n- 其餘大多是推廣 Grok Bot 和 Grok Imagine 的轉推。\n\n### @aleabitoreddit（Serenity）\n- 10/13 07:33 長文：記憶體的需求一路看得到 2030 年以後，光通訊（LITE、AAOI、SIVE、MTSI）2027–28 年會進入超級週期，市場把不同的股票綁在一起賣，反而出現錯殺的機會（[貼文](https://x.com/aleabitoreddit/status/2109789664622322081)）。\n- 10/13 11:44 和 14:53：韓股、SK 海力士和三星重挫。他認為 Broadcom 執行長的「AI 投資人像賭徒」被西方媒體斷章取義，原意其實是看好 AI 晶片的需求（[貼文1](https://x.com/aleabitoreddit/status/2109852646484201736)、[貼文2](https://x.com/aleabitoreddit/status/2109900353349300590)）。\n- 10/13 17:22：人形機器人加速發展，提到 NVDA 和 TSLA（[貼文](https://x.com/aleabitoreddit/status/2109937773440577755)）。\n- 10/14 06:56：Agility Robotics（$AGLT）經由 $CCXI 上市的 S-4 已經生效，預計 11/2 股東投票、11 月掛牌（[貼文](https://x.com/aleabitoreddit/status/2110142633716965836)）。\n- 10/14 07:11：認為 Musk 批評記憶體漲價，是衝著 SK 海力士和三星漲價太多（[貼文](https://x.com/aleabitoreddit/status/2110146513766900019)）。\n\n### @SerenityRSH\n- 這三天**沒有發文**。最近一則是 2026-07-19 的「Cooking up something soon」，帳號總共只有 8 則貼文。\n- 從名稱和外部網站看，它和 Serenity（@aleabitoreddit）可能有關，但**無法證實是同一個人**。發過的內容是記憶體和半導體的研究短評（華邦電、旺宏、南亞科等），沒有揭露過任何持股。\n\n## 最新持股\n\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media，由信託持有）；另有大量個股、ETF、市政債 | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月有買進 MSFT、MCD、CMCSA、STZ、ZTS、AJG、NVDA、IBM、EPAM 等股票，也買了大量市政債 | [OGE 278-T（9/25 收件）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | SIVE（自稱持有 100 萬股以上）、AXTI、IQE、HPS.A、RKLB、LPK、Agility Robotics、EWY/DRAM（做多記憶體） | 本人 X 貼文，2026 年 7–9 月 |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：最新的 278-T 顯示 8 月以**買進**為主（股票和市政債都有）。5–6 月的申報則同時有大量買進和賣出，例如賣出 VISA、WFC、WDAY，買進 VST、WING。278-T 只揭露金額級距，看不出淨持股，而且這些交易據稱由第三方管理，不一定是他本人的判斷。\n- **Musk**：8/13 的 13G 是最新的 SPCX 持股，**這三天沒有新的 Form 4 或 13G**。財經新聞提到，SpaceX 10/13 下跌，部分原因是「更多鎖定股解禁」，但沒有看到 Musk 本人賣股的申報。\n- **Serenity**：這三天沒有宣布任何增減碼。10/13 的長文提到他覺得 LITE 估值偏高，所以「已經相應調整部位」，但沒說清楚是減碼還是放空，所以沒有列進 CSV。7 月他曾自稱「本月回撤 -49.4%，已經降低槓桿」。\n\n## 最近三日新聞\n- **Trump**：紐約聯準銀行研究指出，關稅讓美國本土製造的商品也跟著漲價，到 2026 年 2 月大約推升通膨 2.9 個百分點（10/14）；Bloomberg 報導 3/23 Trump 撤回攻擊伊朗威脅前 15 分鐘，有人大量押注油價下跌，CFTC 的移送被撤回，引發是否干預的疑慮（10/14）；美國國債超過 40.3 兆美元（10/13）。來源：X 新聞彙整，[1](https://x.com/i/trending/2110369888787435739)、[2](https://x.com/i/trending/2109973131372769550)、[3](https://x.com/i/trending/2110107098889765158)\n- **Musk**：SpaceX 10/13 下跌超過 4%，收在約 156.5 美元，Musk 身價跌回 1 兆美元以下（[來源](https://x.com/i/trending/2110071026336022909)）；最高法院將審理 DOGE 紀錄是否必須公開（[來源](https://x.com/i/trending/2110007064886235496)）。\n- **Serenity**：他持續關注的 IREN 有 Anthropic 合作傳聞，股價盤中大跌 5%，最後收平在 34.80 美元（[來源](https://x.com/i/trending/2110174789122007274)）；Agility Robotics 的 S-4 獲 SEC 宣告生效（[官方公告](https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-s-4-registration-statement-declared-effective-by-sec-in-connection-with-proposed-business-combination)）。\n\n## $SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。原本用 SPCX 代號的 Tuttle SPAC ETF 已經改了代號。另外有 SPCU、SPCQ、LOFF、LOFD 等 2 倍槓桿或反向的 ETF。\n- 10/13：股價下跌超過 4%，收在約 156.5 美元，市值蒸發約 890 億美元，原因包括更多鎖定股解禁（[來源](https://x.com/i/trending/2110071026336022909)）。\n- 10/12：以 80 億美元向 Grain Management 收購 800 MHz 頻譜（尚待 FCC 核准），準備做 Starlink Mobile。Pivotal 把目標價調高到 230 美元，MoffettNathanson 維持 142 美元；預測市場認為 2028 年前和 Tesla 合併的機率約 69%（[來源](https://x.com/i/trending/2109644511374712936)）。\n- 10/12：Morgan Stanley 的 Adam Jonas 說 Starship 第 15 次試飛（10 月底或 11 月初）是 IPO 以來最重要的回收測試，目標價 300 美元（[來源](https://x.com/i/trending/2109488926952181776)）。\n- 10/14：Morgan Stanley 點出軌道 AI 算力（Starmind 星座）是成長引擎，Ron Baron 喊出 10 年內 20–50 兆美元的估值（[來源](https://x.com/i/trending/2110151636681179566)）。\n- 同期間 AST SpaceMobile 被 SpaceX 的手機直連衛星競爭拖累，股價從高點下跌約 65%（[來源](https://x.com/i/trending/2109600795931095431)）。\n\n*以上新聞來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：這三天幾乎都是影片和圖片，沒有直接點名個股，也沒有發布具體的關稅數字，對市場的直接訊號很弱。真正會動到市場的是政策新聞（關稅研究、伊朗、國債）。\n- **揭露面**：OGE 278-T 只揭露超過 1,000 美元的交易和金額級距，而且可以在交易後最多 45 天才申報，所以申報到的都是**1–2 個月前**的交易。資產組成以市政債、大型股和 ETF 為主，比較像分散型的帳戶管理，不是集中押注。最大的單一部位仍然是 DJT（Trump Media），但信託有出售限制。\n- **風險點**：已經有好幾份申報因為遲交被收罰款（OGE 文件上有「late fee」註記）。另外 3 月油價期貨在 Trump 發文前出現異常交易，CFTC 調查受到干預的報導也讓外界懷疑「政策資訊不對稱」。投資上不建議跟著申報買股，因為申報有延遲，金額也只是級距。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：核心論點始終是 AI 供應鏈的「卡脖子環節」，包括記憶體、光通訊（InP 和雷射）、人形機器人和上游半導體。這三天他在韓股和記憶體大跌時替多方辯護，並把 Broadcom 執行長的發言解讀成看多。\n- **揭露面**：他**沒有任何監管申報**（不是基金經理人，沒有 13F）。持股全部來自他自己的貼文，例如 SIVE 100 萬股以上、AXTI、IQE、HPS.A、RKLB、LPK、Agility，沒辦法查證，也不知道他什麼時候出場。\n- **風險點**：外部報導（Bloomberg、Reuters）證實他的貼文曾讓 X-Fab 在一天內暴漲約 76%，**影響力是真的，但報酬率沒經過稽核**。他自己承認用了融資，7 月回撤接近 50%。追他推薦的小型股，流動性風險很高，也可能買在他出貨的時候。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：最值得注意的是**點名稱讚 Micron、暗批其他記憶體廠漫天要價**，剛好碰上記憶體股大跌，對 SK 海力士和三星的情緒不利。他還說資料中心「有錢不等於蓋得出來」，間接在宣傳 SpaceX 的 AI 基礎建設能力。其他大多是推廣 Grok。\n- **揭露面**：SPCX 持股約 48.4%（A 股折算），因為 B 股一股 10 票，投票權約 82%，SpaceX 屬於「受控公司」。TSLA 持股約 19.9%，不包括一筆約 4.2 億股、由 Tesla 秘書代為投票的績效獎勵股。這三天沒有新的內部人交易申報。\n- **風險點**：SPCX 鎖定股陸續解禁，可能帶來賣壓。市場對 SpaceX 和 Tesla 合併的預期（預測市場約 69%）讓兩檔股票連動。另外他在 X 上的發言可能會牽動他有利益關係的公司股價。\n\n## 資料缺口\n- Trump 的 OGE PDF 從工具這邊下載會被擋，只能從搜尋摘要確認股票名稱，**金額級距沒有逐筆核對**。\n- Trump 這三天的貼文多半只有連結，影片內容沒有分析。\n- 新聞主要來自 X 的新聞彙整（由 AI 摘要）。\n",
-  "report": "holdings_report_20261014.md"
+  "md": "# 名人持股與貼文整理（2026-10-15）\n\n整理時間：2026-10-15 08:05（台北）。貼文範圍：2026-10-13 至 10-15（台北時間，截至今早 08:00）。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- X 工具這次只抓到 10/14 12:13–13:42 的 22 則，幾乎都是只有連結的影片或圖片，之後到今早都沒有新貼文。10/13 的貼文這次查不到（見「資料缺口」）。\n- 唯一有文字的一則（10/14 12:30）是講遣送罪犯、治安創新低（[貼文](https://x.com/realDonaldTrump/status/2110226740425445513)），和股市沒有直接關係。\n- 同期間在 Truth Social 指控紐時用舊照片抹黑 Doral 度假村（G20 會場，10/12）、貼出與夫人的黑白合照（10/14），都和個股無關（[來源1](https://x.com/i/trending/2109694088492552635)、[來源2](https://x.com/i/trending/2110287537214300246)）。\n- 這三天**沒有**直接點名個股或公布新關稅數字的文字貼文。\n\n### @elonmusk\n- 10/14 05:52 稱讚 **Micron** 對未來記憶體報價「很合理」，其他廠商則「漫天要價」，客戶不會忘記（[貼文](https://x.com/elonmusk/status/2110126632572756339)）。當天晚上 Micron 反而因長鑫（CXMT）DRAM 進展大跌約 10%。\n- 10/14 05:35 回應資料中心話題：需求確實很強，但有錢不代表蓋得出來，SpaceX 團隊「比全世界強一個數量級」也覺得很難（[貼文](https://x.com/elonmusk/status/2110122281603326170)）。\n- 10/15 03:00 回應烏克蘭官員 Mykhailo Fedorov 的質疑：**Starshield** 屬於美國政府、速度與用途限制由美軍和總統決定；**Starlink** 是 SpaceX 的商業服務，只限民用或防禦用途（[貼文](https://x.com/elonmusk/status/2110445577184133456)）。背景是 Starlink 在俄軍大規模空襲時限制軍用終端速度，引發烏方不滿。\n- 10/14 12:12 引用 Tesla 的 Roadster 發表會預告寫「Timing is everything」（[貼文](https://x.com/elonmusk/status/2110222071229989249)）；發表會在美中時間 10/15 19:55（台北 10/16 08:55）。\n- 10/15 07:23 引用 Polymarket「純汽油車首度跌破全球新車銷量 50%」，說「重大門檻已過，未來幾乎所有車都會是電動車」（[貼文](https://x.com/elonmusk/status/2110511855731159239)）。\n- 10/14 07:42「Tesla 自動駕駛感覺像魔法」（[貼文](https://x.com/elonmusk/status/2110154332553597413)）；10/13 01:01 說中國量產規模常大於全世界總和，SpaceX 是少數反例（[貼文](https://x.com/elonmusk/status/2109690977279426846)）。\n- 10/14 12:08 回覆白宮引述 Trump 質疑議員 Ilhan Omar 財產申報的貼文：「Sounds fishy」（[貼文](https://x.com/elonmusk/status/2110221106007413144)）。\n- 其餘大多是推廣 Grok Bot、Grok Voice、Grok Imagine 和 Starlink 的引用貼文。\n\n### @aleabitoreddit（Serenity）\n- 10/13 07:33 長文：記憶體需求能見度延伸到 2030–31 年；LITE 產能賣到 2029 年。他認為 LITE 市值 1,000 億美元以上偏貴，「已相應調整部位」；看好 AAOI、SIVE、MTSI 的擴產（[貼文](https://x.com/aleabitoreddit/status/2109789664622322081)）。\n- 10/13 08:08：反駁雷射供過於求的說法，中國廠商的 70–100mW 雷射仍有瓶頸，LITE、COHR、SIVE 仍享有溢價（[貼文](https://x.com/aleabitoreddit/status/2109798495838425208)）。\n- 10/13 11:44、14:53：韓股、SK 海力士、三星重挫。他整理 DBS 研討會內容，認為 Broadcom 執行長 Hock Tan 的「像在賭場賭博」被西方媒體斷章取義，原意是看好 AI 晶片需求至少再強兩年（[貼文1](https://x.com/aleabitoreddit/status/2109852646484201736)、[貼文2](https://x.com/aleabitoreddit/status/2109900353349300590)）。\n- 10/13 04:47：回應 Sivers 宣布在矽谷聘請投資人關係主管，說「好消息，對西方投資人的溝通需要更好」（[貼文](https://x.com/aleabitoreddit/status/2109747793313304579)、[Sivers 原文](https://x.com/SiversSemicond/status/2109715114157056440)）。\n- 10/13 17:22：人形機器人進展加速，引述宇樹科技執行長看法，提到 NVDA、TSLA（[貼文](https://x.com/aleabitoreddit/status/2109937773440577755)）。\n- 10/14 06:56：Agility Robotics（$AGLT）經 $CCXI 上市的 S-4 已生效，預計 11/2 股東投票、11 月掛牌（[貼文](https://x.com/aleabitoreddit/status/2110142633716965836)）。\n- 10/14 07:06：網友問會不會投資，他回答「**I have positions in Agility!**」，並說 NVDA 和 AMZN 都大力支持 Agility（[貼文](https://x.com/aleabitoreddit/status/2110145100085150052)）。\n- 10/14 07:11：認為 Musk 一直批評記憶體，是因為 SK 海力士和三星漲價太多（[貼文](https://x.com/aleabitoreddit/status/2110146513766900019)）。\n- 10/14 19:36：引述大立光董事長林恩平「MicroLED 搭配多模光纖做 CPO 不太可能實現」，認為對 CW 雷射路線比較有利（[貼文](https://x.com/aleabitoreddit/status/2110333876144881903)）。\n\n### @SerenityRSH\n- 這三天**沒有發文**，帳號總貼文數仍是 8 則（最近一則是 2026-07-19 的「Cooking up something soon」）。\n- 它和 Serenity（@aleabitoreddit）可能有關，但**無法證實是同一個人**，也沒有揭露過任何持股。\n\n## 最新持股\n\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media）114,750,000 股，2024/12/17 轉入 Donald J. Trump Revocable Trust | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月最大筆買進：META（$5M–$25M，8/21）；CVX、COP、T、ABT、NFLX（各 $1M–$5M，8/21）；MSFT、MCD、CMCSA（各 $1M–$5M，8/10） | [OGE 278-T（9/17 簽署、9/25 收件、10/8 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf)、[CNBC](https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html) |\n| Trump | SpaceX 優先無擔保票據（5.35%，2031/7 到期）$1M–$5M，8/18 買進（**債券，不是 SPCX 股票**） | 同上 OGE 278-T 第 517 筆 |\n| Trump | NVDA、IBM、STZ、ZTS、AJG、EPAM 等：8 月**有買也有賣**（NVDA 買進最多約 $1.6M、賣出最多約 $1M） | 同上 OGE 278-T、[Reuters/Yahoo](https://finance.yahoo.com/markets/stocks/articles/trump-discloses-nvidia-stock-trades-151554128.html) |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股，不含 423,743,904 股 2025 績效獎勵股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | SIVE（自稱 100 萬股以上，9/2）、AXTI（8/30）、IQE（8/13）、HPS.A（8/30）、RKLB（8/5）、LPK（7/3）、Agility/CCXI（**10/14 再確認**）、EWY/DRAM（9/21）、POET（8/7 自稱小部位） | 本人 X 貼文 |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：今天直接下載並讀了 OGE 278-T 原檔（18 頁掃描檔），修正昨天的說法：8 月共 **517 筆，289 筆買進、228 筆賣出**，不是「以買進為主」。依 CNBC 統計，買進至少 4,420 萬美元、賣出至少 3,010 萬美元，總額級距 7,430 萬到 2.733 億美元。\n  - **新增列出**：META（單筆最大，$5M–$25M）、CVX、COP、T、ABT、NFLX（各 $1M–$5M）、SpaceX 公司債（$1M–$5M）。\n  - **賣出**：AMD、Church & Dwight（各 $1M–$5M，8/21），Boeing、Home Depot、T-Mobile、Datadog、Dell、Palo Alto、NVDA（各 $500K–$1M）。\n  - 這份申報在 10/8 公開，這三天**沒有新的 278-T**。白宮說投資組合由第三方獨立管理、複製 Schwab 1000 等指數。\n- **Musk**：查了 SEC EDGAR（截至 10/15 早上），Musk 最新申報仍是 8/13 的 SPCX 13G；SpaceX 公司本身最近的內部人申報是 9/30。**這三天沒有新的 Form 4 或 13G**。10/13 下跌被歸因於更多鎖定股解禁，但沒有 Musk 賣股的紀錄。\n- **Serenity**：10/14 親口再確認持有 Agility。其他持股這三天沒有宣布增減。這次回頭搜尋舊貼文，補登 POET（8/7 說「又買了小部位」）。LITE 在 10/13 說「已相應調整部位」，沒說清楚是減碼還是放空，所以不列入。8/18 他說仍持有 HPS.A 和「那家比利時公司」（虧損約 31%），看描述應該是 X-FAB，但貼文沒寫名稱，所以沒有列進 CSV。\n\n## 最近三日新聞\n- **Trump**：紐約聯準銀行研究指出，關稅讓進口和美國本土商品都漲價，到 2026 年 2 月約推升通膨 2.9 個百分點（10/14，[來源](https://x.com/i/trending/2110369888787435739)）；CFTC 分析師曾標記 3/23 Trump 撤回攻擊伊朗前 15 分鐘的異常原油期貨交易，但移送被高層撤回（10/14，[來源](https://x.com/i/trending/2109973131372769550)）；政府延後公布 2025 減稅的 IRS 統計（[來源](https://x.com/i/trending/2110403754944237779)）；美國國債超過 40.3 兆美元（10/13，[來源](https://x.com/i/trending/2110107098889765158)）。\n- **大盤**：9 月 CPI 年增 3.7%、高於預期，10/14 Nasdaq 100 下跌 1.8%，市場押注升息（[來源](https://x.com/i/trending/2110459845774037167)）。\n- **Musk**：SpaceX 下跌讓 Musk 身價跌到約 9,830 億美元（Forbes），市場熱議 Tesla 和 SpaceX 合併（[來源](https://x.com/i/trending/2110467292777594902)）；Starlink 在俄軍空襲期間限制軍用終端速度，引發烏克蘭和波蘭外長批評（[來源](https://x.com/i/trending/2110247117302223146)）；SpaceX 在德州 Bastrop 自建渦輪葉片鑄造廠（[來源](https://x.com/i/trending/2110193229278625838)）。\n- **Serenity 關注的標的**：10/14 Micron 因長鑫（CXMT）4F² DRAM 進展大跌約 10%（[來源](https://x.com/i/trending/2110440617029550087)），對他做多記憶體（EWY/DRAM）不利；Lumentum 10/12 跌約 10%，雖然執行長說產能賣到 2029 年（[來源](https://x.com/i/trending/2109713518203478473)）；Sivers 宣布在矽谷聘請投資人關係主管，10/22 臨時股東會將表決改聘 EY 會計師和最多 728 萬股員工認股權（[Sivers 新聞稿](https://news.cision.com/sivers-semiconductors/ListItems)）。\n\n## $SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。\n- 10/13：下跌約 4.2%，收在約 156.5 美元，市值蒸發約 890 億美元，原因包括更多鎖定股解禁（[來源](https://x.com/i/trending/2110071026336022909)）。\n- 10/14：繼續下跌，X 用戶貼文的報價是收盤約 152.16 美元（-2.8%），盤後持平（[貼文](https://x.com/i/status/2110480967932526760)，非官方報價）。當天的焦點是 Starlink 限制烏克蘭軍用終端速度。\n- 10/14：Barclays 分析師 Dan Levy 認為 Tesla 和 SpaceX **可能在 12 月前宣布合併**；Kalshi 預測市場 2028 年前合併的機率約 69%，Roadster 發表會當場宣布的機率約 15%。兩家公司都沒有回應（[來源1](https://x.com/i/trending/2110474745527652480)、[來源2](https://x.com/i/trending/2110459847900528973)）。\n- 10/14：Morgan Stanley 的 Adam Jonas 看好「軌道 AI 算力」（Starmind 星座），目標價 300 美元；Ron Baron 喊出 10 年內 20–50 兆美元估值，Musk 回「Yup」（[來源](https://x.com/i/trending/2110151636681179566)）。\n- 10/12–13：以 80 億美元向 Grain Management 收購 800 MHz 頻譜（待 FCC 核准）；Pivotal 目標價調高到 230 美元，MoffettNathanson 維持 142 美元（[來源](https://x.com/i/trending/2109644511374712936)）。Starship 第 15 次試飛預計 10 月底或 11 月初（[來源](https://x.com/i/trending/2109488926952181776)）。\n- 競爭對手 AST SpaceMobile 被 Piper Sandler 降評，10/14 跌到 52 週低點約 42.5 美元（[來源](https://x.com/i/trending/2110199473414533615)）。\n- 另外：Trump 的帳戶 8/18 買進 SpaceX 公司債 $1M–$5M，兩天後簽署商業太空運輸政策（[CNBC](https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html)）。\n\n*以上新聞大多來自 X 平台的新聞彙整（由 AI 摘要），股價引用 X 用戶貼文，數字以原始報導為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：這三天幾乎都是影片和圖片，沒有點名個股或公布關稅數字，對市場的直接訊號很弱。真正動到市場的是政策和總經新聞（關稅推升通膨、CPI 3.7%、伊朗油價交易調查）。\n- **揭露面**：8 月的 278-T 有 517 筆，大多集中在 8/10、17、21、24、28、31 這 6 天，買賣同時進行，比較像按指數再平衡的帳戶，不是集中押注。不過 8/21 那天出現單筆最大的 META（$5M–$25M），以及 CVX、COP 各 $1M–$5M，是今年最大的兩筆 CVX、COP 買單。一週後（8/28）Trump 宣布委內瑞拉石油協議（[Capitol Markets 整理](https://capitolmarkets.org/news/trump-august-2026-trades)）。8/18 買 SpaceX 公司債，兩天後簽署太空政策。\n- **風險點**：申報最晚可以在交易後 45 天才送，政府再花幾週公開，最早的交易過了 66 天才曝光，跟著申報買股一定落後。金額只揭露級距，看不出淨部位。最大單一部位仍是 DJT（1.1475 億股，由信託持有）。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：核心論點仍然是 AI 供應鏈的「卡脖子環節」，包括記憶體、光通訊（InP 和 CW 雷射）、人形機器人。這三天在韓股和記憶體大跌時替多方辯護，並把 Broadcom 執行長的發言解讀成看多。他也延伸到台灣供應鏈（大立光對 CPO 架構的看法）。\n- **揭露面**：他**沒有任何監管申報**（不是基金經理人，沒有 13F），持股全部來自他自己的貼文，沒辦法查證，也不知道什麼時候出場。他 10/14 再確認持有 Agility；這檔預計 11 月掛牌，上市初期波動可能很大。\n- **風險點**：10/14 Micron 跌 10%、Nasdaq 100 跌 1.8%，X 用戶整理的跌幅榜上有 LITE 和 RKLB，對他做多記憶體和光通訊的部位都是逆風。他自己承認用了融資，7 月回撤接近 50%。追他推薦的小型股（SIVE、AXTI、IQE、LPK），流動性風險很高。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：最值得注意的是**點名稱讚 Micron、暗批其他記憶體廠漫天要價**，剛好碰上記憶體股大跌（不過 Micron 自己當晚也跌 10%）。他對 Starlink 和 Starshield 的切割發言，是為了回應烏克蘭的批評，地緣政治風險可能直接影響 SPCX 的評價。Roadster 的「Timing is everything」讓市場期待發表會上有合併相關消息。\n- **揭露面**：SPCX 約 48.4%（A 股折算），因為 B 股一股 10 票，投票權約 82%。TSLA 約 19.9%，不包括 4.24 億股由 Tesla 秘書代為投票的 2025 績效獎勵股。這三天 EDGAR 沒有新的內部人申報。\n- **風險點**：SPCX 鎖定股陸續解禁帶來賣壓（10/13–14 連兩天下跌）；合併預期（69%）讓 TSLA 和 SPCX 連動。如果 Roadster 發表會沒有宣布合併，預期落空可能造成短線波動。另外 Trump 也持有 SpaceX 公司債，政策和利益交錯的爭議可能升溫。\n\n## 資料缺口\n- **已補上**：昨天沒辦法下載的 OGE PDF，今天成功下載並用 pdftotext 讀取，主要股票和金額已逐筆核對。但原檔是掃描 OCR，部分日期有辨識錯誤，金額以 CNBC、Reuters 報導交叉確認。\n- Trump 的 X 貼文這次只抓到 10/14 中午約 1.5 小時的 22 則，10/13 的貼文 API 沒有回傳。他的貼文大多只有連結，影片內容沒有分析。\n- SPCX 10/14 收盤價來自 X 用戶貼文，沒有官方報價可以核對。\n- Serenity 的持股全部是自稱，最近一次逐檔確認的日期在 7/3 到 10/14 之間，期間可能已經出場。\n- 新聞主要來自 X 的新聞彙整（由 AI 摘要）；Sivers 股價相關的外部文章（ad-hoc-news）屬於 AI 生成內容，數字前後不一致，所以沒有引用。\n",
+  "report": "holdings_report_20261015.md"
  }
 }
