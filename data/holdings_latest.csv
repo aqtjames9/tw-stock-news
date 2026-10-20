@@ -1,25 +1,25 @@
 Ticker,Company_or_Name,Held_By,Approximate_Notes,Source
 DJT,Trump Media & Technology Group,realDonaldTrump,"114,750,000股，2024/12/17轉入Donald J. Trump Revocable Trust",OGE 278e 2025年度申報
-META,Meta Platforms,realDonaldTrump,"2026/8/21買進$5M–$25M（8月最大單筆）",OGE 278-T 2026-09-17（10/8公開）
-MSFT,Microsoft,realDonaldTrump,"2026/8/10買進$1M–$5M，另有小額買賣",OGE 278-T 2026-09-17（10/8公開）
-MCD,McDonald's,realDonaldTrump,"2026/8/10買進$1M–$5M，另有小額買賣",OGE 278-T 2026-09-17（10/8公開）
-CVX,Chevron,realDonaldTrump,"2026/8/21買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-COP,ConocoPhillips,realDonaldTrump,"2026/8/21買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-T,AT&T,realDonaldTrump,"2026/8/21買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-ABT,Abbott Laboratories,realDonaldTrump,"2026/8/21買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-NFLX,Netflix,realDonaldTrump,"2026/8/21買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-NVDA,NVIDIA,realDonaldTrump,"8月有買有賣：買進最多約$1.6M、賣出最多約$1M",OGE 278-T 2026-09-17；Reuters 10/8
-IBM,IBM,realDonaldTrump,"8月有買有賣（買進最大$100K–$250K）",OGE 278-T 2026-09-17（10/8公開）
-SPCX,SpaceX 優先無擔保票據（5.35%，2031/7到期）,realDonaldTrump,"債券非股票；2026/8/18買進$1M–$5M",OGE 278-T 2026-09-17；CNBC 10/8
-SPCX,SpaceX,elonmusk,"約48.4% A股（折算後6,418,547,515股），投票權約82%；10/19宣布明年送每位美國兒童一股（未執行）；10/20查EDGAR無新申報",SEC Schedule 13G 2026-08-13；X貼文 2026-10-19
+META,Meta Platforms,realDonaldTrump,2026/8/21買進$5M–$25M（8月最大單筆）,OGE 278-T 2026-09-17（10/8公開）
+MSFT,Microsoft,realDonaldTrump,2026/8/10買進$1M–$5M，另有小額買賣,OGE 278-T 2026-09-17（10/8公開）
+MCD,McDonald's,realDonaldTrump,2026/8/10買進$1M–$5M，另有小額買賣,OGE 278-T 2026-09-17（10/8公開）
+CVX,Chevron,realDonaldTrump,2026/8/21買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+COP,ConocoPhillips,realDonaldTrump,2026/8/21買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+T,AT&T,realDonaldTrump,2026/8/21買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+ABT,Abbott Laboratories,realDonaldTrump,2026/8/21買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+NFLX,Netflix,realDonaldTrump,2026/8/21買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+NVDA,NVIDIA,realDonaldTrump,8月有買有賣：買進最多約$1.6M、賣出最多約$1M,OGE 278-T 2026-09-17；Reuters 10/8
+IBM,IBM,realDonaldTrump,8月有買有賣（買進最大$100K–$250K）,OGE 278-T 2026-09-17（10/8公開）
+SPCX,SpaceX 優先無擔保票據（5.35%，2031/7到期）,realDonaldTrump,債券非股票；2026/8/18買進$1M–$5M,OGE 278-T 2026-09-17；CNBC 10/8
+SPCX,SpaceX,elonmusk,"約48.4% A股（折算後6,418,547,515股），投票權約82%；10/19宣布明年送每位美國兒童一股（未執行，股票仍在IPO鎖定期）；10/21查EDGAR無新Form 4",SEC Schedule 13G 2026-08-13；X貼文 2026-10-19；SEC EDGAR 2026-10-21
 TSLA,Tesla,elonmusk,"約19.9%（699,580,882股，不含423,743,904股2025績效獎勵股）",SEC SC 13G/A 2026-06-17
-SIVE,Sivers Semiconductors,aleabitoreddit,"自稱仍持有100萬股以上",X貼文 2026-09-02
-AXTI,AXT Inc,aleabitoreddit,"自稱持有AXT股票",X貼文 2026-08-30
-IQE,IQE plc,aleabitoreddit,"自稱仍持有（still long）",X貼文 2026-08-13
-HPS.A,Hammond Power Solutions,aleabitoreddit,"自稱持有部位",X貼文 2026-08-30
-RKLB,Rocket Lab,aleabitoreddit,"自稱持有",X貼文 2026-08-05
-LPK,LPKF Laser & Electronics,aleabitoreddit,"自稱持有",X貼文 2026-07-03
-CCXI,Agility Robotics（經Churchill Capital XI合併，預定代號AGLT）,aleabitoreddit,"10/14再確認持有；S-4已生效，預計11/2股東投票、11月掛牌",X貼文 2026-10-14
-EWY,iShares MSCI South Korea ETF,aleabitoreddit,"自稱仍做多記憶體（以EWY為例）",X貼文 2026-09-21
-DRAM,記憶體主題ETF（DRAM）,aleabitoreddit,"自稱仍做多記憶體（以DRAM為例）",X貼文 2026-09-21
-POET,POET Technologies,aleabitoreddit,"自稱再建小部位（tiny positions）",X貼文 2026-08-07
+SIVE,Sivers Semiconductors,aleabitoreddit,自稱仍持有100萬股以上；10/20貼文稱讚LiDAR雷射量產訂單（未提加減碼）,X貼文 2026-09-02；X貼文 2026-10-20
+AXTI,AXT Inc,aleabitoreddit,自稱持有AXT股票,X貼文 2026-08-30
+IQE,IQE plc,aleabitoreddit,自稱仍持有（still long）,X貼文 2026-08-13
+HPS.A,Hammond Power Solutions,aleabitoreddit,自稱持有部位,X貼文 2026-08-30
+RKLB,Rocket Lab,aleabitoreddit,自稱持有,X貼文 2026-08-05
+LPK,LPKF Laser & Electronics,aleabitoreddit,自稱持有,X貼文 2026-07-03
+CCXI,Agility Robotics（經Churchill Capital XI合併，預定代號AGLT）,aleabitoreddit,10/14再確認持有；S-4已生效，預計11/2股東投票、11月掛牌,X貼文 2026-10-14
+EWY,iShares MSCI South Korea ETF,aleabitoreddit,自稱仍做多記憶體（以EWY為例）,X貼文 2026-09-21
+DRAM,記憶體主題ETF（DRAM）,aleabitoreddit,自稱仍做多記憶體（以DRAM為例）,X貼文 2026-09-21
+POET,POET Technologies,aleabitoreddit,自稱再建小部位（tiny positions）,X貼文 2026-08-07
