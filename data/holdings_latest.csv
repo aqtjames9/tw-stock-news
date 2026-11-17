@@ -30,6 +30,26 @@ NVDA,NVIDIA,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001�
 BSV,Vanguard Short-Term Bond Index ETF,realDonaldTrump,"【賣出】2026/8/10；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開）
 FCOM,Fidelity MSCI Communication Services Index ETF,realDonaldTrump,"【賣出】2026/8/10；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開）
 VIG,Vanguard Dividend Appreciation Index ETF,realDonaldTrump,"【賣出】2026/8/10；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開）
+BWX,SPDR Bloomberg International Treasury Bond ETF,realDonaldTrump,"【賣出】2026/8/10；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+IAU,iShares Gold Trust,realDonaldTrump,"【賣出】2026/8月（日期辨識不清）；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+IWB,iShares Russell 1000 ETF,realDonaldTrump,"【賣出】2026/8/17；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+AMD,Advanced Micro Devices,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+CHD,Church & Dwight,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+MOD,Modine Manufacturing,realDonaldTrump,"【賣出】2026/8月（日期辨識不清）；股數未揭露；$1,000,001–$5,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+AVGO,Broadcom,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+MCHP,Microchip Technology,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+FTNT,Fortinet,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+BA,Boeing,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+LII,Lennox International,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+HD,Home Depot,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+ZTS,Zoetis,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+TMUS,T-Mobile US,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+DDOG,Datadog,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+CDW,CDW（原檔辨識為 COW CORP）,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+TDG,TransDigm Group,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+DELL,Dell Technologies,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+PANW,Palo Alto Networks,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
+KMB,Kimberly-Clark,realDonaldTrump,"【賣出】2026/8/21；股數未揭露；$500,001–$1,000,000",OGE 278-T 2026-09-17（10/8公開，官方API讀取）
 SPCX,SpaceX,elonmusk,"【賣出】2026/4/2；11,390股；約$1,199,572（每股$105.318）",SEC Form 4 2026-06-17
 TSLA,Tesla,elonmusk,"【賣出】2026/6/16代扣稅交付（代碼F，非公開市場賣出）；17,531,857股；約$70.9億（每股$404.66）",SEC Form 4 2026-06-17
 AAOI,Applied Optoelectronics,aleabitoreddit,【賣出】2026/11/7節稅賣出部分；股數未揭露；金額未揭露（稱實現數百萬美元虧損，仍做多）,X貼文 2026-11-07
