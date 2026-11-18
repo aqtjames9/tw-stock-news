@@ -5462,9 +5462,9 @@
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-11-04 至 2026-11-06）",
-   "compiled": "2026-11-18 11:39（11/06 補做）",
-   "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。",
-   "note": "本次各類別皆為5則。",
+   "compiled": "2026-11-18 11:39（臺灣時間）",
+   "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。本檔為 11/06 補做。",
+   "note": "本次不足5則的類別為 無；其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
