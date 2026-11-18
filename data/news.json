@@ -496,7 +496,7 @@
    "title": "近3日重大股票、期貨新聞整理（2026-11-15 至 2026-11-17）",
    "compiled": "2026-11-17 07:11（臺灣時間）",
    "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。",
-   "note": "",
+   "note": "本次不足5則的類別為 Rates & Bonds（4則）、Commodities（3則）；其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -1022,16 +1022,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：本次不足5則的類別為 Rates & Bonds（4則）、Commod"
-   ],
+   "warnings": [],
    "day": "2026-11-17"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-11-14 至 2026-11-16）",
    "compiled": "2026-11-16 07:04（臺灣時間）",
    "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。",
-   "note": "",
+   "note": "本次不足5則的類別為 航運（2則）、Futures（4則）、Rates & Bonds（4則）、Currencies（3則）、Commodities（2則）、Sectors（4則）、Energy（2則）；其餘類別各5則。週末期間新聞量較少。",
    "categories": [
     {
      "name": "半導體",
@@ -1458,16 +1456,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：本次不足5則的類別為 航運（2則）、Futures（4則）、Rates"
-   ],
+   "warnings": [],
    "day": "2026-11-16"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-11-13 至 2026-11-15）",
    "compiled": "2026-11-15 07:07（臺灣時間）",
    "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。",
-   "note": "",
+   "note": "本次不足5則的類別為 航運（3則）、Futures（4則）、Currencies（3則）、Commodities（3則）；其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -1957,16 +1953,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：本次不足5則的類別為 航運（3則）、Futures（4則）、Curre"
-   ],
+   "warnings": [],
    "day": "2026-11-15"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-11-12 至 2026-11-14）",
    "compiled": "2026-11-14 07:08（臺灣時間）",
    "sort_note": "依產業分類（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），每類最多5則，同類內以新聞日期近者優先；新聞日期依原文頁面發布時間換算為臺灣日期；同一則新聞不跨類重複。",
-   "note": "",
+   "note": "本期不足5則的類別為 航運（4則）、Futures（4則）、Commodities（2則）；其餘類別均為5則。",
    "categories": [
     {
      "name": "半導體",
@@ -2474,9 +2468,7 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：本期不足5則的類別為 航運（4則）、Futures（4則）、Commo"
-   ],
+   "warnings": [],
    "day": "2026-11-14"
   },
   {
@@ -5996,7 +5988,7 @@
    "title": "近3日重大股票、期貨新聞整理（2026-11-02 至 2026-11-04）",
    "compiled": "2026-11-04 07:06（台灣時間）",
    "sort_note": "依類別順序（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），各類近日優先、每類最多5則；新聞日期以台灣時間發布日為準。11月3日美股道瓊收跌0.38%、那斯達克漲0.83%、費城半導體勁揚2.63%，AMD與美超微財報優於預期、盤後分別大漲8%與7%；台股3日重挫1612.60點收43307.54點，為歷史第7大跌點，新台幣重貶1.68角收32.76元。美伊邊打邊談，布蘭特原油收103.60美元、跌至近4週低點；美國期中選舉已於3日投票，本週五將公布10月非農就業報告。",
-   "note": "",
+   "note": "近3日不足5則的類別為航運（4則）、Futures（3則）、Commodities（4則），其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -6513,16 +6505,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：近3日不足5則的類別為航運（4則）、Futures（3則）、Commo"
-   ],
+   "warnings": [],
    "day": "2026-11-04"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-11-01 至 2026-11-03）",
    "compiled": "2026-11-03 07:08（台灣時間）",
    "sort_note": "依類別順序（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），各類近日優先、每類最多5則；新聞日期以台灣時間發布日為準。11月2日美股道瓊收漲0.41%、那斯達克跌1.07%、費城半導體跌3.37%；台股2日跌291.69點收44920.14點，失守45000點。美伊談判訊號帶動布蘭特原油重挫逾7%，黃金自一年低點反彈。今日（11月3日）為美國期中選舉，本週另有蘋果等財報與週五10月非農就業報告。",
-   "note": "",
+   "note": "近3日不足5則的類別為金融（4則）、航運（4則）、Rates & Bonds（4則）、Currencies（4則）、Commodities（3則），其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -7021,16 +7011,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：近3日不足5則的類別為金融（4則）、航運（4則）、Rates & Bo"
-   ],
+   "warnings": [],
    "day": "2026-11-03"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-10-31 至 2026-11-02）",
    "compiled": "2026-11-02 07:03（台灣時間）",
    "sort_note": "依類別順序（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），各類近日優先、每類最多5則；新聞日期以台灣時間發布日為準。11月2日為週一，台股與美股最近交易日為10月30日（週五）：美股道瓊收跌1.1%、標普500重挫1.8%、那斯達克下跌2.9%；台股上周跌829點、周線連3黑，10月以來跌掉2728點；黃金現貨30日報每盎司3,880.97美元。本週焦點為11月3日美國期中選舉、蘋果等財報與10月非農就業報告。",
-   "note": "",
+   "note": "近3日不足5則的類別為航運（3則）、Futures（3則）、Rates & Bonds（3則）、Currencies（3則）、Commodities（1則），其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -7475,16 +7463,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：結尾說明：近3日不足5則的類別為航運（3則）、Futures（3則）、Rates"
-   ],
+   "warnings": [],
    "day": "2026-11-02"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-10-30 至 2026-11-01）",
    "compiled": "2026-11-01 07:05（台灣時間）",
    "sort_note": "依類別順序（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），各類近日優先、每類最多5則；新聞日期以台灣時間發布日為準，國際新聞多為當地前一日事件；11月1日為週日、10月31日為週六，台股與美股最近交易日為10月30日：美股30日道瓊跌1.09%收51770.31點、標普500跌1.82%收7580.07點、那斯達克跌2.86%收25437.00點、費城半導體指數跌7.20%收10688.80點；台股30日大跌1156.5點收45211.83點，台指期夜盤跌867點收44433點；布蘭特原油12月合約30日收每桶117.64美元、WTI收104.12美元；黃金現貨30日報每盎司3880.97美元。",
-   "note": "",
+   "note": "近3日不足5則的類別為航運（3則）、Futures（4則）、Currencies（4則）、Commodities（4則），其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -7992,20 +7978,14 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：本類近3日僅3則符合新聞。",
-    "無法辨識的行：本類近3日僅4則符合新聞。",
-    "無法辨識的行：本類近3日僅4則符合新聞。",
-    "無法辨識的行：本類近3日僅4則符合新聞。",
-    "無法辨識的行：結尾說明：近3日不足5則的類別為航運（3則）、Futures（4則）、Curre"
-   ],
+   "warnings": [],
    "day": "2026-11-01"
   },
   {
    "title": "近3日重大股票、期貨新聞整理（2026-10-29 至 2026-10-31）",
    "compiled": "2026-10-31 07:10（台灣時間）",
    "sort_note": "依類別順序（半導體、AI、金融、航運、Stocks、Futures、Rates & Bonds、Currencies、Commodities、Sectors、Energy），各類近日優先、每類最多5則；新聞日期以台灣時間發布日為準，國際新聞多為當地前一日事件；美股30日道瓊跌1.09%收51770.31點、標普500跌1.82%收7580.07點、那斯達克跌2.86%收25437.00點、費城半導體指數跌7.20%收10688.80點；台股30日大跌1156.5點收45211.83點；布蘭特原油12月合約30日收每桶117.64美元、WTI收104.12美元；黃金現貨30日報每盎司3880.97美元；新台幣30日收32.478元。",
-   "note": "",
+   "note": "近3日不足5則的類別為金融（4則）、航運（3則）、Futures（4則）、Rates & Bonds（4則）、Currencies（3則）、Commodities（3則），其餘類別各5則。",
    "categories": [
     {
      "name": "半導體",
@@ -8477,14 +8457,7 @@
      ]
     }
    ],
-   "warnings": [
-    "無法辨識的行：本類近3日僅3則符合新聞。",
-    "無法辨識的行：本類近3日僅4則符合新聞。",
-    "無法辨識的行：本類近3日僅4則符合新聞。",
-    "無法辨識的行：本類近3日僅3則符合新聞。",
-    "無法辨識的行：本類近3日僅3則符合新聞。",
-    "無法辨識的行：結尾說明：近3日不足5則的類別為金融（4則）、航運（3則）、Futures（4則"
-   ],
+   "warnings": [],
    "day": "2026-10-31"
   },
   {
@@ -19693,7 +19666,7 @@
     "Source": "X貼文 2026-11-07"
    }
   ],
-  "md": "# 名人持股與貼文整理（2026-11-18）\n\n整理時間：2026-11-18 07:30（台北）。貼文範圍：2026-11-17 06:30 至 11-18 07:30（台北時間），重點放在 11/17 報告之後的新內容。今天直接查 **OGE 官方 API**（Trump 278 申報最新 docDate：**2026-10-08**，共 23 筆，無新申報）、SEC EDGAR（data.sec.gov submissions，Musk CIK 1494730；SpaceX CIK 1181412）與 Breakaway（Last filed Oct 8），**Musk 與 Trump 都沒有新的個人持股申報**；SpaceX 公司最新申報仍是 11/16 的 Schedule 13G/A（Antonio J. Gracias，不是 Musk）。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 近期賣出\n### Trump（OGE 278-T，9/17 簽署、10/8 公開，8 月交易；股數未揭露，金額為申報級距）\n- **NVDA（NVIDIA）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BSV（Vanguard Short-Term Bond Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FCOM（Fidelity MSCI Communication Services Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **VIG（Vanguard Dividend Appreciation Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **BWX（SPDR Bloomberg International Treasury Bond ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IAU（iShares Gold Trust）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IWB（iShares Russell 1000 ETF）｜2026/8/17 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AMD（Advanced Micro Devices）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **CHD（Church & Dwight）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **MOD（Modine Manufacturing）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AVGO（Broadcom）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **MCHP（Microchip Technology）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **FTNT（Fortinet）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BA（Boeing）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **LII（Lennox International）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **HD（Home Depot）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **ZTS（Zoetis）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TMUS（T-Mobile US）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DDOG（Datadog）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CDW（CDW（原檔辨識為 COW CORP））｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TDG（TransDigm Group）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DELL（Dell Technologies）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **PANW（Palo Alto Networks）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **KMB（Kimberly-Clark）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- 以上 20 筆為 11/15 起直接讀取 [OGE 官方 278-T PDF](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf) 匯入（掃描檔文字辨識，日期不清者已標註）。\n- **個股小額賣出（Flowers Foods、Under Armour、LKQ、Broadcom、Take-Two 等）｜2026/8/28–8/31｜股數：未揭露｜金額：各 $1,001–$15,000 或 $15,001–$50,000**\n- 另有多筆市政債賣出（例如 Texas Transportation Commission、Delaware Valley PA 等，8/25–8/26，各 $1,000,001–$5,000,000），不是股票。\n- 來源：[OGE 278-T](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf)（PDF 為掃描檔，日期以文字辨識結果與 X 新聞彙整交叉核對）。11/18 直接查 OGE 官方 JSON API：Trump 278 申報共 23 筆，**最新 docDate 為 2026-10-08**，之後**沒有新的 278-T**。另查 Breakaway（含其 CSV 中「新聞報導、尚未申報」的 3 筆，皆為 1–2 月買進、非賣出）、CNBC 11/16 報導與 X 新聞，也**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。\n\n### Musk（SEC Form 4）\n- **SPCX（SpaceX A 股）｜2026/4/2 賣出（代碼 S）｜11,390 股｜約 $1,199,572（每股 $105.318）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000162828026044069/wk-form4_1781740812.xml)）\n- **TSLA｜2026/6/16 交付股票代扣稅（代碼 F，不是公開市場賣出）｜17,531,857 股｜約 $70.9 億（每股 $404.66）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075213/tm2618092-2_4seq1.xml)）\n- 11/18 查 SEC EDGAR，到今天**沒有新的 Form 4**（最新個人申報仍是 8/13 SPCX 13G）。\n\n### Serenity（@aleabitoreddit，本人貼文，無監管申報）\n- **AAOI｜2026/11/7 為節稅賣出一部分｜股數：未揭露｜金額：未揭露（本人稱實現數百萬美元虧損，仍做多）**\n- 11/17 至今沒有新的賣出說法；11/17 22:08 UTC 批評 AAOI 管理層再推 $550M ATM「失去信用」，但仍看好其營運（**未說賣出**）。\n\n### @SerenityRSH\n- 沒有揭露任何持股或賣出。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- 11/17 06:30（台北）至今，X 帳號查詢區間內**沒有新貼文**。\n\n### @elonmusk\n- 11/17 21:55 UTC：[引用貼文](https://x.com/elonmusk/status/2122810772967575759)只回「🤦‍♂️」；21:56 UTC [轉推](https://x.com/elonmusk/status/2122811250858156410) SpaceX CFO Bret Johnsen 的談話。\n- 11/17 18:33 UTC：[轉推](https://x.com/elonmusk/status/2122759967413567648) Tesla 呼籲股東為 **12/3 年度股東會**投票；18:31 UTC [轉推](https://x.com/elonmusk/status/2122759422799958111) Starship 發射／接回合成照。\n- **沒有談自己的持股變動**。\n\n### @aleabitoreddit（Serenity）\n- 11/17 22:08 UTC：[貼文](https://x.com/aleabitoreddit/status/2122814062329471182)稱 **$AAOI 管理層再推 $550M ATM（市價增資）「失去所有信用」**，但仍認為 CPO 與光收發模組量產「營運上有吸引力」；22:58 UTC [回覆](https://x.com/aleabitoreddit/status/2122826811667263749)稱 AOI 承諾支出 $956M、現金 $605M，需要更多融資。\n- 11/17 11:59 UTC：[貼文](https://x.com/aleabitoreddit/status/2122660925488718046)稱川普政府將封鎖中國 AI 資料中心設備（如光收發模組）進口，有利西方光通訊廠；10:22 UTC [回覆](https://x.com/aleabitoreddit/status/2122636464672383306)稱 $IQE 自他建倉以來獲 $MTSI 支持並與 $TSEM 簽約。\n- 11/17 09:52 UTC：[貼文](https://x.com/aleabitoreddit/status/2122628849657954454)稱 $AAPL 洽 Samsung 簽 DRAM 長約；20:39 UTC [貼文](https://x.com/aleabitoreddit/status/2122791681405997440)續挺黃仁勳。\n- **沒有新的加減碼說法**。\n\n### @SerenityRSH\n- 這三天**沒有發文**，最近一則仍是 2026-07-19（[貼文](https://x.com/SerenityRSH/status/2078941062572413243)）；無法證實與 @aleabitoreddit 是同一人。\n\n## 最新持股\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media）114,750,000 股，2024/12/17 轉入 Donald J. Trump Revocable Trust | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月最大筆買進：META（$5M–$25M，8/21）；CVX、COP、T、ABT、NFLX（各 $1M–$5M，8/21）；MSFT、MCD、CMCSA（各 $1M–$5M，8/10） | [OGE 278-T（9/17 簽署、10/8 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Trump | SpaceX 優先無擔保票據（5.35%，2031/7 到期）$1M–$5M，8/18 買進（**債券，不是 SPCX 股票**） | 同上 OGE 278-T |\n| Trump | NVDA：8 月有買有賣（賣出 8/21 $500,001–$1,000,000） | 同上 OGE 278-T |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股，不含 423,743,904 股 2025 績效獎勵股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | AAOI（11/7 節稅賣出一部分，仍做多）、SIVE、AXTI（11/13 稱個人很喜歡）、IQE、HPS.A、RKLB、LPK、AGLT、EWY/DRAM、POET（小部位）、ESMT、LWLG（小部位）；**不持有 ASTS** | 本人 X 貼文 |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：OGE 官方 API 最新 278 申報仍是 2026-10-08 公開（9/17 簽署、8 月交易）；[Breakaway](https://getbreakaway.com/white-house/donald-trump) 也顯示 Last filed Oct 8。今天查 Breakaway、CNBC 與 X 新聞彙整，**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。9 月交易依 45 天規定應在 11 月中前後申報，近期可能出現。\n- **Musk**：[SEC submissions（CIK 1494730）](https://data.sec.gov/submissions/CIK0001494730.json) 最新個人申報仍是 8/13 的 SPCX 13G。\n- **SpaceX 其他大股東**：今天無新申報；前一日（11/16）新增 [Antonio J. Gracias（Valor 相關實體）13G/A](https://www.sec.gov/Archives/edgar/data/1181412/000121390026120715/0001213900-26-120715.txt)（以 10/15 流通 A 股 8,246,541,218 股計算比例）；11/13 另有 Founders Fund 13G/A。都與追蹤的四個帳號無關。\n- **Serenity**：沒有新的加減碼說法。\n\n## 最近三日新聞\n- **CNBC 分析 Trump 的 NVDA 交易**（11/16）：自重返白宮以來 Trump 帳戶買賣 NVDA 至少 103 次，合計 $2,700 萬–$9,750 萬；其中 5/18 賣出 $500,001–$1,000,000；白宮稱由獨立顧問管理（[CNBC](https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html)）。均為既有申報，**沒有新 278-T**。\n- **Warren、Kelly 呼籲禁止官員持股**，引 Trump 的 NVDA 交易（[X 彙整](https://x.com/i/trending/2122733887675826286)，11/17）。\n- **Trump 市政債買進爭議**持續（[X 彙整](https://x.com/i/trending/2121653182237667753)），屬債券，不是股票。\n- **Kalshi 依 CFTC 命令暫停 Trump 發言用語押注**（[X 彙整](https://x.com/i/trending/2122763625878126659)，11/17），與持股無直接關係。\n\n## SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。\n- **13F 揭露機構進出 SpaceX**：X 彙整稱 Druckenmiller（Duquesne）Q3 新建約 202,125 股（約 $3,000 萬）、Appaloosa 大增、ARK 加碼約 $5,200 萬，Citadel 減碼 94%；NVIDIA 持股增 6.3% 至 1.305 億股（[X 彙整](https://x.com/i/trending/2122451367881273520)）；沙烏地 PIF 9/30 持有 1.541 億股、約 233 億美元（[X 彙整](https://x.com/i/trending/2122448318978462170)）。\n- **SpaceX CFO Bret Johnsen**（11/17 TomorrowX 峰會）：稱 Anthropic 占 Q3 營收超過三分之一，軌道運算衛星明年發射（[X 彙整](https://x.com/i/trending/2122812105086885890)）。\n- **SpaceX–Tesla 合併傳聞**：最快 12 月或 2027 年初宣布（[X 彙整](https://x.com/i/trending/2121699140224852454)），**仍無公司正式公告或 SEC 申報證實**。\n- **前情**：12/8 禁售期到期；Tesla 股東會 12/3。\n\n*以上新聞大多來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導與公司公告為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：X 帳號沒有新發文。\n- **揭露面**：OGE 官方最新仍是 8 月交易；NVDA 部位與市政債持續被國會與媒體檢視。\n- **風險點**：9 月 278-T 隨時可能公開。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：批評 AAOI 再推 $550M ATM，但仍看好營運；談中國光通訊設備禁令、IQE、Apple DRAM 長約；沒有新加減碼。\n- **揭露面**：**沒有任何監管申報**，持股全部來自本人貼文，無法查證。\n- **風險點**：AAOI 增資稀釋；光通訊／記憶體集中部位波動大。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：轉推 SpaceX CFO 談話、Tesla 12/3 股東會投票呼籲；未談個人持股。\n- **揭露面**：今天查 SEC EDGAR 沒有新的個人申報；最近一筆真正賣出是 4/2 的 11,390 股 SPCX（約 $120 萬）。\n- **風險點**：SpaceX–Tesla 合併傳聞尚未證實、12/8 解鎖供給。\n\n## 資料缺口\n- Trump 只查 X 帳號，Truth Social 沒有直接查。278-T PDF 為掃描檔，賣出日期／金額為文字辨識結果。\n- 13F 相關數字（PIF、NVIDIA、Duquesne 等）來自 X 新聞彙整，未直接讀 13F 原文。\n- Gracias 13G/A 的持股比例今天未從原文擷取。\n- SPCX 最新收盤價今天沒有找到可靠來源。\n",
+  "md": "# 名人持股與貼文整理（2026-11-18）\n\n整理時間：2026-11-18 07:30（台北）。貼文範圍：2026-11-17 06:30 至 11-18 07:30（台北時間），重點放在 11/17 報告之後的新內容。今天直接查 **OGE 官方 API**（Trump 278 申報最新 docDate：**2026-10-08**，共 23 筆，無新申報）、SEC EDGAR（data.sec.gov submissions，Musk CIK 1494730；SpaceX CIK 1181412）與 Breakaway（Last filed Oct 8），**Musk 與 Trump 都沒有新的個人持股申報**；SpaceX 公司最新申報仍是 11/16 的 Schedule 13G/A（Antonio J. Gracias，不是 Musk）。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 近期賣出\n### Trump（OGE 278-T，9/17 簽署、10/8 公開，8 月交易；股數未揭露，金額為申報級距）\n- **NVDA（NVIDIA）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BSV（Vanguard Short-Term Bond Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FCOM（Fidelity MSCI Communication Services Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **VIG（Vanguard Dividend Appreciation Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **BWX（SPDR Bloomberg International Treasury Bond ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IAU（iShares Gold Trust）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IWB（iShares Russell 1000 ETF）｜2026/8/17 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AMD（Advanced Micro Devices）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **CHD（Church & Dwight）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **MOD（Modine Manufacturing）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AVGO（Broadcom）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **MCHP（Microchip Technology）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **FTNT（Fortinet）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BA（Boeing）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **LII（Lennox International）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **HD（Home Depot）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **ZTS（Zoetis）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TMUS（T-Mobile US）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DDOG（Datadog）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CDW（CDW（原檔辨識為 COW CORP））｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TDG（TransDigm Group）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DELL（Dell Technologies）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **PANW（Palo Alto Networks）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **KMB（Kimberly-Clark）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- 以上 24 筆 Trump 賣出中，NVDA、BSV、FCOM、VIG 4 筆原本就有（已用官方 PDF 再確認），其餘 20 筆為 11/15 起直接讀取 [OGE 官方 278-T PDF](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf) 匯入（掃描檔文字辨識，日期不清者已標註）。\n- **個股小額賣出（Flowers Foods、Under Armour、LKQ、Broadcom、Take-Two 等）｜2026/8/28–8/31｜股數：未揭露｜金額：各 $1,001–$15,000 或 $15,001–$50,000**\n- 另有多筆市政債賣出（例如 Texas Transportation Commission、Delaware Valley PA 等，8/25–8/26，各 $1,000,001–$5,000,000），不是股票。\n- 來源：[OGE 278-T](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf)（PDF 為掃描檔，日期以文字辨識結果與 X 新聞彙整交叉核對）。11/18 直接查 OGE 官方 JSON API：Trump 278 申報共 23 筆，**最新 docDate 為 2026-10-08**，之後**沒有新的 278-T**。另查 Breakaway（含其 CSV 中「新聞報導、尚未申報」的 3 筆，皆為 1–2 月買進、非賣出）、CNBC 11/16 報導與 X 新聞，也**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。\n\n### Musk（SEC Form 4）\n- **SPCX（SpaceX A 股）｜2026/4/2 賣出（代碼 S）｜11,390 股｜約 $1,199,572（每股 $105.318）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000162828026044069/wk-form4_1781740812.xml)）\n- **TSLA｜2026/6/16 交付股票代扣稅（代碼 F，不是公開市場賣出）｜17,531,857 股｜約 $70.9 億（每股 $404.66）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075213/tm2618092-2_4seq1.xml)）\n- 11/18 查 SEC EDGAR，到今天**沒有新的 Form 4**（最新個人申報仍是 8/13 SPCX 13G）。\n\n### Serenity（@aleabitoreddit，本人貼文，無監管申報）\n- **AAOI｜2026/11/7 為節稅賣出一部分｜股數：未揭露｜金額：未揭露（本人稱實現數百萬美元虧損，仍做多）**\n- 11/17 至今沒有新的賣出說法；11/17 22:08 UTC 批評 AAOI 管理層再推 $550M ATM「失去信用」，但仍看好其營運（**未說賣出**）。\n\n### @SerenityRSH\n- 沒有揭露任何持股或賣出。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- 11/17 06:30（台北）至今，X 帳號查詢區間內**沒有新貼文**。\n\n### @elonmusk\n- 11/18 01:26–03:15 UTC（台北 09:26–11:15）：[貼文](https://x.com/elonmusk/status/2122891480729829482)等 5 則，談 Grok、Starship、超級智慧，**沒有談持股**。\n- 11/17 21:55 UTC：[引用貼文](https://x.com/elonmusk/status/2122810772967575759)只回「🤦‍♂️」；21:56 UTC [轉推](https://x.com/elonmusk/status/2122811250858156410) SpaceX CFO Bret Johnsen 的談話。\n- 11/17 18:33 UTC：[轉推](https://x.com/elonmusk/status/2122759967413567648) Tesla 呼籲股東為 **12/3 年度股東會**投票；18:31 UTC [轉推](https://x.com/elonmusk/status/2122759422799958111) Starship 發射／接回合成照。\n- **沒有談自己的持股變動**。\n\n### @aleabitoreddit（Serenity）\n- 11/17 22:08 UTC：[貼文](https://x.com/aleabitoreddit/status/2122814062329471182)稱 **$AAOI 管理層再推 $550M ATM（市價增資）「失去所有信用」**，但仍認為 CPO 與光收發模組量產「營運上有吸引力」；22:58 UTC [回覆](https://x.com/aleabitoreddit/status/2122826811667263749)稱 AOI 承諾支出 $956M、現金 $605M，需要更多融資。\n- 11/17 11:59 UTC：[貼文](https://x.com/aleabitoreddit/status/2122660925488718046)稱川普政府將封鎖中國 AI 資料中心設備（如光收發模組）進口，有利西方光通訊廠；10:22 UTC [回覆](https://x.com/aleabitoreddit/status/2122636464672383306)稱 $IQE 自他建倉以來獲 $MTSI 支持並與 $TSEM 簽約。\n- 11/17 09:52 UTC：[貼文](https://x.com/aleabitoreddit/status/2122628849657954454)稱 $AAPL 洽 Samsung 簽 DRAM 長約；20:39 UTC [貼文](https://x.com/aleabitoreddit/status/2122791681405997440)續挺黃仁勳。\n- 11/17 23:34 UTC（11/18 07:34 台北）：[貼文](https://x.com/aleabitoreddit/status/2122835908596846950)整理 $NVDA 財報電話會議重點「需求遠大於供給」，認為對 $MU／Samsung 記憶體多頭是好消息（供應承諾由 $279B 增至 $390B）。\n- **沒有新的加減碼說法**。\n\n### @SerenityRSH\n- 這三天**沒有發文**，最近一則仍是 2026-07-19（[貼文](https://x.com/SerenityRSH/status/2078941062572413243)）；無法證實與 @aleabitoreddit 是同一人。\n\n## 最新持股\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media）114,750,000 股，2024/12/17 轉入 Donald J. Trump Revocable Trust | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月最大筆買進：META（$5M–$25M，8/21）；CVX、COP、T、ABT、NFLX（各 $1M–$5M，8/21）；MSFT、MCD、CMCSA（各 $1M–$5M，8/10） | [OGE 278-T（9/17 簽署、10/8 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Trump | SpaceX 優先無擔保票據（5.35%，2031/7 到期）$1M–$5M，8/18 買進（**債券，不是 SPCX 股票**） | 同上 OGE 278-T |\n| Trump | NVDA：8 月有買有賣（賣出 8/21 $500,001–$1,000,000） | 同上 OGE 278-T |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股，不含 423,743,904 股 2025 績效獎勵股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | AAOI（11/7 節稅賣出一部分，仍做多）、SIVE、AXTI（11/13 稱個人很喜歡）、IQE、HPS.A、RKLB、LPK、AGLT、EWY/DRAM、POET（小部位）、ESMT、LWLG（小部位）；**不持有 ASTS** | 本人 X 貼文 |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：OGE 官方 API 最新 278 申報仍是 2026-10-08 公開（9/17 簽署、8 月交易）；[Breakaway](https://getbreakaway.com/white-house/donald-trump) 也顯示 Last filed Oct 8。今天查 Breakaway、CNBC 與 X 新聞彙整，**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。9 月交易依 45 天規定應在 11 月中前後申報，近期可能出現。\n- **Musk**：[SEC submissions（CIK 1494730）](https://data.sec.gov/submissions/CIK0001494730.json) 最新個人申報仍是 8/13 的 SPCX 13G。\n- **SpaceX 其他大股東**：今天無新申報；前一日（11/16）新增 [Antonio J. Gracias（Valor 相關實體）13G/A](https://www.sec.gov/Archives/edgar/data/1181412/000121390026120715/0001213900-26-120715.txt)（以 10/15 流通 A 股 8,246,541,218 股計算比例）；11/13 另有 Founders Fund 13G/A。都與追蹤的四個帳號無關。\n- **Serenity**：沒有新的加減碼說法。\n\n## 最近三日新聞\n- **CNBC 分析 Trump 的 NVDA 交易**（11/16）：自重返白宮以來 Trump 帳戶買賣 NVDA 至少 103 次，合計 $2,700 萬–$9,750 萬；其中 5/18 賣出 $500,001–$1,000,000；白宮稱由獨立顧問管理（[CNBC](https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html)）。均為既有申報，**沒有新 278-T**。\n- **Warren、Kelly 呼籲禁止官員持股**，引 Trump 的 NVDA 交易（[X 彙整](https://x.com/i/trending/2122733887675826286)，11/17）。\n- **Trump 市政債買進爭議**持續（[X 彙整](https://x.com/i/trending/2121653182237667753)），屬債券，不是股票。\n- **Kalshi 依 CFTC 命令暫停 Trump 發言用語押注**（[X 彙整](https://x.com/i/trending/2122763625878126659)，11/17），與持股無直接關係。\n\n## SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。\n- **13F 揭露機構進出 SpaceX**：X 彙整稱 Druckenmiller（Duquesne）Q3 新建約 202,125 股（約 $3,000 萬）、Appaloosa 大增、ARK 加碼約 $5,200 萬，Citadel 減碼 94%；NVIDIA 持股增 6.3% 至 1.305 億股（[X 彙整](https://x.com/i/trending/2122451367881273520)）；沙烏地 PIF 9/30 持有 1.541 億股、約 233 億美元（[X 彙整](https://x.com/i/trending/2122448318978462170)）。\n- **SpaceX CFO Bret Johnsen**（11/17 TomorrowX 峰會）：稱 Anthropic 占 Q3 營收超過三分之一，軌道運算衛星明年發射（[X 彙整](https://x.com/i/trending/2122812105086885890)）。\n- **SpaceX–Tesla 合併傳聞**：最快 12 月或 2027 年初宣布（[X 彙整](https://x.com/i/trending/2121699140224852454)），**仍無公司正式公告或 SEC 申報證實**。\n- **前情**：12/8 禁售期到期；Tesla 股東會 12/3。\n\n*以上新聞大多來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導與公司公告為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：X 帳號沒有新發文。\n- **揭露面**：OGE 官方最新仍是 8 月交易；NVDA 部位與市政債持續被國會與媒體檢視。\n- **風險點**：9 月 278-T 隨時可能公開。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：批評 AAOI 再推 $550M ATM，但仍看好營運；談中國光通訊設備禁令、IQE、Apple DRAM 長約；沒有新加減碼。\n- **揭露面**：**沒有任何監管申報**，持股全部來自本人貼文，無法查證。\n- **風險點**：AAOI 增資稀釋；光通訊／記憶體集中部位波動大。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：轉推 SpaceX CFO 談話、Tesla 12/3 股東會投票呼籲；未談個人持股。\n- **揭露面**：今天查 SEC EDGAR 沒有新的個人申報；最近一筆真正賣出是 4/2 的 11,390 股 SPCX（約 $120 萬）。\n- **風險點**：SpaceX–Tesla 合併傳聞尚未證實、12/8 解鎖供給。\n\n## 資料缺口\n- Trump 只查 X 帳號，Truth Social 沒有直接查。278-T PDF 為掃描檔，賣出日期／金額為文字辨識結果。\n- 13F 相關數字（PIF、NVIDIA、Duquesne 等）來自 X 新聞彙整，未直接讀 13F 原文。\n- Gracias 13G/A 的持股比例今天未從原文擷取。\n- SPCX 最新收盤價今天沒有找到可靠來源。\n- 11/18 11:30（台北）重跑複查：OGE API 仍無新 278-T（NONE_PENDING）、SEC EDGAR 無新 Musk Form 4、四個帳號 07:00 後的 X 貼文都沒有新的買賣說法；近期賣出維持 27 筆。\n",
   "report": "holdings_report_20261118.md"
  },
  "ai": [
