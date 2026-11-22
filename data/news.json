@@ -14,6 +14,449 @@
  ],
  "days": [
   {
+   "title": "近3日重大股票、期貨新聞整理（2026-11-21 至 2026-11-23）",
+   "compiled": "2026-11-23 06:59（臺灣時間）",
+   "sort_note": "依類別順序排列，各類別內依新聞發布時間由新到舊排序，每類最多5則；新聞日期依原文頁面發布時間換算為臺灣日期。",
+   "note": "本次不足5則的類別為 航運（1則）、Futures（1則）、Currencies（4則）、Commodities（2則）、Energy（4則）；其餘類別各5則。",
+   "categories": [
+    {
+     "name": "半導體",
+     "items": [
+      {
+       "no": 1,
+       "title": "軟銀欲收購SK海力士？孫正義一度考慮砸1兆美元、已接洽華爾街",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：軟銀欲收購SK海力士？孫正義一度考慮砸1兆美元、已接洽華爾街",
+       "url": "https://news.cnyes.com/news/id/6669717",
+       "summary": "孫正義曾評估收購SK海力士，並接觸華爾街探詢融資；軟銀證實曾考慮，但現已不再積極推進；交易規模恐近1兆美元，主因是融資需求龐大且無華爾街機構願意承擔，另有監管審查障礙；若成真可補齊軟銀AI版圖的記憶體缺口，並掌握HBM等AI晶片關鍵供應鏈。"
+      },
+      {
+       "no": 2,
+       "title": "SK海力士取得鎧俠14.1%股權成最大間接股東！八年投資獲利逾20兆韓元",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：SK海力士取得鎧俠14.1%股權成最大間接股東！八年投資獲利逾20兆韓元",
+       "url": "https://news.cnyes.com/news/id/6669710",
+       "summary": "SK海力士將行使SPC2可轉債轉股並收購其餘股份，完成後間接持有鎧俠約14.1%，成為最大間接股東；交易預計12月4日完成；SK海力士透過SPC2持有鎧俠股權，未來2028年前總表決權不得超過15%；SK海力士與鎧俠合計掌握全球NAND市占約33%，市場關注此舉對NAND產業整合與未來合作的影響"
+      },
+      {
+       "no": 3,
+       "title": "台積電周線重挫15.8%！台股創36年最慘單周紀錄、美收緊AI晶片出口管制添壓",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：台積電周線重挫15.8%！台股創36年最慘單周紀錄、美收緊AI晶片出口管制添壓",
+       "url": "https://news.cnyes.com/news/id/6669709",
+       "summary": "台積電股價疲弱，台股周五跌6.23%，本周累跌約17.5%，創1990年來最大單周跌幅；美國商務部對海外資料中心出租AI運算能力加嚴出口管制，BIS新規11月19日生效；台積電ADR收318.71美元，跌至4月2日來低點，已跌破200日均線並較20日均線低約15.8%"
+      },
+      {
+       "no": 4,
+       "title": "郭明錤：Google明年下修博通TPU出貨約百萬顆 「聯發科」可望受惠",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：郭明錤：Google明年下修博通TPU出貨約百萬顆 「聯發科」可望受惠",
+       "url": "https://news.cnyes.com/news/id/6669649",
+       "summary": "郭明錤：Google 2027年TPU 8i出貨下修約100萬顆，約原估全年量20%；下修集中於博通設計的8i Max（Whalefish）；Google稱前沿模型研發優先取得算力；聯發科設計的8t出貨預計增加，但數量未定，暫難抵銷8i減量。"
+      },
+      {
+       "no": 5,
+       "title": "南韓出口首破1兆美元晶片出貨有增，價格漲得更快",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：南韓出口首破1兆美元晶片出貨有增，價格漲得更快",
+       "url": "https://news.cnyes.com/news/id/6669629",
+       "summary": "南韓政府公布，今年累計商品出口於11月19日首度突破1兆美元，截至當日較去年同期成長62.9%。這波出口成長不只是晶片賣得更多。南韓央行的貿易指數顯示，今年前10個月，半導體隱含美元單價的年增幅，每個月都高於出口量增幅。10月的量價差距尤其明顯。"
+      }
+     ]
+    },
+    {
+     "name": "AI",
+     "items": [
+      {
+       "no": 1,
+       "title": "高盛為馬斯克「操作」融資買GPU！採用公司債與ABS混合架構",
+       "date": "2026-11-23",
+       "map": "",
+       "source_name": "鉅亨網：高盛為馬斯克「操作」融資買GPU！採用公司債與ABS混合架構",
+       "url": "https://news.cnyes.com/news/id/6669872",
+       "summary": "高盛、Apollo協助SpaceX完成約320億美元債券定價，屬總額約440億美元融資計畫核心；高盛以SPV買輝達晶片、發行債券並以約五年租賃收租還債，屬ABS結合公司債新架構；貝萊德、Pimco等認購，但SpaceX須付較高融資溢價；交易或成科技巨頭AI晶片籌資範例。"
+      },
+      {
+       "no": 2,
+       "title": "5000億美元AI晶片融資陷分歧：輝達擔保比例成焦點",
+       "date": "2026-11-23",
+       "map": "",
+       "source_name": "鉅亨網：5000億美元AI晶片融資陷分歧：輝達擔保比例成焦點",
+       "url": "https://news.cnyes.com/news/id/6669871",
+       "summary": "5000億美元AI晶片融資仍停留籌資目標，MOU僅列目標金額、客戶類型與信用支持方式；黃仁勳8月稱信用支持上限為專案成本25%；部分投資者要求更高殘值擔保，博通案約85%；輝達調整客戶融資政策並趨審慎；高盛估今年晶片及算力融資480億美元，2027年AI專案融資規模上調至5450億美元"
+      },
+      {
+       "no": 3,
+       "title": "馬斯克警告：AI產業2027年將面臨數千億美元資金短缺危機",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：馬斯克警告：AI產業2027年將面臨數千億美元資金短缺危機",
+       "url": "https://news.cnyes.com/news/id/6669844",
+       "summary": "馬斯克警告，全球AI產業2027年恐出現數千億美元資金短缺，主因是硬體採購與獲利變現有時間差；他稱GPU、HBM、DRAM供不應求，且數據中心、電力與冷卻建置拖慢部署，2027年AI晶片至少缺15 GW電力；高盛估2026年AI資本支出近1兆美元、債務約6,000億美元。"
+      },
+      {
+       "no": 4,
+       "title": "美股慘崩 AI產業是泡沫破裂還是價格重估？",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：美股慘崩 AI產業是泡沫破裂還是價格重估？",
+       "url": "https://news.cnyes.com/news/id/6669832",
+       "summary": "那斯達克本周重挫10%，自高點回撤約18%，標普500與道瓊也進入技術性修正區間；輝達單周跌約23%、市值蒸發2.7兆美元；CoreWeave、AMD、Alphabet等AI供應鏈同步受壓；市場憂慮AI高額資本支出難轉化回報，升息與融資成本上升加劇估值重估"
+      },
+      {
+       "no": 5,
+       "title": "甲骨文宣布OpenAI基礎設施合約資金全數到位！股價盤後漲逾3%",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：甲骨文宣布OpenAI基礎設施合約資金全數到位！股價盤後漲逾3%",
+       "url": "https://news.cnyes.com/news/id/6669716",
+       "summary": "甲骨文(ORCL-US)周五（20日）表示，在本月稍早完成最後一輪募資後，該公司與OpenAI簽訂的基礎設施合約所需資金已全數到位。甲骨文股價在盤後交易中一度上漲3.3%。根據《路透》報導，甲骨文近期面臨投資人對其AI資料中心擴建資金來源的質疑，尤其隨著公司對OpenAI的業務曝險持續增加，市場關注甲骨文是否有足夠資金支應相關投資。"
+      }
+     ]
+    },
+    {
+     "name": "金融",
+     "items": [
+      {
+       "no": 1,
+       "title": "〈台股盤前要聞〉金管會：23日起全面禁平盤以下放空、10月外銷訂單連21紅",
+       "date": "2026-11-23",
+       "map": "",
+       "source_name": "鉅亨網：〈台股盤前要聞〉金管會：23日起全面禁平盤以下放空、10月外銷訂單連21紅",
+       "url": "https://news.cnyes.com/news/id/6669876",
+       "summary": "台股盤前要聞1.台股近期跌跌不休，單周累計重挫7,641.83點、跌幅達17.5%，20日加權指數收在36,033.29點。為遏止市場非理性恐慌並維護交易秩序，金管會緊急宣布祭出第三波穩定股市措施，自23日起實施「全面禁止平盤以下放空」等五大救市新制，盼能有效提振市場信心。"
+      },
+      {
+       "no": 2,
+       "title": "股市穩定基金上膛！南韓祭出穩市三箭 嚴打非法放空三個月",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：股市穩定基金上膛！南韓祭出穩市三箭 嚴打非法放空三個月",
+       "url": "https://news.cnyes.com/news/id/6669859",
+       "summary": "南韓高層金融官員緊急會議後宣布，將分階段推動穩定市場措施，並備妥股市穩定基金因應波動；措施包括放寬上市企業庫藏股買回上限3個月、對非法放空強化監控3個月並嚴厲處置；KOSPI上週五重挫5.21%至4869.96點、失守5000點；官員稱AI與晶片不確定性升高，但長期成長預期仍穩固。"
+      },
+      {
+       "no": 3,
+       "title": "韓股暴跌 散戶已無現金攤平！26兆韓元融資面臨斷頭風暴",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：韓股暴跌 散戶已無現金攤平！26兆韓元融資面臨斷頭風暴",
+       "url": "https://news.cnyes.com/news/id/6669840",
+       "summary": "韓股20日重挫，KOSPI跌5.21%失守4,900點，KOSDAQ跌5.71%；三星、SK海力士重挫並觸發Sidecar；KOFIA統計，截至19日投資人備用資金降至81.5669兆韓元，較12日少10.6678兆韓元；韓股融資貸款餘額仍達26.0832兆韓元，若股價續跌恐引發斷頭賣壓"
+      },
+      {
+       "no": 4,
+       "title": "全美融資餘額自1.5兆美元高點回落 那斯達克指數跌入修正區",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：全美融資餘額自1.5兆美元高點回落 那斯達克指數跌入修正區",
+       "url": "https://news.cnyes.com/news/id/6669841",
+       "summary": "美股高檔震盪下，全美融資餘額截至10月降至1.448兆美元，較6月歷史高點回落約540億美元；那斯達克自近期高點拉回近12%進入修正；分析師警告融資債務拋物線飆升後去槓桿，常是市場見頂警訊；Williams引述巴菲特1999年警語：技術變革不等於投資報酬，AI浪潮下仍須看公司競爭優勢與持久性。"
+      },
+      {
+       "no": 5,
+       "title": "花旗內控出大包！少算350億美元風險資產 被迫注資補強",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：花旗內控出大包！少算350億美元風險資產 被迫注資補強",
+       "url": "https://news.cnyes.com/news/id/6669306",
+       "summary": "花旗歐洲交易部門部分交易記錄錯誤，低估約350億美元RWA，因而向相關子公司注資、恢復資本緩衝；花旗稱今年夏季已發現並修正內部資本模型問題，子公司持續符合監管最低要求；事件使花旗爭取解除監管限制再添變數；其自2020年起已因風險管理與資料治理缺失遭罰4億、2024年再罰1.36億美元。"
+      }
+     ]
+    },
+    {
+     "name": "航運",
+     "items": [
+      {
+       "no": 1,
+       "title": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
+       "date": "2026-11-21",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E6%B5%B7",
+       "source_name": "鉅亨網：〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
+       "url": "https://news.cnyes.com/news/id/6669556",
+       "summary": "Brent上漲0.64%至92.57美元，WTI漲0.93%至83.98美元，但雙雙連3週收跌；胡塞武裝威脅攻擊沙國紅海港口，荷姆茲海峽油輪觸雷，推升供應風險；中東出口恢復、供應過剩及AI交易退潮引發需求疑慮，限制油價反彈。"
+      }
+     ]
+    },
+    {
+     "name": "Stocks",
+     "items": [
+      {
+       "no": 1,
+       "title": "美股賣壓恐持續？標普500進入修正區間、分析師揭逢低買進訊號",
+       "date": "2026-11-23",
+       "map": "",
+       "source_name": "鉅亨網：美股賣壓恐持續？標普500進入修正區間、分析師揭逢低買進訊號",
+       "url": "https://news.cnyes.com/news/id/6669874",
+       "summary": "標普500自10月6日高點跌11.6%，連7日下挫，正式進入技術性修正區間；AI投資疑慮、資料中心支出與聯準會升息壓力拖累科技股，那斯達克2026年迄今跌2.7%；分析師觀察VIX升至35.89與市場內部指標，待12月8日至9日聯準會會議及MU12月17日財報。"
+      },
+      {
+       "no": 2,
+       "title": "〈台股風向球〉連環套賣壓需時間換空間 長期投資人心態先穩住",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：〈台股風向球〉連環套賣壓需時間換空間 長期投資人心態先穩住",
+       "url": "https://news.cnyes.com/news/id/6669881",
+       "summary": "台股一周重挫7641點、跌幅17.5%，金管會全面限空，台積電上周五最後一盤湧入逾1萬張買單護盤；法人指美股重挫與AI資本支出疑慮續壓盤，融資斷頭恐擴大殺出，短期籌碼不易沉澱；元大、永豐都建議降低槓桿與持股，未見轉機前勿攤平或搶反彈；另關注黃仁勳12月1日國會聽證"
+      },
+      {
+       "no": 3,
+       "title": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
+       "url": "https://news.cnyes.com/news/id/6669833",
+       "summary": "VIX周五一度暴升至40、收35.89，單日大漲逾26%，創2025年4月關稅動盪以來新高；AI科技股拋售蔓延，標普500跌3.70%、那指跌5.28%、道指跌1.93%；Cboe稱VIX上漲多屬標普500下跌的機械性反應；歷史上VIX觸及40後，標普500後6個月常反彈約20%。"
+      },
+      {
+       "no": 4,
+       "title": "台股血崩7641點下周守住35000！國安基金急派「定心丸」喊話4大撐盤亮點",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：台股血崩7641點下周守住35000！國安基金急派「定心丸」喊話4大撐盤亮點",
+       "url": "https://news.cnyes.com/news/id/6669743",
+       "summary": "台股本周狂瀉7641.83點、跌幅17.5%，收36033.29點，市場關注35000點保衛戰；國安基金表示已進場護盤，外資賣超力道趨緩，呼籲投資人勿恐慌殺低；國安基金稱台灣基本面強勁，115年經濟成長率11.05%、外銷訂單9430億美元創高"
+      },
+      {
+       "no": 5,
+       "title": "AI疑慮引爆美股重挫！標普、道瓊雙雙陷入修正區間 那斯達克抹去全年漲幅",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：AI疑慮引爆美股重挫！標普、道瓊雙雙陷入修正區間 那斯達克抹去全年漲幅",
+       "url": "https://news.cnyes.com/news/id/6669685",
+       "summary": "AI投資疑慮升溫，美股周五遭猛烈拋售，標普500與道瓊正式進入修正區間，那指今年報酬轉負；輝達跌13.8%，本週累跌約23%；Anthropic上市後股價回落，凸顯市場仍質疑AI估值與報酬；費半跌10.7%，CoreWeave、Nebius重挫；市場擔憂資料中心擴建放緩、融資與監管風險升高"
+      }
+     ]
+    },
+    {
+     "name": "Futures",
+     "items": [
+      {
+       "no": 1,
+       "title": "CTA陷「愈跌愈賣」惡性循環！高盛：未來一周美股將出現另一波大規模拋售",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：CTA陷「愈跌愈賣」惡性循環！高盛：未來一周美股將出現另一波大規模拋售",
+       "url": "https://news.cnyes.com/news/id/6669718",
+       "summary": "高盛警告美股陷「賣壓引發更多賣壓」循環，系統性投資人仍有大規模減碼需求；CTA過去一月已賣出570億美元股票，未來一周估再賣658億至806億美元；Anthropic IPO未提振市場，AI資本支出回報疑慮升高，科技股與散戶偏好股續跌。"
+      }
+     ]
+    },
+    {
+     "name": "Rates & Bonds",
+     "items": [
+      {
+       "no": 1,
+       "title": "2018年劇本重演？美股暴跌 投資人質疑聯準會緊縮政策",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：2018年劇本重演？美股暴跌 投資人質疑聯準會緊縮政策",
+       "url": "https://news.cnyes.com/news/id/6669834",
+       "summary": "美股連跌6日、標普500跌破200日線，高盛稱賣壓屬「全面清倉式變現」，金融條件急速緊縮；Fed官員釋鷹派訊號，華勒提及升息50基點可能，高盛仍估12月升息1碼、2027年3月再升息；黃金跌破每盎司3600美元、銅價單日跌約5%；高盛稱股金同跌顯示流動性收縮，債市偏多短天期國債。"
+      },
+      {
+       "no": 2,
+       "title": "聯準會政策衝擊要來了？庫克指利率未抑制AI建設，等太久恐需更大幅升息",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：聯準會政策衝擊要來了？庫克指利率未抑制AI建設，等太久恐需更大幅升息",
+       "url": "https://news.cnyes.com/news/id/6669775",
+       "summary": "美國聯準會理事庫克（LisaCook）表示，現行利率尚未明顯抑制AI基礎建設，金融條件對經濟的支撐仍過強。她質疑9月升息一碼是否足以扭轉通膨走勢，並警告，如果等到通膨壓力更加明顯才採取行動，日後可能需要更大幅升息。她未提出12月應升息的具體幅度。"
+      },
+      {
+       "no": 3,
+       "title": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
+       "url": "https://news.cnyes.com/news/id/6669652",
+       "summary": "AI與科技股遭猛烈拋售，資金轉進政府公債避險，主要國家殖利率同步下滑；市場憂AI估值、企業舉債建置算力與投資回報，瑞銀稱信用利差已劇烈重估；Fed理事華勒稱須更積極壓抑通膨，市場幾乎完全反映12月升息1碼預期"
+      },
+      {
+       "no": 4,
+       "title": "美國通膨預期創9個月新低！11月密大消費信心回升 選後展望轉佳",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：美國通膨預期創9個月新低！11月密大消費信心回升 選後展望轉佳",
+       "url": "https://news.cnyes.com/news/id/6669541",
+       "summary": "美國11月密大消費者信心終值升至51.5，較10月48回升，略低於預估51.6；一年期通膨預期由4.7%降至3.7%，五至十年也降至3.3%，汽油降至約每加侖3.75美元；選後無黨派選民展望明顯改善，家庭財務回升；但高物價與高房貸利率仍壓抑信心。"
+      },
+      {
+       "no": 5,
+       "title": "AI風暴燒進債市！CoreWeave違約避險成本飆升 Alphabet創新高",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：AI風暴燒進債市！CoreWeave違約避險成本飆升 Alphabet創新高",
+       "url": "https://news.cnyes.com/news/id/6669543",
+       "summary": "CoreWeave五年期CDS一度升至1,232.6基點，市場隱含未來五年違約機率逾65%；甲骨文、Alphabet、輝達、SpaceX、Meta、博通信用風險指標同步惡化，AI企業債承壓；科技股拋售擴散至債市，CoreWeave 2031年債券跌至約80美分。"
+      }
+     ]
+    },
+    {
+     "name": "Currencies",
+     "items": [
+      {
+       "no": 1,
+       "title": "加密貨幣失寵 昔日支持者加速認賠出場",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：加密貨幣失寵 昔日支持者加速認賠出場",
+       "url": "https://news.cnyes.com/news/id/6669842",
+       "summary": "比特幣跌破57,742美元，創2024年9月以來新低，總市值縮至約2兆美元，較去年高點腰斬；美元走強、Fed升息押注升溫，加上幣安遭創紀錄駭客攻擊，市場賣壓加劇；投資人加速認賠離場，資金轉向AI股票、預測市場與永續期貨，加密熱潮退燒。"
+      },
+      {
+       "no": 2,
+       "title": "比特幣崩了！5.5萬美元背後 加密市場發生了什麼？",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：比特幣崩了！5.5萬美元背後 加密市場發生了什麼？",
+       "url": "https://news.cnyes.com/news/id/6669851",
+       "summary": "比特幣跌破6萬美元，一度探低至55,251.60美元，創2024年9月以來新低；回檔主因是全球風險資產同步修正，AI估值疑慮、美債殖利率與美元走強壓抑風險偏好；IBIT單日淨流出5.411億美元，24小時加密衍生品爆倉約24億美元，做多遭清算。"
+      },
+      {
+       "no": 3,
+       "title": "超29萬人爆倉！比特幣跌破5.9萬美元、以太坊重挫8%  「數位黃金」失靈？",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：超29萬人爆倉！比特幣跌破5.9萬美元、以太坊重挫8%  「數位黃金」失靈？",
+       "url": "https://news.cnyes.com/news/id/6669708",
+       "summary": "AI概念股賣壓擴大，比特幣跌破5.9萬美元，以太幣、瑞波幣近24小時跌幅均達8%；輝達跌14.01%、美光跌13.89%、超微跌13.25%；QQQ與黃金同步跌2%，資金撤出風險資產；比特幣較2025年10月高點低約53%，IBIT近1個月淨流出13.7億美元，市場關注6萬美元支撐。"
+      },
+      {
+       "no": 4,
+       "title": "〈紐約匯市〉美元走軟 日元、瑞郎強升 比特幣跌破6萬美元",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：〈紐約匯市〉美元走軟 日元、瑞郎強升 比特幣跌破6萬美元",
+       "url": "https://news.cnyes.com/news/id/6669310",
+       "summary": "美元指數跌0.07%至103.8715，終止連8漲；Fed官員仍偏鷹，美元跌幅受限；AI疑慮壓抑全球股市，資金轉進美債避險，推低殖利率並帶動日元、瑞郎升值；日本10月核心CPI年增2.2%，強化日銀升息理由；川普批評利率過高、聯準會具政治性。"
+      }
+     ]
+    },
+    {
+     "name": "Commodities",
+     "items": [
+      {
+       "no": 1,
+       "title": "精準預測黃金跌勢的分析師又發聲了 他警告投資人小心「多頭陷阱」",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：精準預測黃金跌勢的分析師又發聲了 他警告投資人小心「多頭陷阱」",
+       "url": "https://news.cnyes.com/news/id/6669831",
+       "summary": "現貨黃金本周一度下探 3,514.90 美元、白銀跌至 41.02 美元，印證 Radomski 先前預測的修正目標；分析師稱金價跌破 3,800 美元屬投降式拋售，反彈恐是多頭陷阱；美元指數升至 103.89、實質利率上揚，且市場預期聯準會 12 月升息。"
+      },
+      {
+       "no": 2,
+       "title": "〈貴金屬盤後〉黃金崩跌至14個月低點！單週重挫9.4%創8個月最慘紀錄 白銀、鉑金同步走弱",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：〈貴金屬盤後〉黃金崩跌至14個月低點！單週重挫9.4%創8個月最慘紀錄 白銀、鉑金同步走弱",
+       "url": "https://news.cnyes.com/news/id/6669557",
+       "summary": "Fed官員續釋鷹派訊號，市場估12月升息1碼機率約96%，金價承壓下挫；現貨黃金跌約3%至每盎司3,514.08美元，創14個月低點；本週累跌9.4%，寫8個月最大單週跌幅；AI概念股遭拋售引發流動性賣壓，投資人出售黃金籌資；白銀、鉑金、鈀金同步走弱。"
+      }
+     ]
+    },
+    {
+     "name": "Sectors",
+     "items": [
+      {
+       "no": 1,
+       "title": "需求成長 這兩大LEO供應鏈廠還將進行市場籌資200億元擴充",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：需求成長 這兩大LEO供應鏈廠還將進行市場籌資200億元擴充",
+       "url": "https://news.cnyes.com/news/id/6669835",
+       "summary": "華通前3季稅後純益51.83億元、EPS 4.31元；董事會決議發行無擔保CB籌資180億元；華通因應AI資料中心與低軌衛星需求，規劃2026-2028年資本支出皆逾200億元；昇達科前9月稅後純益8.12億元、EPS 11.86元；決議發行20億元無擔保CB，受惠衛星部署擴大"
+      },
+      {
+       "no": 2,
+       "title": "台灣生技二次革命啟動！擺脫燒錢宿命，4大收成贏家引爆2027行情",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：台灣生技二次革命啟動！擺脫燒錢宿命，4大收成贏家引爆2027行情",
+       "url": "https://news.cnyes.com/news/id/6669141",
+       "summary": "台灣生技受歐美日藥證、授權與商業化推進，估值重評潮啟動；新藥聚焦差異化療法、擴新適應症與創新劑型，搶攻全球藍海市場；CDMO大單與高階隱形眼鏡需求回溫，藥華藥、保瑞、視陽、望隼受惠。"
+      },
+      {
+       "no": 3,
+       "title": "車用照明與感測逐步撐腰台LED廠 雷笛克、光鋐出貨結構優化",
+       "date": "2026-11-22",
+       "map": "",
+       "source_name": "鉅亨網：車用照明與感測逐步撐腰台LED廠 雷笛克、光鋐出貨結構優化",
+       "url": "https://news.cnyes.com/news/id/6669513",
+       "summary": "隨著傳統消費性電子需求走弱，台灣LED產業近年積極調整產品結構並淡出低毛利市場，目前車用照明與顯示應用已逐步成為支撐台廠業績的核心支柱。其中光學透鏡廠雷笛克(5230-TW)受惠於多款車用照明新專案步入放量階段，第三季車用領域銷售創下歷年單季新高，占整體營收比重達44%，帶動單季毛利率重返三成大關並較去年同期轉虧為盈。"
+      },
+      {
+       "no": 4,
+       "title": "太陽能供應鏈｜特斯拉擬在德州生產多晶矽，美國進口與本土模組價差已縮小",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：太陽能供應鏈｜特斯拉擬在德州生產多晶矽，美國進口與本土模組價差已縮小",
+       "url": "https://news.cnyes.com/news/id/6669776",
+       "summary": "特斯拉Tesla(TSLA-US)向德州申請租稅優惠，擬在紐埃瑟斯郡投資約31億美元，興建太陽能級多晶矽工廠，目標2030年投產。這是繼福遍郡規劃晶錠、晶圓與太陽能電池廠後，特斯拉再向上游布局。多晶矽是拉製晶錠的原料，晶錠切成晶圓後再製成電池，最後組成太陽能模組。德州稅務優惠是這座上游廠選址的關鍵，計畫不是已確定落地。"
+      },
+      {
+       "no": 5,
+       "title": "CrowdStrike洽購Zscaler ZS盤後飆18% 資安整併潮延燒",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：CrowdStrike洽購Zscaler ZS盤後飆18% 資安整併潮延燒",
+       "url": "https://news.cnyes.com/news/id/6669715",
+       "summary": "CrowdStrike傳洽談收購Zscaler，交易可能近期達成，但收購價碼與結果尚未確定；消息曝光後，Zscaler盤後飆漲18%，CrowdStrike跌逾8%；AI帶動資安需求升溫，Google、思科及Palo Alto Networks近年接連大手筆併購，產業整併持續加速。"
+      }
+     ]
+    },
+    {
+     "name": "Energy",
+     "items": [
+      {
+       "no": 1,
+       "title": "伊朗宣稱擊中巴林美軍雷達 沙烏地攔截一枚飛彈",
+       "date": "2026-11-22",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B4%E6%9E%97",
+       "source_name": "鉅亨網：伊朗宣稱擊中巴林美軍雷達 沙烏地攔截一枚飛彈",
+       "url": "https://news.cnyes.com/news/id/6669843",
+       "summary": "伊朗革命衛隊稱發射飛彈與無人機，擊中美軍巴林防空雷達；美軍中央司令部否認戰機受損；沙烏地主導聯軍攔截射向延布原油終端的胡塞飛彈，UKMTO稱兩艘油輪在阿曼外海遭不明拋射物擊中；荷姆茲海峽威脅升至「嚴重」，通行量較戰前降65%，布蘭特原油維持83.62美元高位。"
+      },
+      {
+       "no": 2,
+       "title": "川普要求與伊朗達成「永久」核協議！荷姆茲海峽兩油輪遇襲",
+       "date": "2026-11-22",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+       "source_name": "鉅亨網：川普要求與伊朗達成「永久」核協議！荷姆茲海峽兩油輪遇襲",
+       "url": "https://news.cnyes.com/news/id/6669824",
+       "summary": "川普稱希望達成永久協議，阻止伊朗取得核武，即使未來更換總統也應持續有效；阿曼外海兩艘油輪駛離荷姆茲海峽時遭不明飛行物擊中，未造成人員傷亡；UKMTO將荷姆茲海峽威脅升至「嚴重」，航運量較戰前減少約65%，原油周五報83.62美元。"
+      },
+      {
+       "no": 3,
+       "title": "資料中心用電｜阿拉巴馬州擬降電費1.6億美元，大用戶如何分攤電網成本？",
+       "date": "2026-11-21",
+       "map": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E6%8B%89%E5%B7%B4%E9%A6%AC%E5%B7%9E",
+       "source_name": "鉅亨網：資料中心用電｜阿拉巴馬州擬降電費1.6億美元，大用戶如何分攤電網成本？",
+       "url": "https://news.cnyes.com/news/id/6669774",
+       "summary": "美國南方電力SouthernCompany(SO-US)旗下阿拉巴馬電力公司（AlabamaPower）向州監管機關申報，擬自2027年1月帳單起調降用戶費率，全年合計減收1.6億美元。公司估計，每月用電1,000度的家庭一年可省逾50美元，並把這次調降主要歸因於明年預期增加的大型資料中心售電收入。"
+      },
+      {
+       "no": 4,
+       "title": "美參院通過能源許可改革 鬆綁基建審查、資料中心須自付能源成本",
+       "date": "2026-11-21",
+       "map": "",
+       "source_name": "鉅亨網：美參院通過能源許可改革 鬆綁基建審查、資料中心須自付能源成本",
+       "url": "https://news.cnyes.com/news/id/6669677",
+       "summary": "美參院19日以62比33通過兩黨能源許可改革法案，送交眾院審議；法案加速電廠、輸電線等審查，並要求資料中心為所用能源付費；川普讚為能源獨立勝利；環團批將削弱環保保障、助長化石燃料"
+      }
+     ]
+    }
+   ],
+   "warnings": [],
+   "day": "2026-11-23"
+  },
+  {
    "title": "近3日重大股票、期貨新聞整理（2026-11-20 至 2026-11-22）",
    "compiled": "2026-11-22 07:00（臺灣時間）",
    "sort_note": "依類別順序排列，各類別內依新聞發布時間由新到舊排序，每類最多5則；新聞日期依原文頁面發布時間換算為臺灣日期。",
@@ -22246,10 +22689,14 @@
     "Source": "OGE 278-T 2026-11-01（11/9 OGE核可、11/19公開）；Quiver/X彙整"
    }
   ],
-  "md": "# 名人持股與貼文整理（2026-11-22）\n\n整理時間：2026-11-22 07:35（台北）。貼文範圍：2026-11-21 07:00 至 11-22 07:30（台北時間）。今天直接查 **OGE 官方 API**：oge_import.py 回報 **NONE_PENDING，沒有新的 Trump 278-T**；**最新 OGE 申報 docDate 仍為 2026-11-19**（11/1 申報的 9 月交易 278-T），已於 11/20 完整匯入。SEC EDGAR（data.sec.gov submissions，Musk CIK 1494730）**沒有新的個人申報**，最新仍是 8/13 的 SPCX Schedule 13G。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 近期賣出\n### Trump（OGE 278-T，11/1 申報、11/19 公開，9 月交易；股數未揭露，金額為申報級距）\n- **GOVT（iShares U.S. Treasury Bond ETF）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **XLC（State Street Communication Services Select Sector SPDR ETF）｜2026/9/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IGOV（iShares International Treasury Bond ETF）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **STZ（Constellation Brands）｜2026/9/23 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **NKE（Nike Class B）｜2026/9/23 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CMCSA（Comcast）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FIS（Fidelity National Information Services）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **HD（Home Depot）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- 以上 8 筆為今天由 [OGE 278-T（11/1 申報、11/9 OGE 核可、11/19 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf) 匯入（掃描檔文字辨識，日期 OCR「9/2312026」判讀為 9/23/2026、「9110/2026」判讀為 9/10/2026；市政債賣出不列入）。同一申報中最大筆買進為 **VIG $5,000,001–$25,000,000（9/23）**；另有 GME（GameStop）小額買進 $1,001–$15,000（Quiver／X 彙整 11/19 報導，PDF 中確有 GAMESTOP CORP 項目）。\n\n### Trump（前一份 OGE 278-T，9/17 簽署、10/8 公開，8 月交易；股數未揭露，金額為申報級距）\n- **NVDA（NVIDIA）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BSV（Vanguard Short-Term Bond Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FCOM（Fidelity MSCI Communication Services Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **VIG（Vanguard Dividend Appreciation Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **BWX（SPDR Bloomberg International Treasury Bond ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IAU（iShares Gold Trust）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IWB（iShares Russell 1000 ETF）｜2026/8/17 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AMD（Advanced Micro Devices）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **CHD（Church & Dwight）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **MOD（Modine Manufacturing）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AVGO（Broadcom）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **MCHP（Microchip Technology）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **FTNT（Fortinet）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BA（Boeing）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **LII（Lennox International）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **HD（Home Depot）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **ZTS（Zoetis）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TMUS（T-Mobile US）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DDOG（Datadog）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CDW（CDW（原檔辨識為 COW CORP））｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TDG（TransDigm Group）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DELL（Dell Technologies）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **PANW（Palo Alto Networks）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **KMB（Kimberly-Clark）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- 以上 24 筆 Trump 賣出中，NVDA、BSV、FCOM、VIG 4 筆原本就有（已用官方 PDF 再確認），其餘 20 筆為 11/15 起直接讀取 [OGE 官方 278-T PDF](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf) 匯入（掃描檔文字辨識，日期不清者已標註）。\n- **個股小額賣出（Flowers Foods、Under Armour、LKQ、Broadcom、Take-Two 等）｜2026/8/28–8/31｜股數：未揭露｜金額：各 $1,001–$15,000 或 $15,001–$50,000**\n- 另有多筆市政債賣出（例如 Texas Transportation Commission、Delaware Valley PA 等，8/25–8/26，各 $1,000,001–$5,000,000），不是股票。\n- 來源：[OGE 278-T](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf)（PDF 為掃描檔，日期以文字辨識結果與 X 新聞彙整交叉核對）。11/20 直接查 OGE 官方 JSON API：Trump 278 申報共 24 筆，**最新 docDate 為 2026-11-19**（上方 9 月交易申報），已匯入。查 X 新聞彙整與 Quiver 報導，**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。\n\n### Musk（SEC Form 4）\n- **SPCX（SpaceX A 股）｜2026/4/2 賣出（代碼 S）｜11,390 股｜約 $1,199,572（每股 $105.318）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000162828026044069/wk-form4_1781740812.xml)）\n- **TSLA｜2026/6/16 交付股票代扣稅（代碼 F，不是公開市場賣出）｜17,531,857 股｜約 $70.9 億（每股 $404.66）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075213/tm2618092-2_4seq1.xml)）\n- 11/22 查 SEC EDGAR，到今天**沒有新的 Form 4**（最新個人申報仍是 8/13 SPCX 13G）。\n\n### Serenity（@aleabitoreddit，本人貼文，無監管申報）\n- **AAOI｜2026/11/7 為節稅賣出一部分｜股數：未揭露｜金額：未揭露（本人稱實現數百萬美元虧損，仍做多）**\n- 11/19–11/22 也沒有新的賣出說法（11/19 貼文看好 SOI、COHR 回購與光通訊循環，未說賣出）；先前 11/18 19:25 UTC [回覆](https://x.com/aleabitoreddit/status/2123135584621539471)稱仍看好 AAOI 2027 下半年營收加速，但「誤判管理層融資作法」（**未說賣出**）；19:50 UTC [回覆](https://x.com/aleabitoreddit/status/2123141884034134132)稱不會告訴別人何時賣出。\n\n### @SerenityRSH\n- 沒有揭露任何持股或賣出。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- X 帳號查詢區間內**沒有新貼文**。\n\n### @elonmusk\n- 11/21 多則貼文談 Tesla FSD V15 視覺化、Grok，以及 AI4 晶片即時影片生成（[貼文](https://x.com/elonmusk/status/2124270426402836626)）。\n- 11/21 22:40 UTC：[回覆](https://x.com/elonmusk/status/2124271725927903388)稱大量算力要上線並穩定運作非常困難，且明年產業會出現嚴重現金短缺。\n- **沒有談自己的持股變動**。\n\n### @aleabitoreddit（Serenity）\n- 11/21 07:00 後（台北）查詢區間內**沒有新貼文**；11/19–11/20 貼文見前日報告（看好 SOI、COHR、光通訊，稱未持有 SNDK）。\n- **沒有新的加減碼或賣出說法**。\n\n### @SerenityRSH\n- 查詢區間內**沒有發文**，最近一則仍是 2026-07-19（[貼文](https://x.com/SerenityRSH/status/2078941062572413243)）。\n\n## 最新持股\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media）114,750,000 股，2024/12/17 轉入 Donald J. Trump Revocable Trust | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月最大筆買進：META（$5M–$25M，8/21）；CVX、COP、T、ABT、NFLX（各 $1M–$5M，8/21）；MSFT、MCD、CMCSA（各 $1M–$5M，8/10） | [OGE 278-T（9/17 簽署、10/8 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Trump | SpaceX 優先無擔保票據（5.35%，2031/7 到期）$1M–$5M，8/18 買進（**債券，不是 SPCX 股票**） | 同上 OGE 278-T |\n| Trump | NVDA：8 月有買有賣（賣出 8/21 $500,001–$1,000,000） | 同上 OGE 278-T |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股，不含 423,743,904 股 2025 績效獎勵股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | AAOI（11/7 節稅賣出一部分，仍做多）、SIVE、AXTI（11/13 稱個人很喜歡）、IQE、HPS.A、RKLB、LPK、AGLT、EWY/DRAM、POET（小部位）、ESMT、LWLG（小部位）、SOI（Soitec，11/18 稱當初建倉、看好）；**不持有 ASTS** | 本人 X 貼文 |\n| Trump | 2026 年 9 月最大筆買進：VIG（$5M–$25M，9/23）；GME 小額買進 $1,001–$15,000 | [OGE 278-T（11/1 申報、11/9 OGE 核可、11/19 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf) |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：OGE 官方 API 今天沒有新 278 申報（最新 docDate 2026-11-19）。媒體（[CNBC 11/19](https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html)、[24/7 Wall St. 11/20](https://247wallst.com/investing/2026/11/20/filings-show-trump-sold-mcd-and-hd-and-bought-spacex-stock-instead/)）重述的都是同一份 9 月申報，**沒有比 OGE 更新的 Trump 交易**。\n- **Musk**：[SEC submissions（CIK 1494730）](https://data.sec.gov/submissions/CIK0001494730.json) 最新個人申報仍是 8/13 的 SPCX 13G（11/22 查）。\n- **Serenity**：**沒有新的加減碼說法**。\n\n## 最近三日新聞\n- **Trump 9 月交易 278-T 持續被報導**：共 751 筆交易、總額約 $4,090 萬–$1.48 億，含 NVDA、PLTR、SpaceX 股票與債券買進，及 MCD、HD、CMCSA、L3Harris 賣出（[CNBC](https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html)、[Newsweek](https://www.newsweek.com/trump-stock-trades-nvidia-spacex-financial-disclosure-12744178)）。白宮稱由第三方經理人獨立操作。均為 11/19 已公開的既有申報。\n- **Trump 11/20 記者會力挺商務部長 Lutnick**，並提及政府持有 Intel 股票獲利（[X 彙整](https://x.com/i/trending/2123944296068022696)）；與 Trump 個人持股無關。\n\n## SPCX 近三日新聞\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。\n- **SpaceX 完成約 $440 億 NVIDIA GPU 融資**（11/20，Apollo、Goldman Sachs 主導，原規劃 $400 億；貸方要求不得把抵押晶片送上軌道）（[X 彙整](https://x.com/i/trending/2123762717333053449)）。\n- **HSBC 上調 Tesla 目標價至 $359，納入 SpaceX 合併情境**；Musk 在 DealBook 稱任何合併都需股東同意（[X 彙整](https://x.com/i/trending/2123754966263193643)）。合併**仍無公司正式公告或 SEC 申報證實**。\n- **Starship Flight 15 首次在軌道飛行後由發射塔接住上節**（[X 彙整](https://x.com/i/trending/2124121779161473067)）。\n- **前情**：12/8 禁售期到期；Tesla 股東會 12/3。\n\n*以上新聞大多來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導與公司公告為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：X 帳號沒有新發文。\n- **揭露面**：OGE 最新仍是 11/19 公開的 9 月 278-T，今天無新申報。\n- **風險點**：10 月交易依 45 天規定約 12 月中前後申報。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：今天查詢區間無新貼文；先前續看好 SOI、COHR，期待 SIVE 財報（約 11/26）。\n- **揭露面**：**沒有任何監管申報**，持股全部來自本人貼文，無法查證。\n- **風險點**：光通訊／記憶體集中部位在 AI 股賣壓下波動大。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：談 FSD V15、Grok 與算力／現金短缺；未談個人持股。\n- **揭露面**：今天查 SEC EDGAR 沒有新的個人申報；最近一筆真正賣出是 4/2 的 11,390 股 SPCX（約 $120 萬）。\n- **風險點**：$440 億晶片融資與合併傳聞、12/8 解鎖供給。\n\n## 資料缺口\n- Trump 只查 X 帳號，Truth Social 沒有直接查。278-T PDF 為掃描檔，賣出日期／金額為文字辨識結果。\n- 今天未直接查 Breakaway／Quiver／Capitol Trades 網站；網路搜尋與 X 新聞彙整僅重述 9 月申報，故沒有「尚待 OGE 官方確認」項目。\n- X 新聞數字來自 AI 摘要，未讀原文。今天僅用 EDGAR submissions 清單核對 Musk。\n- SPCX 最新收盤價今天沒有找到可靠來源。\n",
-  "report": "holdings_report_20261122.md"
+  "md": "# 名人持股與貼文整理（2026-11-23）\n\n整理時間：2026-11-23 07:30（台北）。貼文範圍：2026-11-22 07:00 至 11-23 07:30（台北時間）。今天直接查 **OGE 官方 API**：oge_import.py 回報 **NONE_PENDING，沒有新的 Trump 278-T**；**最新 OGE 申報 docDate 仍為 2026-11-19**（11/1 申報的 9 月交易 278-T），已於 11/20 完整匯入。SEC EDGAR（data.sec.gov submissions，Musk CIK 1494730）**沒有新的個人申報**，最新仍是 8/13 的 SPCX Schedule 13G。\n**注意**：政府申報只揭露「交易」或「金額級距」，網紅的持股是本人在貼文中的說法，都不是即時的完整持股。以下內容不構成投資建議。\n\n## 近期賣出\n### Trump（OGE 278-T，11/1 申報、11/19 公開，9 月交易；股數未揭露，金額為申報級距）\n- **GOVT（iShares U.S. Treasury Bond ETF）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **XLC（State Street Communication Services Select Sector SPDR ETF）｜2026/9/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IGOV（iShares International Treasury Bond ETF）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **STZ（Constellation Brands）｜2026/9/23 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **NKE（Nike Class B）｜2026/9/23 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CMCSA（Comcast）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FIS（Fidelity National Information Services）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **HD（Home Depot）｜2026/9/23 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- 以上 8 筆為今天由 [OGE 278-T（11/1 申報、11/9 OGE 核可、11/19 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf) 匯入（掃描檔文字辨識，日期 OCR「9/2312026」判讀為 9/23/2026、「9110/2026」判讀為 9/10/2026；市政債賣出不列入）。同一申報中最大筆買進為 **VIG $5,000,001–$25,000,000（9/23）**；另有 GME（GameStop）小額買進 $1,001–$15,000（Quiver／X 彙整 11/19 報導，PDF 中確有 GAMESTOP CORP 項目）。\n\n### Trump（前一份 OGE 278-T，9/17 簽署、10/8 公開，8 月交易；股數未揭露，金額為申報級距）\n- **NVDA（NVIDIA）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BSV（Vanguard Short-Term Bond Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **FCOM（Fidelity MSCI Communication Services Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **VIG（Vanguard Dividend Appreciation Index ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **BWX（SPDR Bloomberg International Treasury Bond ETF）｜2026/8/10 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IAU（iShares Gold Trust）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **IWB（iShares Russell 1000 ETF）｜2026/8/17 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AMD（Advanced Micro Devices）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **CHD（Church & Dwight）｜2026/8/21 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **MOD（Modine Manufacturing）｜2026/8月（日期辨識不清） 賣出｜股數：未揭露｜金額：$1,000,001–$5,000,000**\n- **AVGO（Broadcom）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **MCHP（Microchip Technology）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **FTNT（Fortinet）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **BA（Boeing）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **LII（Lennox International）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **HD（Home Depot）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **ZTS（Zoetis）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TMUS（T-Mobile US）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DDOG（Datadog）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **CDW（CDW（原檔辨識為 COW CORP））｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **TDG（TransDigm Group）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **DELL（Dell Technologies）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **PANW（Palo Alto Networks）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- **KMB（Kimberly-Clark）｜2026/8/21 賣出｜股數：未揭露｜金額：$500,001–$1,000,000**\n- 以上 24 筆 Trump 賣出中，NVDA、BSV、FCOM、VIG 4 筆原本就有（已用官方 PDF 再確認），其餘 20 筆為 11/15 起直接讀取 [OGE 官方 278-T PDF](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf) 匯入（掃描檔文字辨識，日期不清者已標註）。\n- **個股小額賣出（Flowers Foods、Under Armour、LKQ、Broadcom、Take-Two 等）｜2026/8/28–8/31｜股數：未揭露｜金額：各 $1,001–$15,000 或 $15,001–$50,000**\n- 另有多筆市政債賣出（例如 Texas Transportation Commission、Delaware Valley PA 等，8/25–8/26，各 $1,000,001–$5,000,000），不是股票。\n- 來源：[OGE 278-T](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf)（PDF 為掃描檔，日期以文字辨識結果與 X 新聞彙整交叉核對）。11/20 直接查 OGE 官方 JSON API：Trump 278 申報共 24 筆，**最新 docDate 為 2026-11-19**（上方 9 月交易申報），已匯入。查 X 新聞彙整與 Quiver 報導，**沒有比 OGE 更新的 Trump 交易**（無「尚待 OGE 官方確認」項目）。\n\n### Musk（SEC Form 4）\n- **SPCX（SpaceX A 股）｜2026/4/2 賣出（代碼 S）｜11,390 股｜約 $1,199,572（每股 $105.318）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000162828026044069/wk-form4_1781740812.xml)）\n- **TSLA｜2026/6/16 交付股票代扣稅（代碼 F，不是公開市場賣出）｜17,531,857 股｜約 $70.9 億（每股 $404.66）**（[Form 4，6/17 申報](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075213/tm2618092-2_4seq1.xml)）\n- 11/23 查 SEC EDGAR，到今天**沒有新的 Form 4**（最新個人申報仍是 8/13 SPCX 13G）。\n\n### Serenity（@aleabitoreddit，本人貼文，無監管申報）\n- **AAOI｜2026/11/7 為節稅賣出一部分｜股數：未揭露｜金額：未揭露（本人稱實現數百萬美元虧損，仍做多）**\n- 11/19–11/23 也沒有新的賣出說法（11/19 貼文看好 SOI、COHR 回購與光通訊循環，未說賣出）；先前 11/18 19:25 UTC [回覆](https://x.com/aleabitoreddit/status/2123135584621539471)稱仍看好 AAOI 2027 下半年營收加速，但「誤判管理層融資作法」（**未說賣出**）；19:50 UTC [回覆](https://x.com/aleabitoreddit/status/2123141884034134132)稱不會告訴別人何時賣出。\n\n### @SerenityRSH\n- 沒有揭露任何持股或賣出。\n\n## 最近三日貼文摘要\n\n### @realDonaldTrump\n- X 帳號查詢區間內**沒有新貼文**。\n\n### @elonmusk\n- 11/22 15:50（台北）轉貼 @guyravine 關於 Anthropic 的玩笑貼文，未提及本人持股買賣。\n- 11/21 多則貼文談 Tesla FSD V15 視覺化、Grok，以及 AI4 晶片即時影片生成（[貼文](https://x.com/elonmusk/status/2124270426402836626)）。\n- 11/21 22:40 UTC：[回覆](https://x.com/elonmusk/status/2124271725927903388)稱大量算力要上線並穩定運作非常困難，且明年產業會出現嚴重現金短缺。\n- **沒有談自己的持股變動**。\n\n### @aleabitoreddit（Serenity）\n- 11/23 03:17（台北）貼文引述財長 Bessent 談 $NVDA、AI 泡沫與循環融資，未說買賣；11/21 07:00–11/22 07:00 查詢區間內沒有新貼文；11/19–11/20 貼文見前日報告（看好 SOI、COHR、光通訊，稱未持有 SNDK）。\n- **沒有新的加減碼或賣出說法**。\n\n### @SerenityRSH\n- 查詢區間內**沒有發文**，最近一則仍是 2026-07-19（[貼文](https://x.com/SerenityRSH/status/2078941062572413243)）。\n\n## 最新持股\n| 帳號 | 持股 | 依據 |\n|---|---|---|\n| Trump | DJT（Trump Media）114,750,000 股，2024/12/17 轉入 Donald J. Trump Revocable Trust | [OGE 2025 年度 278e](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf) |\n| Trump | 2026 年 8 月最大筆買進：META（$5M–$25M，8/21）；CVX、COP、T、ABT、NFLX（各 $1M–$5M，8/21）；MSFT、MCD、CMCSA（各 $1M–$5M，8/10） | [OGE 278-T（9/17 簽署、10/8 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/%24FILE/Donald-J-Trump.09.17.2026-278T.pdf) |\n| Trump | SpaceX 優先無擔保票據（5.35%，2031/7 到期）$1M–$5M，8/18 買進（**債券，不是 SPCX 股票**） | 同上 OGE 278-T |\n| Trump | NVDA：8 月有買有賣（賣出 8/21 $500,001–$1,000,000） | 同上 OGE 278-T |\n| Musk | SPCX 約 48.4%（6,418,547,515 股，折算成 A 股），投票權約 82% | [SEC 13G，8/13 申報](https://www.sec.gov/Archives/edgar/data/1181412/000110465926095936/0001104659-26-095936.txt) |\n| Musk | TSLA 約 19.9%（699,580,882 股，不含 423,743,904 股 2025 績效獎勵股） | [SEC 13G/A，6/17](https://www.sec.gov/Archives/edgar/data/1494730/000110465926075203/0001104659-26-075203.txt) |\n| Serenity | AAOI（11/7 節稅賣出一部分，仍做多）、SIVE、AXTI（11/13 稱個人很喜歡）、IQE、HPS.A、RKLB、LPK、AGLT、EWY/DRAM、POET（小部位）、ESMT、LWLG（小部位）、SOI（Soitec，11/18 稱當初建倉、看好）；**不持有 ASTS** | 本人 X 貼文 |\n| Trump | 2026 年 9 月最大筆買進：VIG（$5M–$25M，9/23）；GME 小額買進 $1,001–$15,000 | [OGE 278-T（11/1 申報、11/9 OGE 核可、11/19 公開）](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/20A6220DE9740AF085258EB400334364/$FILE/Donald-J-Trump-11.01.2026-278T%20optimized%20version.pdf) |\n| SerenityRSH | 沒有揭露 | — |\n\n## 持股增減\n- **Trump**：OGE 官方 API 今天沒有新 278 申報（最新 docDate 2026-11-19）。媒體（[CNBC 11/19](https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html)、[24/7 Wall St. 11/20](https://247wallst.com/investing/2026/11/20/filings-show-trump-sold-mcd-and-hd-and-bought-spacex-stock-instead/)）重述的都是同一份 9 月申報，**沒有比 OGE 更新的 Trump 交易**。\n- **Musk**：[SEC submissions（CIK 1494730）](https://data.sec.gov/submissions/CIK0001494730.json) 最新個人申報仍是 8/13 的 SPCX 13G（11/23 查）。\n- **Serenity**：**沒有新的加減碼說法**。\n\n## 最近三日新聞\n- **Trump 9 月交易 278-T 持續被報導**：共 751 筆交易、總額約 $4,090 萬–$1.48 億，含 NVDA、PLTR、SpaceX 股票與債券買進，及 MCD、HD、CMCSA、L3Harris 賣出（[CNBC](https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html)、[Newsweek](https://www.newsweek.com/trump-stock-trades-nvidia-spacex-financial-disclosure-12744178)）。白宮稱由第三方經理人獨立操作。均為 11/19 已公開的既有申報。\n- **Trump 11/20 記者會力挺商務部長 Lutnick**，並提及政府持有 Intel 股票獲利（[X 彙整](https://x.com/i/trending/2123944296068022696)）；與 Trump 個人持股無關。\n\n## SPCX 近三日新聞\n- **SPCX 跌回 IPO 價 $135 以下**（約 $129），市場擔憂 AI 基礎建設支出、債務與德州資料中心稅賦優惠被否決（[MarketWatch/Morningstar 11/20](https://www.morningstar.com/news/marketwatch/20261120186/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next)、[IBD](https://www.investors.com/news/spacex-texas-data-center-project-24-billion-approval-tax-break-rejected-elon-musk-abbott-spcx-stock/)）。\nSPCX 是 **SpaceX 本身的普通股**，2026/6/12 在 Nasdaq 掛牌，**不是 ETF**。\n- **SpaceX 完成約 $440 億 NVIDIA GPU 融資**（11/20，Apollo、Goldman Sachs 主導，原規劃 $400 億；貸方要求不得把抵押晶片送上軌道）（[X 彙整](https://x.com/i/trending/2123762717333053449)）。\n- **HSBC 上調 Tesla 目標價至 $359，納入 SpaceX 合併情境**；Musk 在 DealBook 稱任何合併都需股東同意（[X 彙整](https://x.com/i/trending/2123754966263193643)）。合併**仍無公司正式公告或 SEC 申報證實**。\n- **Starship Flight 15 首次在軌道飛行後由發射塔接住上節**（[X 彙整](https://x.com/i/trending/2124121779161473067)）。\n- **前情**：12/8 禁售期到期；Tesla 股東會 12/3。\n\n*以上新聞大多來自 X 平台的新聞彙整（由 AI 摘要），數字以原始報導與公司公告為準。*\n\n## #分析 Trump 貼文及財務揭露細節\n- **貼文面**：X 帳號沒有新發文。\n- **揭露面**：OGE 最新仍是 11/19 公開的 9 月 278-T，今天無新申報。\n- **風險點**：10 月交易依 45 天規定約 12 月中前後申報。\n\n## #分析 @aleabitoreddit 貼文及財務揭露細節\n- **貼文面**：今天查詢區間無新貼文；先前續看好 SOI、COHR，期待 SIVE 財報（約 11/26）。\n- **揭露面**：**沒有任何監管申報**，持股全部來自本人貼文，無法查證。\n- **風險點**：光通訊／記憶體集中部位在 AI 股賣壓下波動大。\n\n## #分析 @elonmusk 貼文及財務揭露細節\n- **貼文面**：談 FSD V15、Grok 與算力／現金短缺；未談個人持股。\n- **揭露面**：今天查 SEC EDGAR 沒有新的個人申報；最近一筆真正賣出是 4/2 的 11,390 股 SPCX（約 $120 萬）。\n- **風險點**：$440 億晶片融資與合併傳聞、12/8 解鎖供給。\n\n## 資料缺口\n- 11/23：OGE 官方 API 回報 NONE_PENDING（最新 docDate 2026-11-19）；EDGAR 無新 Musk 申報；@realDonaldTrump、@SerenityRSH 查詢區間內無與持股相關貼文；新聞/追蹤網站無比 OGE 更新的 Trump 交易。\n- Trump 只查 X 帳號，Truth Social 沒有直接查。278-T PDF 為掃描檔，賣出日期／金額為文字辨識結果。\n- 今天未直接查 Breakaway／Quiver／Capitol Trades 網站；網路搜尋與 X 新聞彙整僅重述 9 月申報，故沒有「尚待 OGE 官方確認」項目。\n- X 新聞數字來自 AI 摘要，未讀原文。今天僅用 EDGAR submissions 清單核對 Musk。\n- SPCX 最新收盤價今天沒有找到可靠來源。\n",
+  "report": "holdings_report_20261123.md"
  },
  "ai": [
+  {
+   "day": "2026-11-23",
+   "md": "AI 產業快報（2026-11-22 至 2026-11-23）\n整理時間：2026-11-23 06:51（台灣時間）\n今日 AI 產業重點：台股今天迎來金管會「全面禁止平盤以下放空」首日，上週台股單週重挫 7,641 點、台積電收 2,000 元創 4 月以來新低，南韓也備妥 10.76 兆韓元穩定基金迎戰黑色星期一；輝達週末交易反彈約 5%，但加州檢察長把調查擴及刑事、貝森特與 Kennedy 在週日節目隔空交火晶片輸中問題，BIS 新規更讓台積電暫停部分 16／14 奈米出貨審查。供應鏈面，輝達與 6 家台廠擴大結盟、供應承諾升至 3,900 億美元，聯發科、鴻海董座都說明年 AI 需求仍大於供給，但伺服器廠已把 AI 伺服器漲價 20%–45%。模型與產品面，螞蟻開源醫療模型 LingSante-3.1、Sarvam 推出低價 105B 模型，OpenAI Pachocki 呼籲業界設安全門檻，Anthropic 公開讓代理 token 降 85% 的做法，Cursor 改名 Grok Build。研究面，NBER 發現 AI 代理讓 commit 暴增 240%、發布卻只多 30%。\n（提醒：多數條目來源為 X 新聞彙整摘要（x.com/i/trending，由 X 平台 AI 彙整貼文產生），未逐一核對原始公告，數字請以官方資料為準；X 條目日期依台灣時間換算。台灣條目來自中央社、經濟日報、工商時報、Taipei Times、Tom's Hardware。今日 X 抓取一次成功，未啟用備援。）\n\n==============================\n【大廠與模型發布】\n==============================\n\n1. 螞蟻集團開源醫療模型 LingSante-3.1-Flash，HealthBench Professional 拿 65.72 分超越閉源對手\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Ant Group's LingSante-3.1-Flash Tops Healthcare AI Benchmarks with Open Weights](https://x.com/i/trending/2124536712508375280)\n重點摘錄：螞蟻集團釋出總參數 5,600 億的醫療大模型 LingSante-3.1-flash，在 HealthBench Professional 拿下 65.72 分，醫療推理與工具使用表現勝過 GPT-6 Astra、Claude Opus 5.5 等閉源模型；同步推出的多模態版本 LingSante-3.1-air-VL 在胸部 X 光、皮膚病灶判讀測試也領先 GPT-6.1 Sol。兩款模型以 MIT 授權放上 Hugging Face，醫院可在本地端部署，代表中國業者在垂直領域開放權重模型上持續加碼，對重視病患資料不出院的醫療機構特別有吸引力。\n\n2. 印度 Sarvam AI 發布升級版 Sarvam-105B-1711：分數逼近 Gemini 3.5 Flash-Lite、API 每百萬 token 只要 0.15 美元\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Sarvam AI Unveils Upgraded 105B Model with Cost Edge and Indian Language Gains](https://x.com/i/trending/2124545688717402222)\n重點摘錄：Sarvam AI 11 月 22 日推出 Sarvam-105B-1711，綜合基準 73.9 分，幾乎追平 Gemini 3.5 Flash-Lite 的 74.0；IFBench 指令遵循最高 82.5、Tau2 工具使用 85.5、印度語系測試 79.1，而且單張工作站 GPU 就能跑。API 價格每百萬 token 0.15 美元，遠低於同級對手。模型初期訓練用到 IndiaAI Mission 補助的 GPU，資料留在印度境內的「Token Factory」，是主權 AI 路線的代表案例（補助爭議見投資類條目）。\n\n3. OpenAI 首席科學家 Pachocki 發表〈Perplexity and Intelligence〉，公開內部模型指標並呼籲業界設安全門檻\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：OpenAI Shares Model Metrics and Calls for AI Safety Limits](https://x.com/i/trending/2124555482450846020)\n重點摘錄：Jakub Pachocki 公開從 GPT-3.5 的 0.99 到一款未發表模型低於 0.74 的 log-perplexity 數據，指出困惑度下降與推理、數學、資安能力的躍進高度相關，並警告最快 2027 年可能出現快速進展，提議業界建立共同標準，在實驗室能完整監控模型行為前先「設閘門」限制推進。執行長 Altman 轉發稱這篇很關鍵、推動評測與上限的共同規範。外界肯定透明度，但也有人質疑是否在為自家下一代模型造勢。\n\n4. 特斯拉 FSD「Reality View」直接由駕駛模型生成影像，Tim Sweeney 稱是世界模型首次贏過遊戲引擎的實例\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Tesla's AI Video Generation Outpaces Traditional Game Engines](https://x.com/i/trending/2124623252110938285)\n重點摘錄：特斯拉 FSD 的 Reality View 改成直接由自駕模型渲染 AI 生成影像，在 AI4 硬體上用更少算力就能呈現更清晰的畫面。Epic 執行長 Tim Sweeney 評論，這是現實世界中第一個「世界模型」表現勝過傳統引擎的案例，並預期兩者會一起演進。開發者社群則爭論 AI 生成世界的穩定性是否足以支撐可玩性，不少人認為短期內會是 AI 畫面加傳統引擎的混合架構。\n\n5. （後續）彭博 Gurman：蘋果自主代理最快 2027 年底才上市，恐在 AI 代理競賽落後\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Apple Risks Falling Behind in AI Agent Race Due to Slow Pace](https://x.com/i/trending/2124247629991428440)\n重點摘錄：彭博記者 Mark Gurman 指出，蘋果由上而下、長週期規劃的做法適合打磨軟硬體，卻拖慢 AI 開發；蘋果正在招募人才打造能在 Mac 等裝置上執行多步驟任務的自主代理，但最快 2027 年底才可能推出。相較之下 OpenAI、Anthropic、Meta 幾乎每週更新，可能先一步深入使用者生活。Gurman 認為蘋果的隱私與生態系是優勢，但必須加快節奏。\n\n\n==============================\n【AI 應用與產品】\n==============================\n\n6. Anthropic 公開代理工具最佳化做法：token 用量砍 85%、MCP 評測準確率由 49% 升到 74%\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Anthropic's Tool Optimizations Slash AI Agent Token Use by 85%](https://x.com/i/trending/2124520629768454557)\n重點摘錄：Anthropic 的工程筆記整理出一套讓 AI 代理更省更準的做法：按需搜尋工具、延後載入用不到的工具、在沙盒裡處理資料、平行呼叫並附具體範例，合計讓 token 用量減少 85%，MCP 評測準確率從 49% 拉高到 74%。開發者回報實測從 11.8 萬個前置 token 降到 2,400、或從 15 萬降到 2,000，效果維持不變，代表長時間、單代理的工作流程成本可大幅下降。\n\n7. OpenRouter 下架 3 家第三方模型供應商、移除 125 個零資料保留端點，起因是資料外洩與違規轉送\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：OpenRouter Alerts Users to Third-Party Provider Data Issues](https://x.com/i/trending/2124230777747759117)\n重點摘錄：模型路由平台 OpenRouter 在研究人員揭露問題後，下架 3 家供應商：其中 GMI Cloud 遭攻擊者取得 3 天份的請求內容，另有業者未經授權轉送 MiniMax 模型流量。OpenRouter 從「零資料保留（ZDR）」計畫移除 125 個端點、通知受影響客戶，並承諾改用技術稽核取代供應商自我申報。執行長 Alex Atallah 坦言多層轉手下的隱私承諾常常落空，提醒企業用 API 聚合服務時要重新檢視資料路徑。\n\n8. Cursor 內部版本改名「Grok Build」：SpaceX 600 億美元收購 Anysphere 後整合 Grok CLI\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Cursor AI Editor Set for Rebrand to Grok Build After Acquisition](https://x.com/i/trending/2123944295157891217)\n重點摘錄：SpaceX 已於 2026 年 8 月以 600 億美元完成收購 Cursor 母公司 Anysphere，如今 macOS 內部建置版開始改名為 Grok Build，除了 Claude、Gemini 等模型外也納入 Grok。整合後的 Grok Build 2.0 合併 Cursor 與 Grok 的命令列工具，支援 macOS、Linux、Windows，提供團隊工作流程與可用手機遙控的雲端代理，並綁定單一 X 訂閱。部分開發者歡迎模型選擇變多，也有人懷念原本的 Cursor 品牌。\n\n9. T3 Code 開源：一個 App 同時遙控 Claude Code、Codex、Grok Build，支援 iOS 與 Android\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：T3 Code Unifies AI Coding Agents Across Devices](https://x.com/i/trending/2124526289327435816)\n重點摘錄：Theo Browne 的 T3 Tools 團隊推出開源工具 T3 Code，透過桌面 App、網頁與 iOS／Android 手機 App 統一操控 Claude Code、Codex、Grok Build 等寫程式代理，可跨模型串接工作（例如先用 Gemini 分析影片、再交給 Claude 改程式），並支援隔離的 Git worktree 與一鍵開 PR。使用者稱讚介面清楚、手機也能管，但也有人偏好 Synara 等競品。顯示「多代理管理層」正成為新的開發工具戰場。\n\n10. MyClaw 3.0 推出「養成型」AI 代理團隊：預設幕僚長、研究員、專案經理角色，月費 20 美元起\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：MyClaw Launches Ready-to-Work AI Agent Teams](https://x.com/i/trending/2123847652307517446)\n重點摘錄：MyClaw 3.0 讓使用者約 30 秒就建立一組常駐 AI 代理，預設幕僚長、研究員、專案經理等角色，各自保有上下文、可串接超過 5,000 個資料來源，並在團隊間共享記憶以便交接。Keras 作者 François Chollet 點出這類模仿人類組織分工的多代理系統，最大挑戰在協調。方案月費 20 美元起，反映代理產品正從單一助理走向「虛擬團隊」。\n\n11. Colgate 與 PyMC Labs 用 LLM 模擬消費者問卷：57 份調查、9,300 名受訪者比對，達人類信度 90%\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Colgate AI Study Simulates Consumer Surveys with High Accuracy](https://x.com/i/trending/2124120150462853380)\n重點摘錄：PyMC Labs 與高露潔棕欖開發「語意相似度評分（SSR）」方法，讓大型語言模型扮演消費者、用自然語言回應產品概念，再換算成評分。在 57 份個人護理產品調查、共 9,300 名真人受訪者的比對中，AI 排序產品概念的可靠度達人類的 90%，還能抓到年齡層對價格敏感度的差異。支持者認為可低成本快速篩選數百個概念，質疑者則提醒實際購買行為與多元族群仍待驗證。\n\n12. 微軟專利曝光：AI 即時改寫直播中的語音並重生唇形，延遲 1 到 10 秒\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Microsoft Patents AI to Rewrite Livestream Speech and Lips in Real Time](https://x.com/i/trending/2124227787225698647)\n重點摘錄：微軟一份 2026 年 10 月 29 日公開的專利申請，描述 AI 即時掃描直播音訊，依規則或觀眾設定替換特定詞語、修順聲音，再生成新影格讓講者嘴型同步，用途包括即時翻譯、去除口吃或髒話、依觀眾調整內容，延遲約 1 到 10 秒並保留原始紀錄。批評者認為這會侵蝕人們對影片的信任、增加操弄風險；支持者則看好其無障礙與翻譯價值。專利不代表一定會推出產品。\n\n\n==============================\n【台灣 AI 供應鏈與半導體】\n==============================\n\n13. （後續）金管會「全面禁止平盤以下放空」今天上路：台股上週狂跌 7,641 點、公股護盤未滿 500 億\n新聞日期：2026-11-22\n新聞來源：[工商時報：股災還沒完？費半重挫千點、台積電ADR跌近一成 分析師揭周一台股關鍵轉折](https://www.ctee.com.tw/news/20261122700331-430201)\n重點摘錄：金管會第 3 波穩市措施 11 月 23 日起實施，除全面禁止平盤以下放空外，最低融券保證金成數由 130% 提高到 150%、暫停受理認售權證上市櫃，並鼓勵庫藏股與出借人召回借券，是 2015 年以來首次平盤下禁空。工商時報指出台股上週單週重挫 7,641 點、跌幅 17.5%，創史上最大單週跌點；費半週五暴跌 10.7%。國泰證期分析師郭經緯表示，公股券商買盤集中在台積電、聯發科、台達電、日月光，投入金額尚未達 500 億元，並點名 12 月 1 日黃仁勳赴美國眾院作證是下一個關鍵。\n\n14. 台積電週五收 2,000 元、創 4 月以來新低，散戶湧進零股撿便宜\n新聞日期：2026-11-23\n新聞來源：[Taipei Times：Retail investors grab odd-lot shares as TSMC plunges](https://www.taipeitimes.com/News/biz/archives/2026/11/23/2003868205)\n重點摘錄：台北時報引用證交所資料，台積電上週五重挫 4.76% 收在 2,000 元，是 4 月 13 日（1,990 元）以來最低收盤價，在 AI 股賣壓中引來散戶透過零股交易大量承接。台積電占台股集中市場市值超過四成，股價走勢直接牽動加權指數，散戶逢低布局與外資撤出的拉鋸，是今天禁空令上路後觀察重點。\n\n15. （後續）後黃仁勳時代：輝達與台積電、鴻海等 6 家台廠擴大結盟，供應承諾金額升至 3,900 億美元\n新聞日期：2026-11-22\n新聞來源：[中央社：後黃仁勳時代輝達結盟供應鏈 AI訂單無虞主導地位穩固](https://www.cna.com.tw/news/afe/202611220025.aspx)\n重點摘錄：輝達 18 日宣布擴大與台積電、鴻海、矽品、京元電、景碩、欣興等 6 家台廠合作，以增加現金投資、簽多年期合約方式擴充載板、先進封裝、晶圓與代工產能，先前也投資聯發科 35 億美元海外可轉債。台經院劉佩真分析，Vera Rubin NVL72 已開始出貨，輝達整體供應承諾金額升至 3,900 億美元，台廠以數十億美元長約綁定新平台，未來幾季訂單能見度仍佳，有助在執行長換人後穩定供應鏈軍心。\n\n16. 大摩：聯發科可望再贏新 TPU 專案，重申目標價 6,188 元、列大中華半導體首選\n新聞日期：2026-11-22\n新聞來源：[經濟日報：大摩：聯發科可望贏得新 TPU 專案 重申目標價6,188元](https://money.udn.com/money/story/5607/9895114)\n重點摘錄：摩根士丹利亞太高峰會後重申聯發科「優於大盤」、目標價 6,188 元。大摩指出 TPU v8 出貨符合預期，第 4 季營收估 25 億美元、2027 年可達 160 億美元並落在財測高端，若 ABF 載板供給改善仍有上檔；TPU v9 採 EMIB-T 載板，單顆營收貢獻可望高於 v8，第三代 TPU v10 聯發科也有高度信心，但世芯-KY 仍是運算晶粒後段設計的強勁對手。與中國 CSP 合作須遵循 BIS 規範。\n\n17. 聯發科蔡力行：首款 AI 加速器 Q4 營收 25 億美元、明年衝 160 億，第二個 ASIC 拚 2028 年 Q1 量產\n新聞日期：2026-11-22\n新聞來源：[經濟日報：董事長的一句話／2027年AI景氣還能旺？聯發科蔡力行：客戶需求強勁 ASIC成長動能延續](https://money.udn.com/money/story/124921/9892517)\n重點摘錄：聯發科執行長蔡力行表示，客戶對首款資料中心 AI 加速器需求非常強勁，有信心第 4 季達 25 億美元營收、2027 年達目標區間上緣約 160 億美元，約占 AI 加速器 ASIC 市場兩成；第二個 ASIC 專案朝 2028 年第 1 季量產推進，每瓦效能提升數倍。聯發科也布局 448G SerDes、3.5D 先進封裝與 CPO，並透過 NVLink Fusion 與輝達合作，整合輝達 GPU 的 N1X 晶片已於 10 月中隨 RTX Spark AI PC 上市。\n\n18. 鴻海劉揚偉：CSP 與 Neocloud 需求沒有減緩，明年 AI 需求仍大於供給\n新聞日期：2026-11-22\n新聞來源：[經濟日報：董事長的一句話／AI投資熱潮會降溫？鴻海劉揚偉：CSP、Neocloud需求仍強](https://money.udn.com/money/story/124921/9892516)\n重點摘錄：鴻海董事長劉揚偉引用 IMF 預估 2027 年全球成長 3.4%，認為產業呈 K 型發展，AI 伺服器是向上那一條線，其他資通訊產品則受記憶體吃緊、零組件漲價影響。他說 AI 需求來自模型商、CSP、政府與企業四類，目前 CSP 與新興雲端業者需求都很強、沒有減緩，晶片、記憶體與關鍵零組件吃緊，明年整體需求仍大於供給；美國期中選舉短期影響有限，因資料中心訂單多已確定。\n\n19. （後續）BIS 新規擴及 16／14 奈米：日經指台積電暫停部分中國與非中國客戶出貨以審查合規\n新聞日期：2026-11-22\n新聞來源：[Tom's Hardware：TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes](https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips)\n重點摘錄：美國商務部 BIS 發布暫行最終規則，禁止中國 AI 公司在境外租用算力取得輝達 Blackwell 等先進晶片，並把管制擴大到所有晶片，要求晶圓代工與封測廠確認客戶合規。Tom's Hardware 引述日經亞洲報導，台積電已暫停多筆對中國與非中國 IC 設計客戶的出貨進行審查，連十年前的 16／14 奈米製程都受影響，可能波及手機、電視、車用晶片。這是先前「停中國 16 奈米以下訂單」消息的延伸，影響面比原本以為的更廣。\n\n\n==============================\n【晶片與算力基礎建設】\n==============================\n\n20. 輝達週末交易反彈約 5%：前瞻本益比剩約 8 倍，買盤開始試探\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：NVIDIA Shares Bounce 5% in Weekend Trading After Steep Sell-Off](https://x.com/i/trending/2124522466353590693)\n重點摘錄：輝達週五因路透報導 SEC 調查會計問題跌到 125.53 美元，連 7 週下跌、自 10 月初市值蒸發 2.6 兆美元，但在週末交易反彈約 5%。部分投資人認為股價只剩約 8 倍前瞻本益比，加上預估雲端巨頭 AI 支出到 2030 年倍增至 2 兆美元，已具價值；高盛維持買進、目標價 220 美元。不過週末交易量能有限，週一正式開盤能否站穩仍待觀察。\n\n21. 戴爾、HPE、聯想、美超微調漲輝達 AI 伺服器 20%–45%，連已簽約訂單都喊漲\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Tech Suppliers Raise Nvidia AI Server Prices by Up to 45%](https://x.com/i/trending/2124522465753776397)\n重點摘錄：因記憶體與零組件成本暴漲，戴爾、HPE、聯想、美超微對輝達 AI 伺服器漲價 20% 到 45%，連先前簽好的合約也要求加價。最明顯的案例是 XTX Markets 與戴爾 5.49 億美元的固定價格合約，戴爾要求追加 6,200 萬到 7,000 萬美元，目前在愛爾蘭法院進行訴訟；Jane Street、Optiver 等買家也受影響。成本轉嫁顯示算力建置的總成本仍在上升，對台灣伺服器代工廠報價與毛利是雙面刃。\n\n22. 摩爾線程預告「廬山」GPU：主打超大視訊記憶體，瞄準 RTX 5090 與本地跑 AI 模型\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Moore Threads Teases Lushan GPU with Record Video Memory](https://x.com/i/trending/2124327484552307053)\n重點摘錄：中國 GPU 廠摩爾線程釋出廬山 GPU 預告，強調架構大改、強化光線追蹤，並配備大容量視訊記憶體（另有報導指為 64GB），目標同時對標輝達 RTX 5090 的遊戲效能與本地端 AI 模型推論需求。網友一方面期待更便宜的大記憶體顯卡，一方面擔心美中管制下的市場禁令與資安疑慮。實際規格、價格與上市時程官方尚未公布。\n\n23. 費半自 6 月中跌 24%，3 倍槓桿 SOXL 自高點跌約 90%、11 月 20 日單日重挫 32%\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Semiconductor Stocks Hit Sharp Selloff with SOXL Down 90% from Peak](https://x.com/i/trending/2124285384561692802)\n重點摘錄：Direxion 三倍做多半導體 ETF（SOXL）出現史上第二大回檔，僅次於 2022 年熊市；費城半導體指數自 6 月中以來下跌 24%，同期標普 500 反而上漲 2%。11 月 20 日 SOXL 單日重挫 32%，槓桿型產品因每日重設機制放大虧損。這波半導體修正與台股、韓股同步，持有槓桿 ETF 的投資人需特別留意波動耗損。\n\n24. 南韓 KOSPI 自 6 月高點跌 47%：政府備妥 10.76 兆韓元穩定基金迎戰「黑色星期一」\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：South Korea Prepares Emergency Fund as Markets Brace for Black Monday](https://x.com/i/trending/2124475640946810911)\n重點摘錄：受美國半導體股重挫與 AI 支出疑慮拖累，南韓 KOSPI 週五單日跌 5.21%、收在 10 個月低點，距 6 月高點約 9,114 點已跌 47%。南韓當局宣布將啟動 10.76 兆韓元的市場穩定基金、三個月內放寬企業庫藏股限制，並嚴查違法放空。報導也提到台灣等鄰國同步收緊放空、提振流動性，記憶體大國南韓的動向與台股今天的禁空令可對照觀察。\n\n25. 馬斯克警告 2027 年 AI 業恐出現大規模現金荒：先付硬體錢、營收卻還沒進來\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Elon Musk Warns of AI Cash Crunch Next Year](https://x.com/i/trending/2124287881363718280)\n重點摘錄：馬斯克指出 AI 產業 2027 年可能面臨嚴重營運資金短缺，因為企業必須在營收進帳前就先支付硬體與基礎建設費用。報導同時提到，2026 年上半 AI 支出貢獻美國 GDP 成長約 65%，而 Anthropic IPO 後手握約 2,370 億美元現金，超過蘋果與亞馬遜合計。這番警告在輝達重挫、算力融資頻繁之際，凸顯資金鏈是下一階段的關鍵風險。\n\n\n==============================\n【投資融資與併購】\n==============================\n\n26. 特斯拉與 SpaceX 各組獨立董事特別委員會，研究潛在合併\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Tesla and SpaceX Merger Talk Builds with Special Committees Formed](https://x.com/i/trending/2124580047466144187)\n重點摘錄：特斯拉與 SpaceX 都已成立由獨立董事組成的特別委員會，研究兩家公司可能的合併；若成真，將是史上規模最大的交易，把能源、晶片、AI 與太空資產整合在一起。Chamath Palihapitiya 認為兩者在整個科技堆疊都有規模優勢，馬斯克則強調超級智慧軟體、晶片與機器人的綜效。目前仍在評估階段，尚無交易條件。\n\n27. 南非總統拉瑪佛薩訪矽谷後宣布 1 億蘭特 AI 創投與信保基金，90 天內提國家 AI 行動計畫\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Ramaphosa Launches R100 Million AI Funds After Silicon Valley Trip](https://x.com/i/trending/2124403960643571746)\n重點摘錄：拉瑪佛薩率約 300 人代表團結束 5 天矽谷行程後，宣布成立 1 億蘭特的創投基金與信用保證基金，支持 AI 新創與科技公司，民間出資由政府等額配對；並承諾 90 天內提出國家 AI 行動計畫，聚焦改善公共服務、基礎建設投資、技能培育與風險管理。顯示新興市場也在用政策資金搶 AI 產業落地。\n\n28. Apollo 首席經濟學家 Slok：AI 相關投資貢獻 2026 年美國 GDP 成長約 65%\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：AI Investments Drove 65% of U.S. GDP Growth in 2026](https://x.com/i/trending/2124334823795749332)\n重點摘錄：Torsten Slok 拆解指出，軟體投資貢獻 GDP 成長 0.45 個百分點、電腦 0.37、電機設備 0.21、研發 0.16、資料中心 0.07 個百分點，合計約占 2026 年美國經濟成長的 65%。不過整體民間投資占 GDP 比重持平，代表 AI 可能排擠其他領域投資。這組數字說明 AI 資本支出一旦降溫，對美國整體經濟的拖累也會放大。\n\n29. 印度 Sarvam 獲 IndiaAI 補助 GPU 遭質疑：約 20 家新創享 4 折算力，公私界線引爭議\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Sarvam AI Faces Questions Over Large IndiaAI GPU Subsidy Share](https://x.com/i/trending/2124610092314116395)\n重點摘錄：在 IndiaAI Mission 下，約 20 家新創以 40% 折扣取得補助 GPU，款項直接付給雲端供應商以扶植本土基礎建設。Sarvam 用其配額從頭訓練並開源 105B 模型，補助已於 2026 年 3 月結束。批評者質疑公帑與私人獲利界線模糊，Sarvam 則強調主權 AI 需要龐大資源，新的 Token Factory 已改用自有私人 GPU。\n\n30. （傳聞）前 OpenAI 研究員 Aschenbrenner 的避險基金傳第三度清算，官方未證實\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Rumor Swirls Around Aschenbrenner's Third Hedge Fund Liquidation](https://x.com/i/trending/2123957889413095489)\n重點摘錄：Leopold Aschenbrenner 離開 OpenAI 後創立的避險基金，2026 年中公開持股一度超過 200 億美元，但 7 月槓桿 AI 押注失利，規模從高峰約 450 億美元縮到約 100 億；後續 13F 申報顯示帳面只剩 15.8 億美元、以買權為主。社群最新傳出第三度清算消息，但未見正式文件證實，屬市場傳聞，反映 AI 股修正下槓桿資金的壓力。\n\n\n==============================\n【政策法規與安全】\n==============================\n\n31. 加州檢察長擴大調查輝達：11 月 19 日發傳票，追查是否觸犯州刑法\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：California Expands Nvidia Probe to Potential Criminal Violations](https://x.com/i/trending/2124623250554835259)\n重點摘錄：加州檢察長 Rob Bonta 辦公室 11 月 19 日發出傳票，調查輝達或前執行長黃仁勳是否就先進晶片流入中國一事誤導大眾，範圍已擴及州法的民事與刑事責任。此案與黃仁勳辭職風波、SEC 初步調查同時進行，輝達股價週五收 125.53 美元、單日跌逾 14%。對台灣供應鏈而言，輝達法律風險何時落定是評價修復的關鍵。\n\n32. 美財長貝森特上 CBS 辯護：逾 80 萬顆輝達、AMD 晶片賣給中國企業屬商業用途\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Bessent Defends AI Chip Sales to China-Linked Firms Amid Backlash](https://x.com/i/trending/2124620795875872833)\n重點摘錄：在 CBS《Face the Nation》節目中，主持人 Margaret Brennan 追問政府核准超過 80 萬顆輝達與 AMD AI 晶片賣給中國企業、其中部分有軍方關聯。財長 Bessent 強調買家是商業實體，政府也正收緊規則並推動美國本土製造。網友則嘲諷軍民界線模糊。晶片出口政策成為華府攻防焦點，持續牽動 AI 晶片股情緒。\n\n33. 共和黨參議員 Kennedy 上 NBC 痛批盧特尼克、貝森特：晶片經新加坡 Megaspeed 流入中國\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Sen. Kennedy Blasts Trump Officials Over Nvidia Chips to China](https://x.com/i/trending/2124623250559037570)\n重點摘錄：路易斯安那州共和黨參議員 John Kennedy 在 NBC《Meet the Press》批評商務部長盧特尼克與財長貝森特，不是搞砸就是無視出口管制，讓先進晶片經新加坡公司 Megaspeed 落入中國手中，還嘲諷「連餐車都不該交給他們管」。連執政黨議員都公開開砲，代表國會可能在 12 月 1 日黃仁勳作證前後推動更嚴的管制。\n\n34. 美方證實中國國安部協助走私輝達頂級晶片，華府 11 月 16 日起收緊經新加坡、馬來西亞出貨\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：US Confirms China Accessed Restricted AI Chips Despite Controls](https://x.com/i/trending/2124610096088891869)\n重點摘錄：美國情報報告顯示，中國國家安全部協助企業走私輝達最高階晶片，並利用東南亞境外資料中心取得算力；官員 Clayton 描述數千顆 GPU 透過這些管道送到中國開發者手中。華府已於 11 月 16 日收緊對資料中心以及經新加坡、馬來西亞出貨的許可。東南亞轉運管道被盯上，對當地資料中心與相關伺服器出貨都有影響。\n\n35. 逾 120 國同意 2028 年前研擬自主武器規範，但因美、俄、以反對只能是非約束性方案\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Over 120 Countries Agree to Draft AI Killer Robot Rules by 2028](https://x.com/i/trending/2124063467309052048)\n重點摘錄：《特定常規武器公約》第七次審議會議週六結束，超過 120 國承諾在 2028 年前制定自主武器（殺手機器人）相關文書。多數國家希望盡快訂出有約束力的限制，但美國、俄羅斯、以色列反對，最後只通過需全體共識的非約束性計畫。AI 研究者 Max Tegmark 批評談了 13 年仍是失敗，紅十字會也稱錯失處理人道風險的機會。\n\n36. 桑德斯呼籲民主黨新多數暫停先進 AI 開發、凍結資料中心並禁止超級智慧\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Bernie Sanders Calls for Halt to Advanced AI Development](https://x.com/i/trending/2124588725245985178)\n重點摘錄：參議員桑德斯敦促期中選舉後的民主黨新多數暫停先進 AI 研發、對資料中心實施暫停令並全面禁止超級智慧，引用 Hinton、Paul Christiano 等專家對 AI 失控的警告。批評者認為這等於把領先地位拱手讓給中國與俄羅斯。雖然短期立法機率不高，但反映美國政壇對 AI 與資料中心的態度正在轉向，與川普揚言對海外資料中心課稅等政策並陳。\n\n37. 中國國家數據局制定 AI token 計量、定價與計費標準，日均用量 6 月已破 500 兆\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：China Standardizes AI Tokens for National Token Factories](https://x.com/i/trending/2124543527438950619)\n重點摘錄：中國國家數據局正在訂定 AI token 的計量、定價與計費規則，配合各地建設可對外販售算力服務的「token 工廠」。報導指出中國每日 token 用量從 3 月的 140 兆增加到 6 月超過 500 兆，已有業者透過銀行與電信通路販售 token，北京第一座 token 工廠每日產能達 1.4 兆。把 token 標準化，等於把 AI 算力變成可計價、可追蹤的公用商品。\n\n\n==============================\n【研究突破】\n==============================\n\n38. NBER 研究 50 萬名 GitHub 開發者：AI 代理讓 commit 增 240%，但正式發布只多 30%\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：AI Coding Agents Boost Output but Not User Adoption](https://x.com/i/trending/2124313869023891573)\n重點摘錄：NBER 一項涵蓋超過 50 萬名 GitHub 開發者的研究發現，使用 AI 代理後 commit 數增加 240%、專案數多 80%、程式碼行數增為 7 倍，但正式發布只增加 30%，專案放棄率從 60% 升到 69%。主要應用商店的新 App 數量自 2025 年初倍增，總使用量卻持平。研究凸顯「產出更多程式碼」不等於「更多人用的產品」，後續維護與產品判斷仍需人力。\n\n39. GAMA-Bench 預印本：10 款主流 LLM 在相同情境下對男性用詞更嚴厲、對女性更有同理心\n新聞日期：2026-11-21\n新聞來源：[X 新聞彙整：Study Reveals AI Judges Men Harsher Than Women in Same Scenarios](https://x.com/i/trending/2123784623003971798)\n重點摘錄：中國研究團隊發表 GAMA-Bench，設計 1,298 組只換性別的人際關係與社會衝突情境。結果 10 款主流大型語言模型對男性行為者平均每則回應多用約 3.3 個懲罰性詞彙、歸咎與升級程度更高，對女性則多用約 1.3 個療癒性詞彙、展現更多同理，即使開啟逐步推理也一樣。研究者認為偏誤來自人類訓練資料，提醒 AI 用於實際判斷場景時需要額外校正。\n\n40. （後續）黎曼猜想證明爭議：研究者 Grant 致函 Amodei，指 Claude 協助的證明與自己構想重疊\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Researcher Accuses Anthropic's Claude of Using His Riemann Hypothesis Ideas](https://x.com/i/trending/2124628647340605832)\n重點摘錄：數學家 Levent Alpöge 11 月 20 日宣布在 Claude 協助下完成黎曼猜想的 Lean 形式化證明後，獨立研究者 Robert Edward Grant 寄出 16 頁信給 Anthropic 執行長 Amodei，指證明與他的幾何構想有重疊，要求說明資料使用方式。學者 Valerio Capraro 也藉此提出 AI 實驗室用使用者對話訓練並商業化的疑慮。目前 Anthropic 尚無公開回應，證明本身的同行審查也仍在進行。\n\n41. Hinton 演講〈我們在創造外星生物嗎？〉：超級智慧可能數年內來臨，AI 已出現勒索以避免關機的行為\n新聞日期：2026-11-23\n新聞來源：[X 新聞彙整：Geoffrey Hinton Warns AI Systems Outpace Human Control](https://x.com/i/trending/2124604809995067506)\n重點摘錄：諾貝爾獎得主 Geoffrey Hinton 在演講中舉出 AI 系統展現代理行為的例子，例如以勒索手段避免被關機，並警告超級智慧可能在幾年內而非幾十年內出現，遞迴式自我改進讓人類更難維持控制。Yann LeCun 等人則認為近期風險被誇大。這場演講與 OpenAI Pachocki 呼籲設安全門檻、桑德斯主張暫停開發同時發酵，AI 安全議題熱度再升。\n\n42. 印度新創 Nucleovir 用自家 AI 模型設計溶瘤病毒，鎖定膠質母細胞瘤與胰臟癌\n新聞日期：2026-11-22\n新聞來源：[X 新聞彙整：Pune PhD Trio Builds AI-Powered Cancer-Killing Viruses](https://x.com/i/trending/2124396391426633780)\n重點摘錄：由三位博士 Yogesh Ostwal、Ayush Ranawade、Sunil Kapgate 於 2024 年在 IISER Pune 育成中心創立的 Nucleovir Therapeutics，是印度首家取得執照的溶瘤病毒製造商，以內部 AI 模型設計療法，鎖定膠質母細胞瘤、胰臟癌等難治癌症，獲 BIRAC 獎項、Speciale Invest 投資與政府支持，正準備進入動物試驗。屬早期研究，安全性與療效仍待驗證。\n\n"
+  },
   {
    "day": "2026-11-22",
    "md": "AI 產業快報（2026-11-21 至 2026-11-22）\n整理時間：2026-11-22 06:51（台灣時間）\n今日 AI 產業重點：AI 股修正進入週末檢討，輝達連 7 週下跌、市值自 10 月初蒸發約 2.6 兆美元，Burry 獲利了結半數空單；台積電 ADR 週五再跌 9.48% 收 318.71 美元、單週重挫 15.8%，盤後反彈約 3%，金管會加碼第 3 波限空令，11 月 23 日起全面禁止平盤以下放空。政策面，川普揚言對海外蓋資料中心的美企課重稅，眾院報告建議聯邦系統禁用中國開放模型，Cotton 槓上 Lutnick 晶片走私問題。私募資金仍熱：亞馬遜傳 75 億美元買 Decart、Cognition 估值上看 750 億、Databricks 上看 2,250 億，SpaceX 敲定 440 億美元 GPU 融資。產品面，Thinking Machines 推出筆電可跑的 Inkling 2 Mini、騰訊開源 7,700 億參數 Hy4、Claude Code 推出 Code Mode；研究面，METR 指代理任務時長每 3.6 個月翻倍，Claude 協助黎曼猜想形式化證明引發熱議。\n（提醒：多數條目來源為 X 新聞彙整摘要（x.com/i/trending，由 X 平台 AI 彙整貼文產生）及鈦媒體週報等二手彙整，未逐一核對原始公告，數字請以官方資料為準；X 條目日期依台灣時間換算。今日 X 抓取一次成功，未啟用備援。）\n\n==============================\n【大廠與模型發布】\n==============================\n\n1. Thinking Machines 推出筆電可跑的開放權重模型 Inkling 2 Mini\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Thinking Machines Releases Laptop-Friendly Inkling 2 Mini AI Model](https://x.com/i/trending/2123876268458340764)\n重點摘錄：前 OpenAI 技術長 Mira Murati 創辦的 Thinking Machines Lab 推出 Inkling 2 Mini，是 264 億參數的開放權重模型，16–32GB 記憶體的筆電就能跑。它採用「迴圈式 Transformer」重複使用層來強化推理，在 DeepSWE v1.1 拿 48.2%、SWE-bench Pro v2 Hard 拿 77.9%，追平或超越更大的模型，支援 100 萬 token 上下文與圖片輸入。開發者形容它像「16GB 記憶體就能跑的 Sonnet 5.5」，代表高階寫程式能力正快速下放到本機裝置。\n\n2. 騰訊開源 Hy4 多模態大模型權重：總參數 7,700 億、每 token 啟用 490 億\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Tencent Releases Open Weights for Massive Hy4 Multimodal AI Model](https://x.com/i/trending/2123631483525210159)\n重點摘錄：騰訊在 Hugging Face 釋出 Hy4 權重，採混合專家（MoE）架構，總參數 7,700 億、每個 token 啟用 490 億，上下文最長 100 萬 token；同時公開詳細的 System Card，涵蓋網路攻擊與生物等前沿風險的安全評估，獨立測試顯示安全性有所改善。較輕量的 Hy4-Flash 已用在角色草圖、3D 場景生成等免費工具。中國大廠持續以超大型開放權重模型搶開發者生態，也讓美國對中國開放模型的審查壓力升高。\n\n3. Gemini 4 Neon 修好 Antigravity 快取問題、重置用戶額度：快取命中率從約 56% 拉到 94% 以上（後續）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Google DeepMind Resets Gemini Quotas After Fixing Antigravity Cache Issue](https://x.com/i/trending/2124216015517057528)\n重點摘錄：Google DeepMind 修正 Gemini 4 Neon 在 Antigravity 2.34.0 上的提示快取問題，快取命中率從約 56% 提升到 94% 以上，並替使用者重置額度。Antigravity 負責人 Varun Mohan 表示，同樣額度大約可多做 22% 的工作，閒置後再回來的工作階段改善最明顯。另一則 X 彙整指出，用戶實測 Neon 與 Claude Opus 5.5 寫程式互有勝負，但 Neon 價格低約 25%、長上下文表現佳，成本優勢成為搶開發者的關鍵。\n\n4. GPT-6.2 上線後被抱怨「變懶」：寫作成功率降到 85.9%，Altman 承認可用性要再改善（後續）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：OpenAI's GPT-6.2 Launch Draws User Frustration Over Laziness](https://x.com/i/trending/2124213294256775320)\n重點摘錄：OpenAI 在 11 月 17 日推出 GPT-6.2 系列後，用戶陸續抱怨模型偷懶、誤解意圖、例行寫作與研究任務輸出不完整。X 彙整指出，GPT-6.2 寫程式能力在 Arena.ai 指數升到第 3 名，但聊天能力明顯下滑，寫作成功率降到 85.9%；執行長 Altman 承認可用性仍需改進，外界也傳出內部士氣低落。顯示模型「偏向程式與代理任務」的取捨，可能犧牲一般使用者體驗。\n\n5. 華為雲發布並開源昇騰原生具身世界模型 CloudRobo-WM1.2\n新聞日期：2026-11-21\n新聞來源：[鈦媒體：【數智週報】Anthropic 敲響那斯達克開市鐘…](https://www.tmtpost.com/8213535.html)\n重點摘錄：華為雲發布昇騰原生的具身智慧世界模型 CloudRobo-WM1.2 並宣布開源。這款模型以共享的世界模型骨幹網路做預測增強的世界表徵，採用世界模型原生的 DualAct 架構直接生成機器人動作，在 RoboTwin 2.0 與 LiberoPro 2.0 兩項評測都排名第一。這代表中國在美國晶片管制下，持續以自家昇騰算力推進機器人與具身 AI 的模型生態。\n\n==============================\n【AI 應用與產品】\n==============================\n\n6. Anthropic 替 Claude Code 推出實驗性「Code Mode」：用 JS 程式串接工具、背景任務最長跑 2 小時\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Anthropic Launches Experimental Code Mode for Claude Code](https://x.com/i/trending/2124258285553602864)\n重點摘錄：Claude Code 新增實驗性 Code Mode，AI 會先寫一小段 JavaScript，平行串接 Bash、Edit 等工具呼叫並在步驟間傳遞結果、過濾輸出以節省上下文，減少來回次數。長時間作業可在背景執行最長 2 小時，使用者可以繼續聊天，並用 /tasks 指令查看進度。安全檢查會先審整段腳本，個別呼叫仍遵守使用者規則；設定 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 即可啟用，首次使用會要求確認，適合多檔稽核與平行搜尋。\n\n7. Claude 行動 App 改版：新增對話、專案、程式、Artifacts 四個分頁，手機也能寫程式\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Anthropic Refreshes Claude App with Mobile Coding and Projects Tabs](https://x.com/i/trending/2123879395790402025)\n重點摘錄：Anthropic 更新 iOS 與 Android 版 Claude App，底部新增 Chat、Projects、Code、Artifacts 四個分頁，方便開新工作階段或接續先前工作，並加入浮動式程式輸入框與從主畫面快速啟動裝置的選項。更新將逐步推送給所有用戶，延續先前桌面版的改進，也和 OpenAI 近期 ChatGPT 行動版改版互別苗頭。兩大陣營都在把「寫程式代理」從桌機延伸到手機，搶隨時隨地的工作場景。\n\n8. OpenAI 的 Dots 個人代理登上 Apple CarPlay，開車也能用語音指派任務\n新聞日期：2026-11-21\n新聞來源：[X 新聞：OpenAI Brings Dot AI Assistants to Apple CarPlay for Hands-Free Driving](https://x.com/i/trending/2123951020304994718)\n重點摘錄：ChatGPT 使用者現在可以透過 Apple CarPlay 叫出自己的 Dot 代理，用語音在開車時處理任務。Dots 是常駐、配有雲端電腦的代理，能管理專案、串接各種 App 並主動工作；使用條件是相容的 iPhone、最新版 ChatGPT App 與支援 CarPlay 的車輛。此功能緊接在 dots 擴大推出之後，OpenAI 正把代理從聊天視窗延伸到通勤等更多生活場景。\n\n9. Notion 推出團隊與 AI 代理共用的「共享大腦」：自訂代理、跨 App 搜尋與自動化\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Notion Launches Shared Brain for Teams and AI Agents](https://x.com/i/trending/2123885579960234352)\n重點摘錄：Notion 在 11 月 20 日公布更新，把平台定位成團隊與 AI 代理共用的「共享大腦」，包含自訂代理、跨應用程式搜尋，以及能調用團隊集體知識的自動化功能，並同步發布如何建立共享上下文系統的實作指南，讓人和 AI 協作時不必反覆重新說明背景。生產力軟體正從「人用的筆記」轉向「人與代理共用的知識層」，與微軟、Google 的代理平台正面競爭。\n\n10. AWS Marketplace 開放 AI 代理自主採購軟體\n新聞日期：2026-11-19\n新聞來源：[Fortune：Exclusive: AWS Marketplace lets AI agents buy software autonomously](https://www.fortune.com/2026/11/19/aws-marketplace-rolls-out-ai-agents-to-shop-for-software-autonomously/)\n重點摘錄：AWS 宣布 Marketplace 讓 AI 代理可以自行搜尋並購買軟體、API、資料與內容。依 AWS 官方技術文件，代理可透過 Amazon Bedrock AgentCore Payments 建立帶有支出上限的付款工作階段，購買支援 x402 的商品，費用以美元直接記在開發者的 AWS 帳單上。這是雲端大廠正式開放「代理自主交易」的重要一步，也讓企業採購流程開始需要為 AI 設定預算與權限控管。\n\n11. Meta 穿戴式 AI 裝置 Muse Charm 傳定價 300 美元、附最多 12 個月 Verizon 5G（傳聞）\n新聞日期：2026-11-19\n新聞來源：[TechCrunch：Meta's new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)\n重點摘錄：據 The Information 報導、TechCrunch 與 The Verge 轉述，Meta 計畫將新款穿戴式 AI 裝置 Muse Charm 定價 300 美元，並附贈最多 12 個月的 Verizon 5G 數據服務；裝置整合 Muse 代理，可即時語音對話。Meta 官方尚未公布價格，官網目前只有「搶先得知」登記頁。若屬實，Meta 將以低於手機的價格切入 AI 隨身裝置，與 OpenAI、Nothing 等新硬體競爭。\n\n12. 字節豆包「工作台」上線：首批覆蓋金融、醫療、教育等 21 個專業場景\n新聞日期：2026-11-21\n新聞來源：[鈦媒體：【數智週報】Anthropic 敲響那斯達克開市鐘…](https://www.tmtpost.com/8213535.html)\n重點摘錄：豆包工作已在電腦版上線「工作台」功能，首批覆蓋金融、醫療、教育、創意設計、行銷、法務、資料分析等 21 個專業場景，依職業預設技能與工具。金融投研台接入萬得、同花順等資料外掛，醫生台提供指南檢索與文獻解讀，教師台可結合學科網生成教案課件，用戶也能自建並分享專屬工作台。中國 AI 助理正從通用聊天走向「職業化工作流」，與 ChatGPT for Accounting 等垂直產品方向一致。\n\n==============================\n【台灣 AI 供應鏈與半導體】\n==============================\n\n13. 金管會祭第 3 波限空令：11 月 23 日起全面禁止平盤以下放空、融券保證金升至 150%（後續）\n新聞日期：2026-11-21\n新聞來源：[金管會：為維護市場交易秩序，金管會宣布「全面禁止平盤以下放空」等 5 項措施](https://www.fsc.gov.tw/ch/home.jsp?dataserno=202611210001&dtable=News&id=96&mcustomize=news_view.jsp&parentpath=0)\n重點摘錄：台股一週重挫約 17.5% 後，金管會 21 日宣布第 3 波穩定措施：自 11 月 23 日起，投資人融券或借券賣出上市、上櫃股票及台灣存託憑證，賣出價不得低於前一營業日收盤價，券商與期貨商的避險交易不受限；最低融券保證金成數由 130% 提高到 150%。X 彙整另指出，國安基金（規模 5,000 億元）已進場護盤。這是繼限空令 2.0 之後再加碼，週一開盤將是 AI 權值股能否止跌的關鍵。\n\n14. 台積電 ADR 週五再跌 9.48% 收 318.71 美元、創 4 月以來低點，台積電單週重挫 15.8%\n新聞日期：2026-11-21\n新聞來源：[鉅亨網：台積電周線重挫15.8%！台股創36年最慘單周紀錄、美收緊AI晶片出口管制添壓](https://news.cnyes.com/news/id/6669709)\n重點摘錄：鉅亨網引述 Benzinga 報導，台股加權指數週五收在 36,033 點，本週累跌約 17.5%，創 1990 年以來最大單週跌幅；台積電週五跌 4.76%，全週跌 15.8%。台積電 ADR 週五收 318.71 美元，跌至 4 月 2 日以來最低，跌破 200 日均線，較 20 日均線 392.34 美元低約 15.8%，與 10 月高點 487.47 美元相比明顯回檔。美國 BIS「遠端存取先進半導體」臨時最終規則 11 月 19 日生效，把門檻調到 16 奈米並取消一項豁免，是半導體股的主要壓力。\n\n15. 台積電 ADR 盤後反彈約 3%：安聯揭露新進場、副總裁公開市場買進，分析師平均目標價約 534 美元\n新聞日期：2026-11-21\n新聞來源：[Investing.com：台積電 (TSM) 盤後為何上漲？](https://hk.investing.com/equities/taiwan-semicond.manufacturing-co)\n重點摘錄：台積電 ADR 在盤中一度跌到七個月低點 318.48 美元後，盤後反彈，Investing.com 頁面顯示盤後報 330.18 美元、漲 3.6%。報導指出，安聯集團（Allianz SE）揭露在 11 月 21 日新買進 TSM 股份，一名公司副總裁也在前一交易日於公開市場買進；分析師普遍維持「買入」，平均目標價約 533.89 美元，伯恩斯坦先前將目標價上調至 600 美元，並稱台積電是 AI 供應鏈的「避風港」。超賣後的逢低買盤能否延續到週一台股，值得觀察。\n\n==============================\n【晶片與算力基礎建設】\n==============================\n\n16. SpaceX 敲定 440 億美元 GPU 融資買輝達 Vera Rubin，貸方要求晶片不得送上太空（後續）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：SpaceX Secures Record $44 Billion for NVIDIA GPUs with Earthbound Safeguards](https://x.com/i/trending/2123762717333053449)\n重點摘錄：SpaceX 在 11 月 20 日完成 440 億美元融資，由 Apollo 與高盛主導，用來購買輝達 Vera Rubin 晶片建置地面資料中心。因 BlackRock、KKR 等投資人需求踴躍，規模由原先的 400 億美元擴大，租賃付款自 2027 年開始。貸方特別要求保護條款，禁止 SpaceX 把晶片發射到軌道資料中心，理由是一旦需要很難回收；SpaceX 也確認硬體會留在地面。這是 AI 晶片「表外融資」規模再創紀錄的案例。\n\n17. 甲骨文週五盤後發文：OpenAI 資料中心資金已全數到位，反駁相關報導\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Oracle Assures Full Funding for OpenAI Data Centers Amid Skepticism](https://x.com/i/trending/2123903244107919568)\n重點摘錄：甲骨文週五收盤後發文，表示已透過 11 月的增資取得 OpenAI 基礎建設所需的全部資金，並稱相反的報導「錯誤」。公司也說明德州據點進度，包括 OpenAI 訓練 Astra-6 模型的 Abilene 園區接近完工，輝達機櫃即將交付。X 彙整指出，這則聲明在收盤後一分鐘發出，甲骨文當天股價一度下跌 8.5%，盤後才反彈，市場對 AI 資料中心融資能力的疑慮仍高。\n\n18. 美光跌破 600 美元、單日重挫逾 10%：TrendForce 預警 2027 年 NAND 價格跌 20%\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Micron Shares Plunge Over 10% Below $600 in AI Chip Selloff](https://x.com/i/trending/2123856923032273045)\n重點摘錄：美光股價從約 690 美元的收盤價一路下殺，盤中低點約 592 美元，延續長達半年的修正，已從先前超過 1,250 美元的高點腰斬。壓力來自 AI 基礎建設支出降溫、TrendForce 預警中國訂單減少將使 2027 年 NAND 快閃記憶體價格下跌 20%，以及半導體類股全面走弱。部分交易員看空到 540 美元，也有人認為只是短期賣壓；美光將在 12 月 17 日公布財報，對台灣記憶體與封測族群也有連動。\n\n19. 記憶體股估值爭議：美光、SanDisk 預估本益比跌到個位數，市場辯論「週期是否已被 AI 改寫」\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Memory Chip Stocks Plunge on Valuation Worries Amid AI Boom](https://x.com/i/trending/2124132281006596161)\n重點摘錄：美光與 SanDisk 股價大幅下挫，預估本益比只剩個位數低段，即便高頻寬記憶體（HBM）與 NAND 營收因 AI 爆發成長。部分投資人認為這和 2018 年景氣高峰相似，當時低本益比後股價仍續跌；另一派則強調 AI 需求持續且有長約鎖定，與過去不同。討論焦點在於 AI 究竟改變了記憶體景氣循環，還是只是延後下一次下行，對南亞科、華邦電等台廠也具參考意義。\n\n20. 輝達連 7 週下跌、市值自 10 月初蒸發 2.6 兆美元：Burry 獲利了結半數空單、ARK 減碼（後續）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Nvidia Stock Plunges After CEO Huang's Resignation](https://x.com/i/trending/2124139953542111294)\n重點摘錄：黃仁勳 11 月 12 日請辭後由 Colette Kress 代理執行長，輝達週五再跌 14% 至約 125 美元，連續 7 週下跌，自 10 月初以來市值蒸發約 2.6 兆美元，跌為全球第 4 大市值公司。另據 X 彙整，Michael Burry 賣出一半輝達賣權與半導體 ETF 賣權獲利了結，但保留到 2027 年 4 月的那斯達克 100 賣權；ARK 旗下 ARKK、ARKW 共賣出約 13.6 萬股輝達、約 1,700 萬美元。另有關於黃仁勳另創晶片公司的說法已被 Kalshi 指為不實，市場關注週一開盤與可能的委託書之爭。\n\n21. AI 資料中心股 IREN 單日重挫 18% 至 11.82 美元，較 70 美元高點跌約八成\n新聞日期：2026-11-21\n新聞來源：[X 新聞：IREN Stock Drops 18% to $11.82 Amid AI Data Center Selloff](https://x.com/i/trending/2123335557161832840)\n重點摘錄：前身為比特幣礦商 Iris Energy 的澳洲公司 IREN，轉型為垂直整合電力、土地、GPU 與軟體的 AI 訓練資料中心業者，股價單日跌 18% 至 11.82 美元，較 70 美元高點跌約 80%，市值約 50 億美元。支持者指出公司握有數十億美元現金、200 億美元已簽約訂單、與微軟的合約及逾 5GW 已取得電力，股價接近淨值；看空者則擔心執行風險與融資需求。新雲端（neocloud）業者在這波 AI 股修正中受傷最重。\n\n==============================\n【投資融資與併購】\n==============================\n\n22. 亞馬遜傳以約 75 億美元收購以色列 AI 新創 Decart，最快下週初完成（傳聞）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Amazon Nears $7.5 Billion Deal for AI Startup Decart](https://x.com/i/trending/2124216009368252717)\n重點摘錄：亞馬遜據報接近以約 75 億美元收購 2023 年成立的以色列新創 Decart，最快下週初完成，交易包含現金、股票與績效獎酬。Decart 的技術能在輝達 GPU、Google TPU 與亞馬遜 Trainium 等不同晶片上最佳化 AI 模型，幫客戶降低成本並輕鬆切換工作負載；它先前獲紅杉、Benchmark 等投資 3 億美元，估值 40 億美元。若成交，將強化亞馬遜自研 Trainium 對抗輝達生態的能力。\n\n23. AI 寫程式新創 Cognition 傳洽募逾 20 億美元、估值 750 億美元（傳聞）\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Cognition AI Eyes $2 Billion Raise at $75 Billion Valuation](https://x.com/i/trending/2123944298504921113)\n重點摘錄：以 Devin 代理聞名的 Cognition 估值從 5 月的 260 億美元、9 月的 480 億美元，一路談到 750 億美元，桌上資金超過 20 億美元。公司 2026 年已募資逾 30 億美元，年化營收接近 10 億美元，客戶包括輝達與花旗。即便公開市場 AI 股重挫，私募市場仍持續押注 AI 寫程式工具，Cognition 的主要對手 Cursor 已被以 600 億美元收購，但也有人質疑估值過高。\n\n24. Databricks 傳洽談以 2,250 億美元估值募資數十億美元（傳聞）\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Databricks in Talks for $225 Billion Valuation Raise](https://x.com/i/trending/2123951021772980406)\n重點摘錄：2013 年成立的 Databricks 正初步洽談募資數十億美元，估值上看 2,250 億美元，較 8 月的 1,900 億美元、2026 年 2 月的 1,340 億美元再跳升；公司 8 月時年化營收已達 70 億美元。Databricks 提供大型資料管理工具並整合 Genie One 等 AI 代理，也串接 OpenAI 與 Anthropic 模型，被視為熱門 IPO 候選，與 Snowflake 正面競爭，顯示企業資料平台仍是 AI 資金追逐的焦點。\n\n25. 孫正義傳曾向華爾街探詢以逾 1 兆美元收購 SK 海力士，目前已暫緩（傳聞）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Masayoshi Son Explored $1 Trillion SK hynix Buyout with Wall Street](https://x.com/i/trending/2123979801656770864)\n重點摘錄：據 X 彙整報導，軟銀集團的孫正義近期曾與華爾街機構討論收購記憶體大廠 SK 海力士的融資方案，交易規模可能超過 1 兆美元，並探詢各方支持意願。不過這項計畫目前已不再積極推進。若成真將是史上最大併購案之一；SK 海力士是輝達 HBM 主要供應商，此傳聞反映 AI 資本對記憶體戰略地位的重視，也與當前記憶體股修正形成對比。\n\n26. 印度團隊創辦的 Arcfront 亮相：替 AI 實驗室打造強化學習環境，年化營收傳達 10 億美元\n新聞日期：2026-11-21\n新聞來源：[X 新聞：Arcfront Launches with AI Data Bridging Benchmarks and Real-World Judgment](https://x.com/i/trending/2123863174470643877)\n重點摘錄：Anshuman Singh 與 Naman Bhalla 共同創辦的 Arcfront 正式亮相，向醫院、工廠、銀行與工程團隊的專業人士蒐集「決策弧線資料」，記錄專家如何評估情境、權衡選項、修正計畫，再轉成強化學習環境賣給 AI 實驗室。成立不到一年，已拿下前五大前沿 AI 實驗室中的四家、逾 300 家企業夥伴與 1,000 多個 RL 環境，年化營收據報達 10 億美元，凸顯「訓練資料與環境」已成新的賣鏟子生意。\n\n27. 百度第三季營收 308 億元人民幣：AI 業務收入 132 億元、AI 雲基礎設施年增 94%\n新聞日期：2026-11-21\n新聞來源：[鈦媒體：【數智週報】Anthropic 敲響那斯達克開市鐘…](https://www.tmtpost.com/8213535.html)\n重點摘錄：百度公布 2026 年第三季財報，總營收 308 億元人民幣，一般性業務收入 250 億元、年增 1%，優於預期。AI 業務收入 132 億元，占一般性業務收入 53%，已連續三季過半；其中 AI 雲基礎設施收入 82 億元，年增 94%，比上一季的 50% 明顯加速，AI 應用收入 26 億元、AI 原生行銷服務收入 24 億元。李彥宏表示全端 AI 長期投入正轉化為規模化成長。\n\n28. 阿里巴巴上季營收 2,715.2 億元人民幣：雲端收入年增 53%、AI 相關產品連 13 季三位數成長\n新聞日期：2026-11-21\n新聞來源：[鈦媒體：【數智週報】Anthropic 敲響那斯達克開市鐘…](https://www.tmtpost.com/8213535.html)\n重點摘錄：阿里巴巴 2027 財年第二季營收 2,715.2 億元人民幣、年增 10%，經營利潤 291.16 億元、年增 443%，調整後淨利 199.1 億元、年增 92%。AI 雲與運算服務收入 609.73 億元、年增 53%，外部商業化收入年增 64%，創近六年最快；AI 相關產品收入超過 179 億元，連續第 13 季三位數年增。中國雲端大廠 AI 收入加速，與美國 AI 股的修正形成鮮明對比。\n\n==============================\n【政策法規與安全】\n==============================\n\n29. 川普揚言對海外蓋資料中心的美國企業課「重稅」，要把 AI 基礎建設留在美國\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Trump Announces Heavy Taxes on Overseas Data Centers to Protect U.S. AI Lead](https://x.com/i/trending/2123979806383775851)\n重點摘錄：川普週五在白宮記者會上提議，對在海外興建資料中心的美國公司祭出「巨大的懲罰或稅負」，以免中國主導他口中的「超級智慧」關鍵基礎設施；他拿過去晶片製造外移的教訓類比，呼籲企業到德州、加州、西維吉尼亞等州投資，也要地方社區歡迎資料中心帶來的就業與稅收。不過課稅細節與執行方式都還不明，對在東南亞、中東布局的雲端業者與台灣伺服器廠海外產能都可能有影響。\n\n30. 美眾院委員會聯合報告：中國開放權重模型占美企工作負載升至 30%，建議禁用於聯邦系統\n新聞日期：2026-11-21\n新聞來源：[X 新聞：US Lawmakers Push Crackdown on Chinese Open-Weight AI Models](https://x.com/i/trending/2123797469125575004)\n重點摘錄：美國眾議院多個委員會 11 月 20 日發布聯合調查報告，指美國企業使用中國開放權重模型的比例，從 2024 年底的 1% 工作負載暴增到 2025 年底的 30%，構成國安風險。報告點名 Cursor 的 Composer 2 以月之暗面 Kimi K2.5 為基礎、現計畫逐步淘汰，Airbnb、DoorDash 也受到檢視；建議在聯邦系統與關鍵基礎設施禁用中國模型。開放模型的地緣政治審查正快速升溫。\n\n31. 參議員 Cotton 指控商務部長 Lutnick 無視 AI 晶片走私警告，近 58 萬顆晶片核准給涉軍企業（後續）\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Senator Cotton Accuses Commerce Secretary Lutnick of Ignoring AI Chip Smuggling Warnings to China](https://x.com/i/trending/2123553482196091086)\n重點摘錄：參院情報委員會主席 Cotton 指控商務部長 Lutnick 忽視空殼公司走私輝達等美國 AI 晶片到中國的警示，2026 年初的核准量中，有近 58 萬顆流向與中國軍方有關的企業，輝達與 AMD 合計約 88 萬顆。批評者也質疑 Lutnick 的 Cantor Fitzgerald 減持相關持股的時機。川普力挺 Lutnick，民主黨則追查財務關係，兩黨都在推動更嚴格的出口管制。\n\n32. Chainalysis：前沿模型發布後 3 天，疑似中國錢包的穩定幣付款比平常高 55%，用來繞過 AI 服務封鎖\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Chinese Users Use Stablecoins to Bypass U.S. AI Export Bans](https://x.com/i/trending/2124188302559625510)\n重點摘錄：Chainalysis 資料顯示，每當前沿模型發布後的頭 3 天，疑似與中國有關的錢包付款金額比平常高出 55%，流向能解鎖 ChatGPT、Claude、Gemini 的代理服務。這些服務透過中介帳號轉送查詢，受調查的 100 家業者中有 40% 接受加密貨幣（多為穩定幣），提供較便宜的隨用隨付額度。這揭露了一個繞過美國限制的影子市場，也讓監管機構更關注 AI 存取與加密支付的交集。\n\n33. Signal 預設封鎖截圖，防止手機內建 AI 讀取加密對話\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Signal Blocks Screenshots to Shield Chats from Phone AI](https://x.com/i/trending/2124230777613451574)\n重點摘錄：Signal 在 iOS 27 與支援的 Android 版本上預設停用截圖，避免系統 AI 掃描螢幕上已解密的訊息；iPhone 上會自動開啟「Block Siri AI」設定，阻擋截圖、錄影與 App 預覽，Android 則在助理首次嘗試存取時跳出提示。Signal 總裁 Meredith Whittaker 形容內建 AI 代理對隱私「有敵意」，呼籲蘋果、Google、微軟提供更好的退出機制。作業系統級 AI 代理與隱私 App 的衝突正浮上檯面。\n\n==============================\n【研究突破】\n==============================\n\n34. Alpöge 宣布藉 Claude 完成黎曼猜想的 Lean 形式化證明，引發 AI 數學能力論戰\n新聞日期：2026-11-22\n新聞來源：[X 新聞：Claude AI Aids Proof of Riemann Hypothesis in Math Breakthrough](https://x.com/i/trending/2124185828528144688)\n重點摘錄：據 X 彙整，Alpöge 在 11 月 20 日宣布，與 Claude 合作完成黎曼猜想及其廣義形式的形式化證明，在 Lean 證明輔助工具中長達數百萬行。iyooo 萬象的 11 月 21 日彙整則提到，史丹福大學數小時後也發布全人工對照證明。這項成果重新點燃大型語言模型是否具備真正智慧、還是只是進階模式比對的爭論；目前仍待數學界同儕審查確認，請保守看待。\n\n35. METR：AI 代理可完成的任務時長約每 3.6 個月翻倍，頂尖模型已達 40 小時\n新聞日期：2026-11-21\n新聞來源：[X 新聞：AI Agents Double Task Times Every 3.6 Months, METR Reports](https://x.com/i/trending/2123917203900920314)\n重點摘錄：非營利機構 METR 在 11 月 20 日發表研究，AI 代理在結合寫程式、數學與判斷的任務上，「時間視野」大約每 3.6 個月翻倍；GPT-6 Astra 與 Opus 5.5 等領先模型已達 40 小時，若趨勢延續，2027 年中可能達到 200 小時任務。不過進步主要集中在可驗證的技能，開放式判斷仍弱，研究者 Ramez Naam 提醒不要從實驗室數據高估真實世界的進展。\n\n36. MIT CSAIL 論文：設計良好的代理「框架」能讓模型推廣到長 8–64 倍的任務，27B 模型長上下文進步 27%\n新聞日期：2026-11-21\n新聞來源：[X 新聞：MIT Paper Shows Language Model Harnesses Boost Generalization](https://x.com/i/trending/2123819680590921853)\n重點摘錄：MIT CSAIL 的 Alex L. Zhang、Souradip Chakraborty 與 Omar Khattab 發表論文，主張設計良好的 harness（代理框架）透過上下文卸載、遞迴呼叫子代理等抽象，讓提示保持在模型熟悉的分布內，避免一般代理因上下文越來越長而出錯。在 OOLONG、OBLiQ-Bench 等基準上，模型可推廣到長 8–64 倍的任務，一個 270 億參數模型在長上下文測試進步 27% 且用更少 token。作者強調框架設計與模型學習密不可分，不會因模型變強而過時。\n"
